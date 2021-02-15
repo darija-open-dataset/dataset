@@ -5,7 +5,7 @@ import os
 num_lines = 0
 for file in os.listdir("."):
     if file.endswith(".csv"):
-        for line in open(file):
+        for line in open(file, encoding="utf8"):
             if line.strip() == '':
                 continue
             num_lines += 1
