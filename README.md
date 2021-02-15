@@ -13,25 +13,18 @@ This open source project aims to be a reference in addressing this issue. We hop
 
 ---
 
-## How to contibute
+## How to contribute
 
 .. add a wiki page to explain the process : fork, clone, edit, push, pull request
 
 ---
 
 ## Guidelines / Recommendations
-- 3ndk ح dir ح xD (shout-out to [this guy](https://www.facebook.com/watch/?v=238961807618014) 😆), often try to use :
+- 3ndk ح dir ح xD (shout-out to [this guy](https://www.facebook.com/watch/?v=238961807618014) 😆), often try to use:
 
 darija | 3 | 7 | 9 | 8 | 2 - 'a' - 'i' | 5 - 'kh'
 --- | --- | --- | --- |--- |--- |---
 arabic | ع | ح | ق | ه | همزة |  خ  
-
-
-- Double characters to refer to the emphasis or "الشدة":
-
-darija | 7mam | 7mmam
---- | --- | ---
-english | pigeons | bathroom
 
 
 - Try to use capitalization to differentiate between the following letters:
@@ -41,10 +34,25 @@ english | pigeons | bathroom
 | ت | ط | س | ص | د | ض |
 
 
+- Arabic characters with two-letters Latin equivalent:
+
+Arabic alphabet | ش | غ | خ
+--- | --- | --- | ---
+Latin alphabet | ch | gh | kh
+
+
+- Double characters to refer to the emphasis or "الشدة":
+
+darija | 7mam | 7mmam
+--- | --- | ---
+english | pigeons | bathroom
+
+
+
 - We usually don't add "e" in the end of darija words : `louz` instead of `louze`
 
 - We usually don't use "Z" or "th" for ظ ، ذ ، ث ,
-because we generally don't use these letters in darija (except in northern Morocco, but for the sake of simplicity, we are focusing primarily on standard darija) 
+because we generally don't use these letters in darija (except in northern Morocco, but for the sake of simplicity, we are focusing primarily on standard darija)
 
 - We do NOT use apostrophes. In fact, since we are working on `csv` files, apostrophes will break off words
 
@@ -56,18 +64,15 @@ because we generally don't use these letters in darija (except in northern Moroc
 - In every row, always start with the most used form (in your opinion of course) of the word in question
 
 
-- For future use of this dataset to train deep neural networks, try to reserve each row to similar variations of the same word. For instance, "sou9" and "marchi" both translate to "market", yet it's better to separate them into two different rows :
+- For future use of this dataset to train deep neural networks, try to reserve each row to similar variations of the same word. For instance, "sou9" and "marchi" both translate to "market", yet it's better to separate them into two different rows:
 
 > "sou9","souk","souq","market"
 
 > "marchi","","","market"
 
 
-- We usually reserve the last column in the `verbs` file to imperatives "fi3l amr", unless it's the same as the first column
+- `verbs_1.csv`: The darija translation is reserved to the past tense of the third pronoun "he", whereas the other pronouns and tenses are handled in separate files. The English translation present the basic form (or root) of the English verb.
 
-> "ghnna","ghenna","ghanna","ighanni","ighenni","ghenni","sing"
+> "ghnna","ghenna","ghanna","","","","sing"
 
-> "z3m","z3em","z3am","iz3em","iz3m","","dare"
-
-
-- We usually reserve the first column in the `verbs` file to the past tense, then add few variations in past and present tenses, and finally translate to the basic form (or root) of the english verb  
+- `male_female_plural.csv`: If it does exist, female-plural translation column is for nouns. Regarding adjectives female-plural = female.
