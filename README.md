@@ -15,7 +15,7 @@ This open source project aims to be a reference in addressing this issue. We hop
 
 ## How to contribute
 
-.. add a wiki page to explain the process : fork, clone, edit, push, pull request
+[We've made a tutorial for you in DODa's website](https://darija-open-dataset.github.io/examples/tutorial.html)
 
 ---
 
