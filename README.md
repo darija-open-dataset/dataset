@@ -12,7 +12,7 @@ However, it turns out that step 0 in any serious engagement with darija in NLP i
 This open source project aims to be a reference in addressing this issue. We hope for the contribution of the Moroccan IT community in order to build up the largest dataset of darija-english vocabulary which will serve as a pedestal for any future application of NLP to benefit Moroccan people.
 
 ---
-[![DODa video](./images/video_img.PNG)](https://www.youtube.com/watch?v=IZWuEy7yLB0)
+[![DODa video](./images/video_img.png)](https://www.youtube.com/watch?v=IZWuEy7yLB0)
 
 ---
 
