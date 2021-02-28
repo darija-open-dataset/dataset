@@ -75,4 +75,4 @@ because we generally don't use these letters in darija (except in northern Moroc
 
 > "ghnna","ghenna","ghanna","","","","sing"
 
-- `male_female_plural.csv`: If it does exist, female-plural translation column is for nouns. Regarding adjectives female-plural = female.
+- `masculine_feminine_plural.csv`: If it does exist, feminine-plural translation column is for nouns. Regarding adjectives feminine-plural = feminine.
