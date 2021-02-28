@@ -1,7 +1,7 @@
 # darija-dictionary
 
 <p>
-  <img width="150" align='right' src="./images/flag.png">
+  <img width="150" align='right' src="./images/doda_logo.png">
   <!--- credits to [https://www.freeflagicons.com/country/morocco/sphere_icon/download/] --->
 </p>
 
