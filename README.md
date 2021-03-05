@@ -74,7 +74,7 @@ because we generally don't use these letters in darija (except in northern Moroc
 > "marchi","","","market"
 
 
-- `verbs_1.csv`: The darija translation is reserved to the past tense of the third pronoun "he", whereas the other pronouns and tenses are handled in separate files. The English translation present the basic form (or root) of the English verb.
+- `verbs.csv`: The darija translation is reserved to the past tense of the third pronoun "he", whereas the other pronouns and tenses are handled in separate files. The English translation present the basic form (or root) of the English verb.
 
 > "ghnna","ghenna","ghanna","","","","sing"
 
