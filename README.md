@@ -5,9 +5,9 @@
   <!--- credits to [https://www.freeflagicons.com/country/morocco/sphere_icon/download/] --->
 </p>
 
-Having advanced IT solutions that are well adapted to the Moroccan context inevitably passes through understanding the dialect of this country. In other words, darija (Moroccan dialect) should be an active player in the field of Natural Language Processing (NLP).
+Having advanced IT solutions that are well adapted to the Moroccan context passes inevitably through understanding Moroccan dialect. Hence, darija (Moroccan dialect) should be an active player in the domain of Natural Language Processing (NLP).
 
-However, it turns out that step 0 in any serious engagement with darija in NLP is to have the vocabulary translated from darija to the widely used and most documented language in this field, namely English.
+However, it turns out that step 0 in any serious engagement with darija in NLP will consist of translating its vocabulary to the widely used and most documented language in this field, namely English.
 
 This open source project aims to be a reference in addressing this issue. We hope for the contribution of the Moroccan IT community in order to build up the largest dataset of darija-english vocabulary which will serve as a pedestal for any future application of NLP to benefit Moroccan people.
 
