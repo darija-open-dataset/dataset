@@ -79,3 +79,15 @@ because we generally don't use these letters in darija (except in northern Moroc
 > "ghnna","ghenna","ghanna","","","","sing"
 
 - `masculine_feminine_plural.csv`: If it does exist, feminine-plural translation column is for nouns. Regarding adjectives feminine-plural = feminine.
+
+## Citation
+```
+@misc{outchakoucht2021moroccan,
+      title={Moroccan Dialect -Darija- Open Dataset},
+      author={Aissam Outchakoucht and Hamza Es-Samaali},
+      year={2021},
+      eprint={2103.09687},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
