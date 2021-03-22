@@ -1,29 +1,35 @@
-"n1","n2","n3","n4","eng"
-"dima","","","","always"
-"machi","","","","not"
-"ghaliban","ghaaliban","","","often"
-"9aryban","9ariban","qaryban","qariban","soon"
-"bkri","bekri","barki","","early"
-"bchwia","","","","slowly"
-"bl8adawa","","","","carefully"
-"imkn","yemken","imken","","perhaps"
-"8na","","","","here"
-"l8i8","lhih","","","there"
-"9rib","","","","nearby"
-"lfo9","lfou9","lfog","lfoug","upstairs"
-"mn b3d","men be3d","mn be3d","","later"
-"daba","","","","now"
-"chwia","","","","a little"
-"bzzaf","bzaf","","","a lot"
-"kolliyan","","","","totally"
-"flblaSa","","","","instantly"
-"t9riban","ta9riban","te9riban","taqriban","almost"
-"mrra mrra","","","","sometimes"
-"naadiran","nadiran","","","rarely"
-"walakin","","","","however"
-"walakin","","","","but"
-"zid 3liha","","","","in addition"
-"kafi","kaafi","","","enough"
-"ga3","","","","never"
-"dghya","deghya","dghia","daghya","quickly"
-"bzrba","bzzerba","bzzarba","bzerba","quickly"
+n1,n2,n3,n4,eng
+dima,dayman,,,always
+machi,,,,not
+ghaliban,ghaaliban,,,often
+9aryban,9ariban,qaryban,qariban,soon
+bkri,bekri,barki,,early
+bchwia,,,,slowly
+bl8adawa,,,,carefully
+imkn,yemken,imken,,perhaps
+8na,,,,here
+l8i8,lhih,,,there
+9rib,,,,nearby
+lfo9,lfou9,lfog,lfoug,upstairs
+mn b3d,men be3d,mn be3d,,later
+daba,,,,now
+chwia,,,,a little
+bzzaf,bzaf,,,a lot
+kolliyan,,,,totally
+flblaSa,,,,instantly
+t9riban,ta9riban,te9riban,taqriban,almost
+mrra mrra,,,,sometimes
+naadiran,nadiran,,,rarely
+walakin,,,,however
+walakin,,,,but
+zid 3liha,,,,in addition
+kafi,kaafi,,,enough
+ga3,,,,never
+dghya,deghya,dghia,daghya,quickly
+bzrba,bzzerba,bzzarba,bzerba,quickly
+9bel,,,,before
+mnb3d,,,,after
+9ariban,,,,soon
+mazal,,,,still
+mazal,,,,yet
+akhiran,,,,finally
