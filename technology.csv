@@ -1,21 +1,24 @@
-"n1","n2","n3","n4","eng"
-"t3li9","ta3li9","te3li9","taaliq","comment"
-"tlfaza","telfaza","","","television"
-"tilifon","","","","phone"
-"kabl","","","","cable"
-"priz","","","","power plug"
-"charjour","charjor","","","charger"
-"intirnit","antirnit","","","internet"
-"vidio","","","","video"
-"odiyo","odio","odyo","","audio"
-"watsap","","","","whatsapp"
-"fisbok","fisbouk","","","facebook"
-"chacha","chaacha","","","screen"
-"lizyat","liziat","lliziat","","headphones"
-"lizikottour","lizikotour","lizikotor","","headphones"
-"matiryal","mataryan","","","hardware"
-"portabl","portable","","","cell phone"
-"bla slk","bla selk","bla salk","","wireless"
-"slk","selk","salk","","wire"
-"batri","","","","battery"
-"boton","bouton","botona","boutoun","button"
+n1,n2,n3,n4,eng
+t3li9,ta3li9,te3li9,taaliq,comment
+tlfaza,telfaza,,,television
+tilifon,,,,phone
+kabl,,,,cable
+priz,,,,power plug
+charjour,charjor,,,charger
+intirnit,antirnit,,,internet
+vidio,,,,video
+odiyo,odio,odyo,,audio
+watsap,,,,whatsapp
+fisbok,fisbouk,,,facebook
+chacha,chaacha,,,screen
+lizyat,liziat,lliziat,,headphones
+lizikottour,lizikotour,lizikotor,,headphones
+matiryal,mataryan,,,hardware
+portabl,portable,,,cell phone
+bla slk,bla selk,bla salk,,wireless
+slk,selk,salk,,wire
+batri,,,,battery
+boton,bouton,botona,boutoun,button
+tilicomand,telecomand,telecomond,,remote control
+nitflix,,,,netflix
+parabol,,,,tv receiver
