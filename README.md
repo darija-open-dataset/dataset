@@ -63,16 +63,13 @@ because we generally don't use these letters in darija (except in northern Moroc
 
 - Respect the number of columns in every row you add, you can use empty quotation marks "" in case you don't have extra variations
 
-
 - In every row, always start with the most used form (in your opinion of course) of the word in question
-
 
 - For future use of this dataset to train deep neural networks, try to reserve each row to similar variations of the same word. For instance, "sou9" and "marchi" both translate to "market", yet it's better to separate them into two different rows:
 
 > "sou9","souk","souq","market"
 
 > "marchi","","","market"
-
 
 - `verbs.csv`: The darija translation is reserved to the past tense of the third pronoun "he", whereas the other pronouns and tenses are handled in separate files. The English translation present the basic form (or root) of the English verb.
 
