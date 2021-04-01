@@ -57,7 +57,9 @@ english | pigeons | bathroom
 - We usually don't use "Z" or "th" for ظ ، ذ ، ث ,
 because we generally don't use these letters in darija (except in northern Morocco, but for the sake of simplicity, we are focusing primarily on standard darija)
 
-- We do NOT use apostrophes. In fact, since we are working on `csv` files, apostrophes will break off words
+- When using apostrophes or commas, don't forget to surround the expression by quotation marks (as we are working on `csv` files)
+
+> "don't"
 
 - We use spaces as word delimiters, not _ nor - : `thank you` instead of `thank_you`
 
