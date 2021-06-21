@@ -27,7 +27,7 @@ This open source project aims to be a reference in addressing this issue. We hop
 
 darija | 3 | 7 | 9 | 8 | 2 - 'a' - 'i' | 5 - 'kh'
 --- | --- | --- | --- |--- |--- |---
-arabic | ع | ح | ق | ه | همزة |  خ  
+arabic | ع | ح | ق | غ | همزة |  خ  
 
 
 - Try to use capitalization to differentiate between the following letters:
