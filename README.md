@@ -1,15 +1,14 @@
-# darija-dictionary
+# Darija Open Dataset
 
 <p>
   <img width="150" align='right' src="./images/doda_logo.png">
   <!--- credits to [https://www.freeflagicons.com/country/morocco/sphere_icon/download/] --->
 </p>
 
-Having advanced IT solutions that are well adapted to the Moroccan context passes inevitably through understanding Moroccan dialect. Hence, darija (Moroccan dialect) should be an active player in the domain of Natural Language Processing (NLP).
+Darija Open Dataset (DODa) is an open-source project for the Moroccan dialect. With more than 18,000 entries DODa is arguably the largest open-source collaborative project for Darija <=> English translation built for Natural Language Processing purposes. In fact, besides semantic categorization, DODa also adopts a syntactic one, presents words under different spellings, offers verb-to-noun and masculine-to-feminine correspondences, contains the conjugation of hundreds of verbs in different tenses, as well as more that 7000 translated sentences.
 
-However, it turns out that step 0 in any serious engagement with darija in NLP will consist of translating its vocabulary to the widely used and most documented language in this field, namely English.
 
-This open source project aims to be a reference in addressing this issue. We hope for the contribution of the Moroccan IT community in order to build up the largest dataset of darija-english vocabulary which will serve as a pedestal for any future application of NLP to benefit Moroccan people.
+This open source project aims to be a reference in NLP Darija. We hope for the contribution of the Moroccan IT community in order to provide a pedestal for any future application of NLP for the benefit of Moroccans.
 
 ---
 [![DODa video](./images/video_img.png)](https://www.youtube.com/watch?v=IZWuEy7yLB0)
