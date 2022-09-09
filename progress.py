@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Needs to be updated to support folders
 # counting all the lines in the csv files
 import os
 num_lines = 0
