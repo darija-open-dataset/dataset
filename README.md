@@ -5,9 +5,9 @@
   <!--- credits to [https://www.freeflagicons.com/country/morocco/sphere_icon/download/] --->
 </p>
 
-Darija Open Dataset (DODa) is an open-source project for the Moroccan dialect. With more than 18,000 entries DODa is arguably the largest open-source collaborative project for Darija <=> English translation built for Natural Language Processing purposes. 
+Darija Open Dataset (DODa) is an open-source project for the Moroccan dialect. With more than 21,000 entries DODa is arguably the largest open-source collaborative project for Darija <=> English translation built for Natural Language Processing purposes. 
 
-In fact, besides semantic categorization, DODa also adopts a syntactic one, presents words under different spellings, offers verb-to-noun and masculine-to-feminine correspondences, contains the conjugation of hundreds of verbs in different tenses, as well as more that 7000 translated sentences.
+In fact, besides semantic categorization, DODa also adopts a syntactic one, presents words under different spellings, offers verb-to-noun and masculine-to-feminine correspondences, contains the conjugation of hundreds of verbs in different tenses, as well as more that 10,000 translated sentences.
 
 
 This open source project aims to be a reference in NLP Darija. We hope for the contribution of the Moroccan IT community in order to provide a pedestal for any future application of NLP for the benefit of Moroccans.
