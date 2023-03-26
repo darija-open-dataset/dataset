@@ -13,7 +13,9 @@ In fact, besides semantic categorization, DODa also adopts a syntactic one, pres
 This open source project aims to be a reference in NLP Darija. We hope for the contribution of the Moroccan IT community in order to provide a pedestal for any future application of NLP for the benefit of Moroccans.
 
 ---
-[./images/wordcloud.png](./images/wordcloud.png)
+<p align="center">
+  <img src="./images/wordcloud.png" alt="image_description" />
+</p>
 
 [Check out this introductory video about DODa.](https://www.youtube.com/watch?v=IZWuEy7yLB0)
 
