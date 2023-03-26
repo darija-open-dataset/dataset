@@ -14,7 +14,7 @@ This open source project aims to be a reference in NLP Darija. We hope for the c
 
 ---
 <p align="center">
-  <img src="./images/wordcloud.png" alt="image_description" />
+  <img src="./images/wordcloud.png" alt="wordcloud of DODa."  width="100%" />
 </p>
 
 [Check out this introductory video about DODa.](https://www.youtube.com/watch?v=IZWuEy7yLB0)
