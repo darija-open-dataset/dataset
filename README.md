@@ -28,28 +28,28 @@ This open source project aims to be a reference in NLP Darija. We hope for the c
 ---
 
 ## Guidelines / Recommendations
-- 3ndk ح dir ح xD (shout-out to [this guy](https://www.facebook.com/watch/?v=238961807618014) 😆), often try to use:
+1. 3ndk ح dir ح xD (shout-out to [this guy](https://www.facebook.com/watch/?v=238961807618014) 😆), often try to use:
 
 darija | 3 | 7 | 9 | 8 | 2 - 'a' - 'i' | 5 - 'kh'
 --- | --- | --- | --- |--- |--- |---
 arabic | ع | ح | ق | ه | همزة |  خ  
 
 
-- Try to use capitalization to differentiate between the following letters:
+2. Try to use capitalization to differentiate between the following letters:
 
 | t | T | s | S | d | D |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | ت | ط | س | ص | د | ض |
 
 
-- Arabic characters with two-letters Latin equivalent:
+3. Arabic characters with two-letters Latin equivalent:
 
 Arabic alphabet | ش | غ | خ
 --- | --- | --- | ---
 Latin alphabet | ch | gh | kh
 
 
-- Double characters to refer to the emphasis or "الشدة":
+4. Double characters to refer to the emphasis or "الشدة":
 
 darija | 7mam | 7mmam
 --- | --- | ---
@@ -57,32 +57,34 @@ english | pigeons | bathroom
 
 
 
-- We usually don't add "e" in the end of darija words : `louz` instead of `louze`
+5. We usually don't add "e" in the end of darija words : `louz` instead of `louze`
 
-- We usually don't use "Z" or "th" for ظ ، ذ ، ث ,
+6. We usually don't use "Z" or "th" for ظ ، ذ ، ث ,
 because we generally don't use these letters in darija (except in northern Morocco, but for the sake of simplicity, we are focusing primarily on standard darija)
 
-- When using apostrophes or commas, don't forget to surround the expression by quotation marks (as we are working on `csv` files)
+7. When using commas, don't forget to surround the expression by quotation marks (as we are using `csv` files)
 
-> "don't"
+8. We use spaces as word delimiters, not _ nor - : `thank you` instead of `thank_you`
 
-- We use spaces as word delimiters, not _ nor - : `thank you` instead of `thank_you`
+9. Respect the number of columns in every row you add, you can use empty quotation marks "", or just empty placeholder, in case you don't have extra variations
 
-- Respect the number of columns in every row you add, you can use empty quotation marks "" in case you don't have extra variations
+> "sou9","souk","","market"
 
-- In every row, always start with the most used form (in your opinion of course) of the word in question
+> sou9,souk,,market
 
-- For future use of this dataset to train deep neural networks, try to reserve each row to similar variations of the same word. For instance, "sou9" and "marchi" both translate to "market", yet it's better to separate them into two different rows:
+10. In each row, always start with the most used form (in your opinion of course) of the word in question
 
-> "sou9","souk","souq","market"
+11. For future use of this dataset to train deep neural networks, try to reserve each row to similar variations of the same word. For instance, "sou9" and "marchi" both translate to "market", yet it's better to separate them into two different rows:
 
-> "marchi","","","market"
+> sou9,souk,souq,market
 
-- `verbs.csv`: The darija translation is reserved to the past tense of the third pronoun "he", whereas the other pronouns and tenses are handled in separate files. The English translation present the basic form (or root) of the English verb.
+> marchi,,,market
 
-> "ghnna","ghenna","ghanna","","","","sing"
+12. `verbs.csv`: The darija translation is reserved to the past tense of the third pronoun "he", whereas the other pronouns and tenses are handled in separate files. The English translation present the basic form (or root) of the English verb.
 
-- `masculine_feminine_plural.csv`: If it does exist, feminine-plural translation column is for nouns. Regarding adjectives feminine-plural = feminine.
+> ghnna,ghenna,ghanna,,,,sing
+
+13. `masculine_feminine_plural.csv`: If it does exist, feminine-plural translation column is for nouns. Regarding adjectives feminine-plural = feminine.
 
 ## Citation
 ```
