@@ -5,7 +5,7 @@ wldi,waldi,weldi,my son
 lwalid,,,father
 lwalida,,,mother
 baba,bba,,dad
-mama,mmi,,mom
+mama,mmi,mma,mom
 khouya,5ouya,khoya,my brother
 khti,5ti,,my sister
 3mi,aami,3mmi,my uncle
@@ -24,8 +24,12 @@ bnt khalti,bnt 5alti,,my cousin
 zawja,zzawja,,wife
 lmra,lemra,lamra,wife
 zawjati,,,my wife
+merti,mrati,,my wife
+madam,madamti,,my wife
 zawj,zzawj,,husband
 rrajl,arrajel,rrajal,husband
+khatibi,,,fiancé 
+khatibti,,,fiancée 
 mjwwj,mzwwj,mjawwej,married
 mjwwja,mzwwja,mjawweja,married
 3zri,3azri,3ezri,single
@@ -38,4 +42,5 @@ khwal,5wal,,uncles
 7fid,hfid,7afid,grandchild
 jdd,jedd,jadd,grandfather
 jdda,jedda,jadda,grandmother
+7enna,3ziza,,grandmother
 nsab,nsaab,,family-in-law
