@@ -86,6 +86,38 @@ because we generally don't use these letters in darija (except in northern Moroc
 
 13. `masculine_feminine_plural.csv`: If it does exist, feminine-plural translation column is for nouns. Regarding adjectives feminine-plural = feminine.
 
+## PyDODa - Python wrapper for the DODa
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+Pydoda is a comprehensive Python library that simplifies access and analysis of the DODa dataset. It enables effortless exploration of linguistic content for researchers, developers, and language enthusiasts by providing an intuitive interface for accessing various dataset categories, retrieving spellings and translations.
+
+Integrating Pydoda into your Python workflow grants access to a wide range of functionalities, facilitating insights extraction from the DODa dataset, including semantic and syntactic analysis, translation retrieval, spelling variations exploration, and more.
+
+### Usage example
+Pydoda could easily be installed using `pip`:
+```
+pip install pydoda
+```
+Here is a small code snippet:
+```
+from pydoda import Category
+
+# Create an instance of Category
+my_category = Category('semantic', 'animals')
+
+# Get the Darija translation of a word
+darija_translation = my_category.get_darija_translation('dog')
+print(darija_translation)
+# Output: klb
+
+# Get the English translation of a word
+english_translation = my_category.get_english_translation('mch')
+print(english_translation)
+# Output: 'cat'
+```
+
+For further details, visit the [official Pydoda GitHub repository](https://github.com/saad-out/pydoda) & [official Pydoda documentation](https://saad-out.github.io/pydoda/).
+
 ## Citation
 ```
 @misc{outchakoucht2021moroccan,
