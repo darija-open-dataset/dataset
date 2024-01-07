@@ -1,25 +1,36 @@
-MIT License
+Creative Commons Attribution-NonCommercial 4.0 International License
 
-Copyright (c) 2020 aissam
+Copyright (c) 2024 aissam & hamza
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this Dataset and associated documentation files, to deal
-in without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell any
-software based on the Dataset, and to permit persons to whom the Dataset is
-furnished to do so, subject to the following conditions:
+of this Dataset and associated documentation files, to:
 
-- The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- <b>Share</b> — copy and redistribute the material in any medium or format
 
-- Any use of the Dataset must include attribution of the source of data as follows: 
-"This software includes data sourced from Darija Open Dataset." and a link to 
-DODa's github repository.
+- <b>Adapt</b> — remix, transform, and build upon the material
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+Under the following terms:
+
+- <b>Attribution</b> — You must give appropriate credit, provide a link to the license, 
+and indicate if changes were made. You may do so in any reasonable manner, 
+but not in any way that suggests the licensor endorses you or your use.
+
+- <b>NonCommercial</b> — You may not use the material for commercial purposes.
+
+- <b>No additional restrictions</b> — You may not apply legal terms or technological 
+measures that legally restrict others from doing anything the license permits.
+
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+For commercial use or inquiries related to commercial licensing, please contact 
+the copyright holders, [aissam](https://www.linkedin.com/in/aissam-outchakoucht/) 
+or [hamza](https://www.linkedin.com/in/hamza-es/).
+
+THE DATASET IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.

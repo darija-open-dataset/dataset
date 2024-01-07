@@ -1,75 +1,75 @@
-"n1","n2","n3","n4","eng"
-"ra9m","raqm","","","number"
-"3adad","","","","number"
-"Sifr","","","","zero"
-"ziro","zero","","","zero"
-"wahd","wa7d","","","one"
-"jouj","joj","zouj","","two"
-"tlata","","","","three"
-"rb3a","reb3a","rab3a","","four"
-"khmsa","5msa","khamsa","khemsa","five"
-"stta","seta","setta","satta","six"
-"sb3a","sab3a","seb3a","","seven"
-"tmnia","tmenia","tmania","","eight"
-"ts3oud","ts3od","tas3oud","tes3oud","nine"
-"ts3a","","","","nine"
-"3chra","3achra","aachra","","ten"
-"7Dach","hdach","","","eleven"
-"Tnach","","","","twelve"
-"TlTTach","telTach","tleTTach","tleTach","thirteen"
-"rb3Tach","rba3Tach","rbe3Tach","","fourteen"
-"khmsTach","5msTach","khamsTach","khemsTach","fifteen"
-"sTTach","seTach","sTach","","sixteen"
-"sb3Tach","sbe3Tach","sba3Tach","","seventeen"
-"tmnTach","tmenTach","tmanTach","","eighteen"
-"ts3Tach","tsa3Tach","tse3Tach","","nineteen"
-"3chrin","3achrin","3echrin","3ochrin","twenty"
-"wahd o 3chrin","wahd w 3chrin","wahdo3chrin","wahdw3chrin","twenty one"
-"tnayn o 3chrin","tnayn w 3chrin","tnayno3chrin","tnaynw3chrin","twenty two"
-"tlata o 3chrin","tlata w 3chrin","tlatao3chrin","tlataw3chrin","twenty three"
-"rb3a o 3chrin","rb3a w 3chrin","rb3ao3chrin","rb3aw3chrin","twenty four"
-"khmsa o 3chrin","khmsa w 3chrin","khmsao3chrin","khmsaw3chrin","twenty five"
-"stta o 3chrin","stta w 3chrin","sttao3chrin","sttaw3chrin","twenty six"
-"sb3a o 3chrin","sb3a w 3chrin","sb3ao3chrin","sb3aw3chrin","twenty seven"
-"tmnya o 3chrin","tmnya w 3chrin","tmnyao3chrin","tmnyaw3chrin","twenty eight"
-"ts3oud o 3chrin","ts3oud w 3chrin","ts3oudo3chrin","ts3oudw3chrin","twenty nine"
-"tlatin","","","","thirty"
-"rb3in","rab3in","reb3in","","forty"
-"khmsin","5amsin","khamsin","khemsin","fifty"
-"stin","settin","sattin","sttin","sixty"
-"sb3in","seb3in","sab3in","","seventy"
-"tmanin","tamanin","","","eighty"
-"ts3in","tes3in","tas3in","","ninety"
-"wahd o ts3in","wahd w ts3in","wahdots3in","wahdwts3in","ninety one"
-"tnayn o ts3in","tnayn w ts3in","tnaynots3in","tnaynwts3in","ninety two"
-"tlata o ts3in","tlata w ts3in","tlataots3in","tlatawts3in","ninety three"
-"rb3a o ts3in","rb3a w ts3in","rb3aots3in","rb3awts3in","ninety four"
-"khmsa o ts3in","khmsa w ts3in","khmsaots3in","khmsawts3in","ninety five"
-"stta o ts3in","stta w ts3in","sttaots3in","sttawts3in","ninety six"
-"sb3a o ts3in","sb3a w ts3in","sb3aots3in","sb3awts3in","ninety seven"
-"tmnya o ts3in","tmnya w ts3in","tmnyaots3in","tmnyawts3in","ninety eight"
-"ts3oud o ts3in","ts3oud w ts3in","ts3oudots3in","ts3oudwts3in","ninety nine"
-"myya","mya","mia","","hundred"
-"alf","","","","thousand"
-"alaf","l2alaf","","","thousands"
-"mlyon","melyoun","mlyoun","malyoun","million"
-"mlyar","malyar","melyar","","billion"
-"w","ou","o","","and"
-"lwwl","lowwl","lowel","lowwel","first"
-"ttani","","","","second"
-"ttalt","","","","third"
-"rrab3","rrabe3","rraba3","","fourth"
-"lkhams","lkhames","","","fifth"
-"ssads","ssades","","","sixth"
-"ssab3","ssabe3","","","seventh"
-"ttamn","ttamen","","","eighth"
-"ttas3","ttase3","","","ninth"
-"l3achr","l3acher","","","tenth"
-"llkher","llkhar","lkher","akhir","last"
-"ttolot","ttolout","","","one-third"
-"rrobo3","rrobou3","","","one-fourth"
-"lkhomos","lkhomous","","","one-fifth"
-"ssodos","ssodous","","","one-sixth"
-"ssobo3","ssobou3","","","one-seventh"
-"ttomon","ttomoun","","","one-eighth"
-"l3ochor","l3ochour","","","one-tenth"
+n1,n2,n3,n4,darija_ar,eng
+ra9m,raqm,,,راقم,number
+3adad,,,,عاداد,number
+Sifr,,,,صيفر,zero
+ziro,zero,,,زيرو,zero
+wahd,wa7d,,,واهد,one
+jouj,joj,zouj,,جوج,two
+tlata,,,,تلاتا,three
+rb3a,reb3a,rab3a,,ربعا,four
+khmsa,5msa,khamsa,khemsa,خمسا,five
+stta,seta,setta,satta,ستّا,six
+sb3a,sab3a,seb3a,,سبعا,seven
+tmnia,tmenia,tmania,,تمنيا,eight
+ts3oud,ts3od,tas3oud,tes3oud,تسعود,nine
+ts3a,,,,تسعا,nine
+3chra,3achra,aachra,,عشرا,ten
+7Dach,hdach,,,حضاش,eleven
+Tnach,,,,طناش,twelve
+TlTTach,telTach,tleTTach,tleTach,طلطّاش,thirteen
+rb3Tach,rba3Tach,rbe3Tach,,ربعطاش,fourteen
+khmsTach,5msTach,khamsTach,khemsTach,خمسطاش,fifteen
+sTTach,seTach,sTach,,سطّاش,sixteen
+sb3Tach,sbe3Tach,sba3Tach,,سبعطاش,seventeen
+tmnTach,tmenTach,tmanTach,,تمنطاش,eighteen
+ts3Tach,tsa3Tach,tse3Tach,,تسعطاش,nineteen
+3chrin,3achrin,3echrin,3ochrin,عشرين,twenty
+wahd o 3chrin,wahd w 3chrin,wahdo3chrin,wahdw3chrin,واهد أُ عشرين,twenty one
+tnayn o 3chrin,tnayn w 3chrin,tnayno3chrin,tnaynw3chrin,تناين أُ عشرين,twenty two
+tlata o 3chrin,tlata w 3chrin,tlatao3chrin,tlataw3chrin,تلاتا أُ عشرين,twenty three
+rb3a o 3chrin,rb3a w 3chrin,rb3ao3chrin,rb3aw3chrin,ربعا أُ عشرين,twenty four
+khmsa o 3chrin,khmsa w 3chrin,khmsao3chrin,khmsaw3chrin,خمسا أُ عشرين,twenty five
+stta o 3chrin,stta w 3chrin,sttao3chrin,sttaw3chrin,ستّا أُ عشرين,twenty six
+sb3a o 3chrin,sb3a w 3chrin,sb3ao3chrin,sb3aw3chrin,سبعا أُ عشرين,twenty seven
+tmnya o 3chrin,tmnya w 3chrin,tmnyao3chrin,tmnyaw3chrin,تمنيا أُ عشرين,twenty eight
+ts3oud o 3chrin,ts3oud w 3chrin,ts3oudo3chrin,ts3oudw3chrin,تسعود أُ عشرين,twenty nine
+tlatin,,,,تلاتين,thirty
+rb3in,rab3in,reb3in,,ربعين,forty
+khmsin,5amsin,khamsin,khemsin,خمسين,fifty
+stin,settin,sattin,sttin,ستين,sixty
+sb3in,seb3in,sab3in,,سبعين,seventy
+tmanin,tamanin,,,تمانين,eighty
+ts3in,tes3in,tas3in,,تسعين,ninety
+wahd o ts3in,wahd w ts3in,wahdots3in,wahdwts3in,واهد أُ تسعين,ninety one
+tnayn o ts3in,tnayn w ts3in,tnaynots3in,tnaynwts3in,تناين أُ تسعين,ninety two
+tlata o ts3in,tlata w ts3in,tlataots3in,tlatawts3in,تلاتا أُ تسعين,ninety three
+rb3a o ts3in,rb3a w ts3in,rb3aots3in,rb3awts3in,ربعا أُ تسعين,ninety four
+khmsa o ts3in,khmsa w ts3in,khmsaots3in,khmsawts3in,خمسا أُ تسعين,ninety five
+stta o ts3in,stta w ts3in,sttaots3in,sttawts3in,ستّا أُ تسعين,ninety six
+sb3a o ts3in,sb3a w ts3in,sb3aots3in,sb3awts3in,سبعا أُ تسعين,ninety seven
+tmnya o ts3in,tmnya w ts3in,tmnyaots3in,tmnyawts3in,تمنيا أُ تسعين,ninety eight
+ts3oud o ts3in,ts3oud w ts3in,ts3oudots3in,ts3oudwts3in,تسعود أُ تسعين,ninety nine
+myya,mya,mia,,ميّا,hundred
+alf,,,,ألف,thousand
+alaf,l2alaf,,,ألاف,thousands
+mlyon,melyoun,mlyoun,malyoun,مليون,million
+mlyar,malyar,melyar,,مليار,billion
+w,ou,o,,و,and
+lwwl,lowwl,lowel,lowwel,لوّل,first
+ttani,,,,التاني,second
+ttalt,,,,التالت,third
+rrab3,rrabe3,rraba3,,الرابع,fourth
+lkhams,lkhames,,,لخامس,fifth
+ssads,ssades,,,السادس,sixth
+ssab3,ssabe3,,,السابع,seventh
+ttamn,ttamen,,,التامن,eighth
+ttas3,ttase3,,,التاسع,ninth
+l3achr,l3acher,,,لعاشر,tenth
+llkher,llkhar,lkher,akhir,اللخر,last
+ttolot,ttolout,,,التولوت,one-third
+rrobo3,rrobou3,,,الروبوع,one-fourth
+lkhomos,lkhomous,,,لخوموس,one-fifth
+ssodos,ssodous,,,السودوس,one-sixth
+ssobo3,ssobou3,,,السوبوع,one-seventh
+ttomon,ttomoun,,,التومون,one-eighth
+l3ochor,l3ochour,,,لعوشور,one-tenth

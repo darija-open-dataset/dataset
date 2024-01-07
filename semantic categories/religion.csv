@@ -1,74 +1,74 @@
-"n1","n2","n3","n4","eng"
-"SSla","SSala","Sala","","pray"
-"Syam","Siam","","","fasting"
-"lhej","lhajj","7ejj","l7ej","pilgrimage"
-"zakat","","","","charity"
-"jam3","jama3","jame3","","mosque"
-"lihoud","li8oud","li8od","","jews"
-"nSara","","","","christians"
-"imane","2yman","","","faith"
-"koffar","","","","unbelievers"
-"rou7","rouh","","","soul"
-"jenna","janna","","","heaven"
-"nnar","nar","","","hell"
-"jahnam","ja8nnam","jahennam","ja8annam","hell"
-"lakhra","akhira","lakhira","akhra","afterlife"
-"chrab","","","","alcohol"
-"malak","","","","angel"
-"ddin","dine","ddine","dine","religion"
-"loDo","woDou","woDou2","lwoDo2","ablution"
-"3ti9ad","i3ti9ad","","","belief"
-"chiTan","chayTan","","","satan"
-"jnn","jenn","","","demon"
-"3issa","3isa","","","jesus"
-"ibrahim","","","","abraham"
-"moussa","mossa","","","moses"
-"khalifa","5alifa","","","caliph"
-"kanissa","kanisa","","","church"
-"fir3awn","","","","pharaoh"
-"jibril","","","","gabriel"
-"3zrayl","3zaryn","","","azrael"
-"chaba7","chabah","","","ghost"
-"lboudia","","","","buddhism"
-"daoud","","","","david"
-"nou7","nouh","","","noah"
-"taTwwor","taTwor","","","evolution"
-"jaza2","jazaa","","","reward"
-"Salib","Salyb","","","cross"
-"T8ara","Thara","","","circumcision"
-"khtana","5tana","","","circumcision"
-"SSa7aba","Sa7aba","","","companions of the prophet"
-"fi98","fi9h","fiqh","","theory of islamic law"
-"chari3a","chariaa","","","islamic law"
-"ftwa","fatwa","fetwa","","interpretation of islamic law"
-"khayr","khair","5ayr","5air","good"
-"charr","cherr","","","evil"
-"9or2an","","","","quran"
-"mo9ddas","mo9addas","","","holy"
-"9ods","l9ods","","","jerusalem"
-"rou7","rouh","","","spirit"
-"rou7ania","rouhania","","","spirituality"
-"9iama","l9iama","9yama","l9yama","resurrection"
-"janaza","gnaza","","","funeral"
-"dbn","denb","danb","","sin"
-"Sob7","Sobh","","","morning prayer"
-"Do8r","Dohr","Doher","Do8ar","noon prayer"
-"l3aSr","l3aSer","3aser","3asar","afternoon prayer"
-"lmghrb","lmghreb","lmoghrab","mghrab","sunset prayer"
-"l3cha","laacha","3cha","","evening prayer"
-"zawia","zaouia","","","sect"
-"injil","","","","bible"
-"masi7","masy7","masih","","christ"
-"allah","alah","Lah","","god"
-"rassoul","rasoul","","","prophet"
-"mslm","meslem","moslim","","muslim"
-"sonni","","","","sunni"
-"chi3i","","","","shi ite"
-"mol7id","molhid","","","atheist"
-"il7ad","ilhad","","","atheism"
-"Sm3a","Sem3a","Sam3a","","minaret"
-"adan","adaan","","","call to prayer"
-"7lal","hlal","","","permitted"
-"7ram","hram","","","forbidden"
-"mo3jiza","","","","miracle"
-"zrbia tSSla","zrbia t SSla","zerbia t SSla","zarbia tSSla","prayer rug"
+n1,n2,n3,n4,darija_ar,eng
+SSla,SSala,Sala,,الصلا,pray
+Syam,Siam,,,صيام,fasting
+lhej,lhajj,7ejj,l7ej,لهج,pilgrimage
+zakat,,,,زاكات,charity
+jam3,jama3,jame3,,جامع,mosque
+lihoud,li8oud,li8od,,ليهود,jews
+nSara,,,,نصارا,christians
+imane,2yman,,,إمان,faith
+koffar,,,,كوفّار,unbelievers
+rou7,rouh,,,روح,soul
+jenna,janna,,,جنّا,heaven
+nnar,nar,,,النار,hell
+jahnam,ja8nnam,jahennam,ja8annam,جاهنام,hell
+lakhra,akhira,lakhira,akhra,لاخرا,afterlife
+chrab,,,,شراب,alcohol
+malak,,,,مالاك,angel
+ddin,dine,ddine,dine,الدين,religion
+loDo,woDou,woDou2,lwoDo2,لوضو,ablution
+3ti9ad,i3ti9ad,,,عتيقاد,belief
+chiTan,chayTan,,,شيطان,satan
+jnn,jenn,,,جنّ,demon
+3issa,3isa,,,عيسّا,jesus
+ibrahim,,,,إبراهيم,abraham
+moussa,mossa,,,موسّا,moses
+khalifa,5alifa,,,خاليفا,caliph
+kanissa,kanisa,,,كانيسّا,church
+fir3awn,,,,فيرعاون,pharaoh
+jibril,,,,جيبريل,gabriel
+3zrayl,3zaryn,,,عزرايل,azrael
+chaba7,chabah,,,شاباح,ghost
+lboudia,,,,لبوديا,buddhism
+daoud,,,,داود,david
+nou7,nouh,,,نوح,noah
+taTwwor,taTwor,,,تاطوّور,evolution
+jaza2,jazaa,,,جازاء,reward
+Salib,Salyb,,,صاليب,cross
+T8ara,Thara,,,طهارا,circumcision
+khtana,5tana,,,ختانا,circumcision
+SSa7aba,Sa7aba,,,الصاحابا,companions of the prophet
+fi98,fi9h,fiqh,,فيقه,theory of islamic law
+chari3a,chariaa,,,شاريعا,islamic law
+ftwa,fatwa,fetwa,,فتوا,interpretation of islamic law
+khayr,khair,5ayr,5air,خاير,good
+charr,cherr,,,شارّ,evil
+9or2an,,,,قورأن,quran
+mo9ddas,mo9addas,,,موقدّاس,holy
+9ods,l9ods,,,قودس,jerusalem
+rou7,rouh,,,روح,spirit
+rou7ania,rouhania,,,روحانيا,spirituality
+9iama,l9iama,9yama,l9yama,قياما,resurrection
+janaza,gnaza,,,جانازا,funeral
+dbn,denb,danb,,دبن,sin
+Sob7,Sobh,,,صوبح,morning prayer
+Do8r,Dohr,Doher,Do8ar,ضوهر,noon prayer
+l3aSr,l3aSer,3aser,3asar,لعاصر,afternoon prayer
+lmghrb,lmghreb,lmoghrab,mghrab,لمغرب,sunset prayer
+l3cha,laacha,3cha,,لعشا,evening prayer
+zawia,zaouia,,,زاويا,sect
+injil,,,,إنجيل,bible
+masi7,masy7,masih,,ماسيح,christ
+allah,alah,Lah,,الله,god
+rassoul,rasoul,,,راسّول,prophet
+mslm,meslem,moslim,,مسلم,muslim
+sonni,,,,سونّي,sunni
+chi3i,,,,شيعي,shi ite
+mol7id,molhid,,,مولحيد,atheist
+il7ad,ilhad,,,إلحاد,atheism
+Sm3a,Sem3a,Sam3a,,صمعا,minaret
+adan,adaan,,,أدان,call to prayer
+7lal,hlal,,,حلال,permitted
+7ram,hram,,,حرام,forbidden
+mo3jiza,,,,موعجيزا,miracle
+zrbia tSSla,zrbia t SSla,zerbia t SSla,zarbia tSSla,زربيا تصّلا,prayer rug

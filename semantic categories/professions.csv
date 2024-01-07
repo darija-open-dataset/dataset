@@ -1,45 +1,45 @@
-"n1","n2","n3","n4","eng"
-"7jjam","7ejjam","7ajjam","hajjam","barber"
-"7lla9","7ella9","7alla9","hallaq","barber"
-"gzzar","guezzar","gazzar",,"butcher"
-"Tbib",,,,"doctor"
-"frmlia","fermlia","farmlia",,"nurse"
-"modir","moudir",,,"director"
-"fnnan","fennan","fannan",,"artist"
-"trisyan","trician",,,"electrician"
-"mo8ndis","mohndis",,,"engineer"
-"flla7","fella7","falla7","fllah","peasant"
-"Sa7afi","Sahafi",,,"journalist"
-"9aDi","qaDi",,,"judge"
-"mo7ami","mou7ami","mohami",,"lawyer"
-"mikanisyan","mikanician","mecanician",,"mechanic"
-"wakil","ouakil",,,"prosecutor"
-"bolisi","bolissi",,,"cop"
-"jadarmi",,,,"gendarme"
-"rssam","rassam",,,"painter"
-"moSwwir","moSwwer","moSwir","moSwer","photographer"
-"srbay","serbay","sarbay",,"waiter"
-"srbaya","serbaya","sarbaya",,"waitress"
-"khyyaT","khiaT","5ayyaT","khayyaT","tailor"
-"safir","safyr",,,"ambassador"
-"mostachar","mostachaar",,,"advisor"
-"plombi",,,,"plumber"
-"mo9awil",,,,"entrepreneur"
-"modir",,,,"director"
-"mowDDaf",,,,"employee"
-"sikritira",,,,"assistant"
-"khDDar",,,,"greengrocer"
-"njjar",,,,"carpenter"
-"7rayfi",,,,"craftsperson"
-"Sbbagh",,,,"painter"
-"n77at",,,,"sculptor"
-"mol ddjaj",,,,"poultryman"
-"mol l7out",,,,"fishmonger"
-"moSwwir",,,,"photographer"
-"oustad","ostad",,,"professor"
-"mol taxi",,,,"Taxi driver"
-"chifour","chifor",,,"driver"
-"kherraz","khrraz","5rraz","5erraz","shoemaker"
-"mol lmSbana",,,,
-"gbbaS",,,,
-"jlayji",,,,
+n1,n2,n3,n4,darija_ar,eng
+7jjam,7ejjam,7ajjam,hajjam,حجّام,barber
+7lla9,7ella9,7alla9,hallaq,حلّاق,barber
+gzzar,guezzar,gazzar,,ڭزّار,butcher
+Tbib,,,,طبيب,doctor
+frmlia,fermlia,farmlia,,فرمليا,nurse
+modir,moudir,,,مودير,director
+fnnan,fennan,fannan,,فنّان,artist
+trisyan,trician,,,تريسيان,electrician
+mo8ndis,mohndis,,,موهنديس,engineer
+flla7,fella7,falla7,fllah,فلّاح,peasant
+Sa7afi,Sahafi,,,صاحافي,journalist
+9aDi,qaDi,,,قاضي,judge
+mo7ami,mou7ami,mohami,,موحامي,lawyer
+mikanisyan,mikanician,mecanician,,ميكانيسيان,mechanic
+wakil,ouakil,,,واكيل,prosecutor
+bolisi,bolissi,,,بوليسي,cop
+jadarmi,,,,جادارمي,gendarme
+rssam,rassam,,,رسّام,painter
+moSwwir,moSwwer,moSwir,moSwer,موصوّير,photographer
+srbay,serbay,sarbay,,سرباي,waiter
+srbaya,serbaya,sarbaya,,سربايا,waitress
+khyyaT,khiaT,5ayyaT,khayyaT,خيّاط,tailor
+safir,safyr,,,سافير,ambassador
+mostachar,mostachaar,,,موستاشار,advisor
+plombi,,,,پلومبي,plumber
+mo9awil,,,,موقاويل,entrepreneur
+modir,,,,مودير,director
+mowDDaf,,,,مووضّاف,employee
+sikritira,,,,سيكريتيرا,assistant
+khDDar,,,,خضّار,greengrocer
+njjar,,,,نجّار,carpenter
+7rayfi,,,,حرايفي,craftsperson
+Sbbagh,,,,صبّاغ,painter
+n77at,,,,نحّات,sculptor
+mol ddjaj,,,,مول الدجاج,poultryman
+mol l7out,,,,مول لحوت,fishmonger
+moSwwir,,,,موصوّير,photographer
+oustad,ostad,,,وستاد,professor
+mol taxi,,,,مول تاشي,Taxi driver
+chifour,chifor,,,شيفور,driver
+kherraz,khrraz,5rraz,5erraz,خرّاز,shoemaker
+mol lmSbana,,,,مول لمصبانا,
+gbbaS,,,,ڭبّاص,
+jlayji,,,,جلايجي,

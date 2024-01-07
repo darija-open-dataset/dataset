@@ -1,18 +1,18 @@
-"n1","n2","n3","n4","eng"
-"wrda","warda",,,"rose"
-"nbta","nabta","nebta",,"plant"
-"chouk",,,,"thorn"
-"nkhla","nakhla","na5la","nekhla","palm tree"
-"chjra","chejra","chajra",,"tree"
-"chjr","chjer","chjar",,"trees"
-"Sbbar",,,,"cactus"
-"SafSaf","SefSaf",,,"willow"
-"Sanawbar",,,,"pine"
-"3rch","aarch",,,"branch"
-"sawsan",,,,"iris"
-"zira3a",,,,"agriculture"
-"zrri3a","zarri3a","zerri3a",,"seed"
-"gazo","gazon","lgazo",,"grass"
-"rbi3","rrbi3",,,"grass"
-"jdr","jder",,,"root"
-"trab",,,,"soil"
+n1,n2,n3,n4,darija_ar,eng
+wrda,warda,,,وردا,rose
+nbta,nabta,nebta,,نبتا,plant
+chouk,,,,شوك,thorn
+nkhla,nakhla,na5la,nekhla,نخلا,palm tree
+chjra,chejra,chajra,,شجرا,tree
+chjr,chjer,chjar,,شجر,trees
+Sbbar,,,,صبّار,cactus
+SafSaf,SefSaf,,,صافصاف,willow
+Sanawbar,,,,صاناوبار,pine
+3rch,aarch,,,عرش,branch
+sawsan,,,,ساوسان,iris
+zira3a,,,,زيراعا,agriculture
+zrri3a,zarri3a,zerri3a,,زرّيعا,seed
+gazo,gazon,lgazo,,ڭازو,grass
+rbi3,rrbi3,,,ربيع,grass
+jdr,jder,,,جدر,root
+trab,,,,تراب,soil
