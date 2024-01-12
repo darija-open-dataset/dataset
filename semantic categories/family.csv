@@ -1,9 +1,9 @@
 n1,n2,n3,darija_ar,eng
-3a2ila,,,عاإلا,family
+3a2ila,,,عائلة,family
 bnti,benti,banti,بنتي,my daughter
 wldi,waldi,weldi,ولدي,my son
 lwalid,,,لواليد,father
-lwalida,,,لواليدا,mother
+lwalida,,,لواليدة,mother
 baba,bba,,بابا,dad
 mama,mmi,mma,ماما,mom
 khouya,5ouya,khoya,خويا,my brother
@@ -21,17 +21,17 @@ bnt 3mi,bnt aami,bnt 3mmi,بنت عمي,my cousin
 bnt 3mti,bnt aamti,bnt 3mmti,بنت عمتي,my cousin
 bnt khali,bnt 5ali,,بنت خالي,my cousin
 bnt khalti,bnt 5alti,,بنت خالتي,my cousin
-zawja,zzawja,,زاوجا,wife
+zawja,zzawja,,زوجة,wife
 lmra,lemra,lamra,لمرا,wife
-zawjati,,,زاوجاتي,my wife
+zawjati,,,زوجتي,my wife
 merti,mrati,,مرتي,my wife
 madam,madamti,,مادام,my wife
-zawj,zzawj,,زاوج,husband
+zawj,zzawj,,زوج,husband
 rrajl,arrajel,rrajal,الراجل,husband
-khatibi,,,خاتيبي,fiancé 
-khatibti,,,خاتيبتي,fiancée 
+khatibi,,,خطيبي,fiancé 
+khatibti,,,خطيبتي,fiancée 
 mjwwj,mzwwj,mjawwej,مجوّج,married
-mjwwja,mzwwja,mjawweja,مجوّجا,married
+mjwwja,mzwwja,mjawweja,مجوّجة,married
 3zri,3azri,3ezri,عزري,single
 ddrari,drari,,الدراري,children
 khout,5out,,خوت,brothers
@@ -41,6 +41,6 @@ khwal,5wal,,خوال,uncles
 3mam,a3mam,,عمام,uncles
 7fid,hfid,7afid,حفيد,grandchild
 jdd,jedd,jadd,جدّ,grandfather
-jdda,jedda,jadda,جدّا,grandmother
-7enna,3ziza,,حنّا,grandmother
+jdda,jedda,jadda,جدّة,grandmother
+7enna,3ziza,,حنّة,grandmother
 nsab,nsaab,,نساب,family-in-law

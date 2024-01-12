@@ -1,15 +1,15 @@
 n1,n2,n3,n4,darija_ar,eng
-tania,thania,,,تانيا,second
-d9i9a,daqiqa,da9i9a,,دقيقا,minute
-sa3a,,,,ساعا,hour
-yawm,youm,nhar,,ياوم,day
+tania,thania,,,تانية,second
+d9i9a,daqiqa,da9i9a,,دقيقة,minute
+sa3a,,,,ساعة,hour
+yawm,youm,nhar,,يوم,day
 lbar7,lbare7,lbareh,lbarh,لبارح,yesterday
 daba,drok,,,دابا,now
 lyom,liom,lioma,lyoma,ليوم,today
 ghdda,ghedda,ghadda,,غدّا,tomorrow
 wellbar7,wallbare7,wllbare7,,ولّبارح,the day before yesterday
 b3d ghdda,ba3d ghdda,be3d ghdda,,بعد غدّا,the day after tomorrow
-simana,semana,,,سيمانا,week
+simana,semana,,,سيمانة,week
 ch8r,ch8ar,chher,chhar,شهر,month
 3am,,,,عام,year
 9rn,9arn,9ern,qarn,قرن,century
@@ -17,55 +17,55 @@ tnin,ttnin,,,تنين,monday
 tlat,ttlat,,,تلات,tuesday
 larb3,larba3,larbe3,,لاربع,wednesday
 lkhmis,l5miss,lakhmis,lekhmis,لخميس,thursday
-jm3a,jam3a,jem3a,jjm3a,جمعا,friday
+jm3a,jam3a,jem3a,jjm3a,جمعة,friday
 sbt,ssbt,sabt,ssebt,سبت,saturday
 l7d,l7ed,l7add,l7edd,لحد,sunday
 wikand,lwikand,weekend,lweekend,ويكاند,weekend
-yanayir,yanayr,,,يانايير,january
-fibrayr,fibrayer,,,فيبراير,february
+yanayir,yanayr,,,يناير,january
+fibrayr,fibrayer,,,فبراير,february
 mars,,,,مارس,march
 abril,avril,,,أبريل,april
 may,,,,ماي,may
 yonyo,,,,يونيو,june
 yolyoz,youlyouz,,,يوليوز,july
-ghocht,,,,غوشت,august
-chotanbir,,,,شوتانبير,september
-oktoubr,oktobr,,,أُكتوبر,october
-nowanbir,,,,نووانبير,november
-dojanbir,doujanbir,,,دوجانبير,december
-ch8er wahd,ch8ar wahd,ch8r wa7d,ch8er wa7d,شهر واهد,january
+ghocht,,,,غشت,august
+chotanbir,,,,شتنبر,september
+oktoubr,oktobr,,,أكتوبر,october
+nowanbir,,,,نونبر,november
+dojanbir,doujanbir,,,دجنبر,december
+ch8er wahd,ch8ar wahd,ch8r wa7d,ch8er wa7d,شهر واحد,january
 ch8er jouj,ch8ar jouj,ch8r jouj,ch8er joj,شهر جوج,february
-ch8er tlata,ch8ar tlata,ch8r tlata,,شهر تلاتا,march
-ch8er rb3a,ch8ar rb3a,ch8r rb3a,ch8er reb3a,شهر ربعا,april
-ch8er khmsa,ch8ar khmsa,ch8r khmsa,ch8er khamsa,شهر خمسا,may
-ch8er stta,ch8ar stta,ch8r stta,ch8er setta,شهر ستّا,june
-ch8er sb3a,ch8ar sb3a,ch8r sb3a,ch8er seb3a,شهر سبعا,july
-ch8er tmnia,ch8ar tmnia,ch8r tmnia,ch8er tmenia,شهر تمنيا,august
+ch8er tlata,ch8ar tlata,ch8r tlata,,شهر تلاتة,march
+ch8er rb3a,ch8ar rb3a,ch8r rb3a,ch8er reb3a,شهر ربعة,april
+ch8er khmsa,ch8ar khmsa,ch8r khmsa,ch8er khamsa,شهر خمسة,may
+ch8er stta,ch8ar stta,ch8r stta,ch8er setta,شهر ستة,june
+ch8er sb3a,ch8ar sb3a,ch8r sb3a,ch8er seb3a,شهر سبعة,july
+ch8er tmnia,ch8ar tmnia,ch8r tmnia,ch8er tmenia,شهر تمنية,august
 ch8er ts3oud,ch8ar ts3oud,ch8r ts3oud,ch8er ts3eud,شهر تسعود,september
-ch8er 3chra,ch8ar 3chra,ch8r 3chra,ch8er 3echra,شهر عشرا,october
+ch8er 3chra,ch8ar 3chra,ch8r 3chra,ch8er 3echra,شهر عشرة,october
 ch8er 7Dach,ch8ar 7Dach,ch8r 7Dach,,شهر حضاش,november
 ch8er Tnach,ch8ar Tnach,ch8r Tnach,,شهر طناش,december
 w9t,wa9t,we9t,,وقت,time
-7aDir,7aDer,7aDr,,حاضير,present
-most9bal,mosta9bal,mostaqbal,mostqbal,موستقبال,future
+7aDir,7aDer,7aDr,,حاضر,present
+most9bal,mosta9bal,mostaqbal,mostqbal,مستقبل,future
 maDi,maaDi,li fat,,ماضي,past
-llarob,llaroub,,,اللاروب,quarter to
-o 9sem,o9sem,oqsem,,أُ قسم,five past
-o 9smayn,o9smayn,oqsmayn,,أُ قسماين,ten past
-o rb3,orb3,orba3,,أُ ربع,quarter past
-o ness,oness,onss,onass,أُ نسّ,half past
-o sb3 9sam,osb39sam,o sbaa qsam,o sba3 9sam,أُ سبع قسام,thirty five past
+llarob,llaroub,,,لاروب,quarter to
+o 9sem,o9sem,oqsem,,و قسم,five past
+o 9smayn,o9smayn,oqsmayn,,و قسماين,ten past
+o rb3,orb3,orba3,,و ربع,quarter past
+o ness,oness,onss,onass,و نص,half past
+o sb3 9sam,osb39sam,o sbaa qsam,o sba3 9sam,و سبع قسام,thirty five past
 9ll toulout,9ll tolot,,,قلّ تولوت,twenty to
 9ll 9smayn,9ll9smayn,,,قلّ قسماين,ten to
 9ll 9sm,9ll9sm,,,قلّ قسم,five to
 mn,men,,,من,since
 lil,llil,lile,,ليل,night
 Sba7,Sbah,,,صباح,morning
-3chia,aachia,,,عشيا,evening
-wst nhar,wstnhar,,,وست نهار,midday
-ftra,fatra,fetra,,فترا,period
-magana,sa3a,,,ماڭانا,clock
-monasaba,mounasaba,monaasaba,,موناسابا,occasion
-nssa3a,nss sa3a,ness sa3a,nessa3a,نسّاعا,half an hour
-robo3sa3a,robo3 sa3a,rba3 sa3a,,روبوعساعا,quarter of an hour
-tolotsa3a,tolot sa3a,tolout sa3a,toloutsa3a,تولوتساعا,twenty minutes
+3chia,aachia,,,عشية,evening
+wst nhar,wstnhar,,,وسط نهار,midday
+ftra,fatra,fetra,,فترة,period
+magana,sa3a,,,ماڭانة,clock
+monasaba,mounasaba,monaasaba,,مناسبة,occasion
+nssa3a,nss sa3a,ness sa3a,nessa3a,نص ساعة,half an hour
+robo3sa3a,robo3 sa3a,rba3 sa3a,,ربع ساعة,quarter of an hour
+tolotsa3a,tolot sa3a,tolout sa3a,toloutsa3a,تولوت ساعة,twenty minutes

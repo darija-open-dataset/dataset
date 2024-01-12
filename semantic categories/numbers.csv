@@ -1,19 +1,19 @@
 n1,n2,n3,n4,darija_ar,eng
-ra9m,raqm,,,راقم,number
-3adad,,,,عاداد,number
-Sifr,,,,صيفر,zero
+ra9m,raqm,,,رقم,number
+3adad,,,,عدد,number
+Sifr,,,,صفر,zero
 ziro,zero,,,زيرو,zero
-wahd,wa7d,,,واهد,one
+wahd,wa7d,,,واحد,one
 jouj,joj,zouj,,جوج,two
-tlata,,,,تلاتا,three
-rb3a,reb3a,rab3a,,ربعا,four
-khmsa,5msa,khamsa,khemsa,خمسا,five
-stta,seta,setta,satta,ستّا,six
-sb3a,sab3a,seb3a,,سبعا,seven
-tmnia,tmenia,tmania,,تمنيا,eight
+tlata,,,,تلاتة,three
+rb3a,reb3a,rab3a,,ربعة,four
+khmsa,5msa,khamsa,khemsa,خمسة,five
+stta,seta,setta,satta,ستّة,six
+sb3a,sab3a,seb3a,,سبعة,seven
+tmnia,tmenia,tmania,,تمنية,eight
 ts3oud,ts3od,tas3oud,tes3oud,تسعود,nine
-ts3a,,,,تسعا,nine
-3chra,3achra,aachra,,عشرا,ten
+ts3a,,,,تسعة,nine
+3chra,3achra,aachra,,عشرة,ten
 7Dach,hdach,,,حضاش,eleven
 Tnach,,,,طناش,twelve
 TlTTach,telTach,tleTTach,tleTach,طلطّاش,thirteen
@@ -24,15 +24,15 @@ sb3Tach,sbe3Tach,sba3Tach,,سبعطاش,seventeen
 tmnTach,tmenTach,tmanTach,,تمنطاش,eighteen
 ts3Tach,tsa3Tach,tse3Tach,,تسعطاش,nineteen
 3chrin,3achrin,3echrin,3ochrin,عشرين,twenty
-wahd o 3chrin,wahd w 3chrin,wahdo3chrin,wahdw3chrin,واهد أُ عشرين,twenty one
-tnayn o 3chrin,tnayn w 3chrin,tnayno3chrin,tnaynw3chrin,تناين أُ عشرين,twenty two
-tlata o 3chrin,tlata w 3chrin,tlatao3chrin,tlataw3chrin,تلاتا أُ عشرين,twenty three
-rb3a o 3chrin,rb3a w 3chrin,rb3ao3chrin,rb3aw3chrin,ربعا أُ عشرين,twenty four
-khmsa o 3chrin,khmsa w 3chrin,khmsao3chrin,khmsaw3chrin,خمسا أُ عشرين,twenty five
-stta o 3chrin,stta w 3chrin,sttao3chrin,sttaw3chrin,ستّا أُ عشرين,twenty six
-sb3a o 3chrin,sb3a w 3chrin,sb3ao3chrin,sb3aw3chrin,سبعا أُ عشرين,twenty seven
-tmnya o 3chrin,tmnya w 3chrin,tmnyao3chrin,tmnyaw3chrin,تمنيا أُ عشرين,twenty eight
-ts3oud o 3chrin,ts3oud w 3chrin,ts3oudo3chrin,ts3oudw3chrin,تسعود أُ عشرين,twenty nine
+wahd o 3chrin,wahd w 3chrin,wahdo3chrin,wahdw3chrin,واحد و عشرين,twenty one
+tnayn o 3chrin,tnayn w 3chrin,tnayno3chrin,tnaynw3chrin,تناين و عشرين,twenty two
+tlata o 3chrin,tlata w 3chrin,tlatao3chrin,tlataw3chrin,تلاتة و عشرين,twenty three
+rb3a o 3chrin,rb3a w 3chrin,rb3ao3chrin,rb3aw3chrin,ربعة و عشرين,twenty four
+khmsa o 3chrin,khmsa w 3chrin,khmsao3chrin,khmsaw3chrin,خمسة و عشرين,twenty five
+stta o 3chrin,stta w 3chrin,sttao3chrin,sttaw3chrin,ستّة و عشرين,twenty six
+sb3a o 3chrin,sb3a w 3chrin,sb3ao3chrin,sb3aw3chrin,سبعة و عشرين,twenty seven
+tmnya o 3chrin,tmnya w 3chrin,tmnyao3chrin,tmnyaw3chrin,تمنية و عشرين,twenty eight
+ts3oud o 3chrin,ts3oud w 3chrin,ts3oudo3chrin,ts3oudw3chrin,تسعود و عشرين,twenty nine
 tlatin,,,,تلاتين,thirty
 rb3in,rab3in,reb3in,,ربعين,forty
 khmsin,5amsin,khamsin,khemsin,خمسين,fifty
@@ -40,18 +40,18 @@ stin,settin,sattin,sttin,ستين,sixty
 sb3in,seb3in,sab3in,,سبعين,seventy
 tmanin,tamanin,,,تمانين,eighty
 ts3in,tes3in,tas3in,,تسعين,ninety
-wahd o ts3in,wahd w ts3in,wahdots3in,wahdwts3in,واهد أُ تسعين,ninety one
-tnayn o ts3in,tnayn w ts3in,tnaynots3in,tnaynwts3in,تناين أُ تسعين,ninety two
-tlata o ts3in,tlata w ts3in,tlataots3in,tlatawts3in,تلاتا أُ تسعين,ninety three
-rb3a o ts3in,rb3a w ts3in,rb3aots3in,rb3awts3in,ربعا أُ تسعين,ninety four
-khmsa o ts3in,khmsa w ts3in,khmsaots3in,khmsawts3in,خمسا أُ تسعين,ninety five
-stta o ts3in,stta w ts3in,sttaots3in,sttawts3in,ستّا أُ تسعين,ninety six
-sb3a o ts3in,sb3a w ts3in,sb3aots3in,sb3awts3in,سبعا أُ تسعين,ninety seven
-tmnya o ts3in,tmnya w ts3in,tmnyaots3in,tmnyawts3in,تمنيا أُ تسعين,ninety eight
-ts3oud o ts3in,ts3oud w ts3in,ts3oudots3in,ts3oudwts3in,تسعود أُ تسعين,ninety nine
-myya,mya,mia,,ميّا,hundred
+wahd o ts3in,wahd w ts3in,wahdots3in,wahdwts3in,واحد و تسعين,ninety one
+tnayn o ts3in,tnayn w ts3in,tnaynots3in,tnaynwts3in,تناين و تسعين,ninety two
+tlata o ts3in,tlata w ts3in,tlataots3in,tlatawts3in,تلاتة و تسعين,ninety three
+rb3a o ts3in,rb3a w ts3in,rb3aots3in,rb3awts3in,ربعة و تسعين,ninety four
+khmsa o ts3in,khmsa w ts3in,khmsaots3in,khmsawts3in,خمسة و تسعين,ninety five
+stta o ts3in,stta w ts3in,sttaots3in,sttawts3in,ستّة و تسعين,ninety six
+sb3a o ts3in,sb3a w ts3in,sb3aots3in,sb3awts3in,سبعة و تسعين,ninety seven
+tmnya o ts3in,tmnya w ts3in,tmnyaots3in,tmnyawts3in,تمنية و تسعين,ninety eight
+ts3oud o ts3in,ts3oud w ts3in,ts3oudots3in,ts3oudwts3in,تسعود و تسعين,ninety nine
+myya,mya,mia,,ميّة,hundred
 alf,,,,ألف,thousand
-alaf,l2alaf,,,ألاف,thousands
+alaf,l2alaf,,,آلاف,thousands
 mlyon,melyoun,mlyoun,malyoun,مليون,million
 mlyar,malyar,melyar,,مليار,billion
 w,ou,o,,و,and
@@ -66,10 +66,10 @@ ttamn,ttamen,,,التامن,eighth
 ttas3,ttase3,,,التاسع,ninth
 l3achr,l3acher,,,لعاشر,tenth
 llkher,llkhar,lkher,akhir,اللخر,last
-ttolot,ttolout,,,التولوت,one-third
-rrobo3,rrobou3,,,الروبوع,one-fourth
-lkhomos,lkhomous,,,لخوموس,one-fifth
-ssodos,ssodous,,,السودوس,one-sixth
-ssobo3,ssobou3,,,السوبوع,one-seventh
-ttomon,ttomoun,,,التومون,one-eighth
-l3ochor,l3ochour,,,لعوشور,one-tenth
+ttolot,ttolout,,,التلت,one-third
+rrobo3,rrobou3,,,الربع,one-fourth
+lkhomos,lkhomous,,,لخمس,one-fifth
+ssodos,ssodous,,,السدس,one-sixth
+ssobo3,ssobou3,,,السبع,one-seventh
+ttomon,ttomoun,,,التمن,one-eighth
+l3ochor,l3ochour,,,لعشر,one-tenth
