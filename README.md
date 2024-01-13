@@ -5,12 +5,13 @@
   <!--- credits to [https://www.freeflagicons.com/country/morocco/sphere_icon/download/] --->
 </p>
 
-Darija Open Dataset (DODa) is an open-source project for the Moroccan dialect. With more than 21,000 entries DODa is arguably the largest open-source collaborative project for Darija <=> English translation built for Natural Language Processing purposes. 
+Welcome to the Darija Open Dataset (DODa), an ambitious open-source project dedicated to the Moroccan dialect. With about 150,000 entries, DODa is arguably the largest open-source collaborative project for Darija <=> English translation built for Natural Language Processing purposes.
 
-In fact, besides semantic categorization, DODa also adopts a syntactic one, presents words under different spellings, offers verb-to-noun and masculine-to-feminine correspondences, contains the conjugation of hundreds of verbs in different tenses, as well as more that 10,000 translated sentences.
+In fact, besides semantic categorization, DODa also adopts a syntactic one, presents words under different spellings, offers verb-to-noun and masculine-to-feminine correspondences, contains the conjugation of hundreds of verbs in different tenses, as well as more that 86,000 translated sentences.
 
+Additionally, DODa takes into account the diversity of Darija spellings used in various contexts, making it a versatile resource for language enthusiasts and NLP practitioners. The dataset includes entries written in both Latin and Arabic alphabets, reflecting the linguistic variations and preferences found in different sources and applications.
 
-This open source project aims to be a reference in NLP Darija. We hope for the contribution of the Moroccan IT community in order to provide a pedestal for any future application of NLP for the benefit of Moroccans.
+Our primary goal is to establish DODa as the go-to reference for NLP in Darija. By providing a robust and diverse dataset, we aim to facilitate the development of NLP applications that can cater to the specific linguistic needs of the Moroccan community. We encourage contributions from the Moroccan IT community to collectively build a powerful foundation for future NLP innovations tailored to Moroccan culture and language.
 
 ---
 <p align="center">
@@ -68,21 +69,21 @@ because we generally don't use these letters in darija (except in northern Moroc
 
 9. Respect the number of columns in every row you add, you can use empty quotation marks "", or just empty placeholder, in case you don't have extra variations
 
-> "sou9","souk","","market"
+> "sou9","souk","","سوق","market"
 
-> sou9,souk,,market
+> sou9,souk,,مارشي,market
 
 10. In each row, always start with the most used form (in your opinion of course) of the word in question
 
-11. For future use of this dataset to train deep neural networks, try to reserve each row to similar variations of the same word. For instance, "sou9" and "marchi" both translate to "market", yet it's better to separate them into two different rows:
+11. For future use of this dataset, try to reserve each row to similar variations of the same word. For instance, "sou9" and "marchi" both translate to "market", yet it's better to separate them into two different rows:
 
-> sou9,souk,souq,market
+> sou9,souk,souq,سوق,market
 
-> marchi,,,market
+> marchi,,,مارشي,market
 
 12. `verbs.csv`: The darija translation is reserved to the past tense of the third pronoun "he", whereas the other pronouns and tenses are handled in separate files. The English translation present the basic form (or root) of the English verb.
 
-> ghnna,ghenna,ghanna,,,,sing
+> ghnna,ghenna,ghanna,,,,غنّا,sing
 
 13. `masculine_feminine_plural.csv`: If it does exist, feminine-plural translation column is for nouns. Regarding adjectives feminine-plural = feminine.
 
@@ -117,6 +118,12 @@ print(english_translation)
 ```
 
 For further details, visit the [official Pydoda GitHub repository](https://github.com/saad-out/pydoda) & [official Pydoda documentation](https://saad-out.github.io/pydoda/).
+
+# Usage Terms
+
+- **Research and Personal Use**: You are welcome to use DODa for research, personal projects, and educational purposes, free of charge.
+
+- **Commercial Use**: For commercial purposes or any other usage not covered by the open-source license, please contact the copyright holders aissam or hamza to discuss licensing options and permissions.
 
 ## Citation
 ```
