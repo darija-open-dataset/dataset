@@ -119,7 +119,7 @@ print(english_translation)
 
 For further details, visit the [official Pydoda GitHub repository](https://github.com/saad-out/pydoda) & [official Pydoda documentation](https://saad-out.github.io/pydoda/).
 
-# Usage Terms
+## Usage Terms
 
 - **Research and Personal Use**: You are welcome to use DODa for research, personal projects, and educational purposes, free of charge, in accordance with the terms of the [open-source license](https://github.com/darija-open-dataset/dataset/blob/main/LICENSE)
 
