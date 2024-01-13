@@ -123,7 +123,7 @@ For further details, visit the [official Pydoda GitHub repository](https://githu
 
 - **Research and Personal Use**: You are welcome to use DODa for research, personal projects, and educational purposes, free of charge, in accordance with the terms of the [open-source license](https://github.com/darija-open-dataset/dataset/blob/main/LICENSE)
 
-- **Commercial Use**: For commercial purposes or any other usage not covered by the open-source license, please contact the copyright holders Aissam or Hamza to discuss licensing options and permissions.
+- **Commercial Use**: For commercial purposes or any other usage not covered by the [open-source license](https://github.com/darija-open-dataset/dataset/blob/main/LICENSE), please contact the copyright holders Aissam or Hamza to discuss licensing options and permissions.
 
 ## Citation
 ```
