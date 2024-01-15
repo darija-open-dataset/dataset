@@ -11,7 +11,9 @@ In fact, besides semantic categorization, DODa also adopts a syntactic one, pres
 
 Additionally, DODa takes into account the diversity of Darija spellings used in various contexts, making it a versatile resource for language enthusiasts and NLP practitioners. The dataset includes entries written in both Latin and Arabic alphabets, reflecting the linguistic variations and preferences found in different sources and applications.
 
-Our primary goal is to establish DODa as the go-to reference for NLP in Darija. By providing a robust and diverse dataset, we aim to facilitate the development of NLP applications that can cater to the specific linguistic needs of the Moroccan community. We encourage contributions from the Moroccan IT community to collectively build a powerful foundation for future NLP innovations tailored to Moroccan culture and language.
+Our primary goal is to establish DODa as the go-to reference for NLP in Darija. By providing a robust and diverse dataset, we aim to facilitate the development of NLP applications that can cater to the specific linguistic needs of the Moroccan community.
+
+While we have made significant progress in compiling and organizing the dataset, it's important to note that parts of the dataset are still either under review or in progress, especially in the *sentences.csv* file. We welcome contributions from the Moroccan IT community to help us refine and expand the dataset further, ensuring its accuracy and completeness. Together, we can build a powerful foundation for future NLP innovations tailored to Moroccan culture and language.
 
 ---
 <p align="center">
