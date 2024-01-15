@@ -1,46 +1,46 @@
-n1,n2,n3,eng
-3a2ila,,,family
-bnti,benti,banti,my daughter
-wldi,waldi,weldi,my son
-lwalid,,,father
-lwalida,,,mother
-baba,bba,,dad
-mama,mmi,mma,mom
-khouya,5ouya,khoya,my brother
-khti,5ti,,my sister
-3mi,aami,3mmi,my uncle
-3mti,aamti,3mmti,my aunt
-khali,5ali,,my uncle
-khalti,5alti,,my aunt
-kouzan,kozan,,my cousin
-wld 3mi,wld aami,wld 3mmi,my cousin
-wld 3mti,wld aamti,wld 3mmti,my cousin
-wld khali,wld 5ali,,my cousin
-wld khalti,wld 5alti,,my cousin
-bnt 3mi,bnt aami,bnt 3mmi,my cousin
-bnt 3mti,bnt aamti,bnt 3mmti,my cousin
-bnt khali,bnt 5ali,,my cousin
-bnt khalti,bnt 5alti,,my cousin
-zawja,zzawja,,wife
-lmra,lemra,lamra,wife
-zawjati,,,my wife
-merti,mrati,,my wife
-madam,madamti,,my wife
-zawj,zzawj,,husband
-rrajl,arrajel,rrajal,husband
-khatibi,,,fiancé 
-khatibti,,,fiancée 
-mjwwj,mzwwj,mjawwej,married
-mjwwja,mzwwja,mjawweja,married
-3zri,3azri,3ezri,single
-ddrari,drari,,children
-khout,5out,,brothers
-khwatat,5watat,,sisters
-walidin,,,parents
-khwal,5wal,,uncles
-3mam,a3mam,,uncles
-7fid,hfid,7afid,grandchild
-jdd,jedd,jadd,grandfather
-jdda,jedda,jadda,grandmother
-7enna,3ziza,,grandmother
-nsab,nsaab,,family-in-law
+n1,n2,n3,darija_ar,eng
+3a2ila,,,عائلة,family
+bnti,benti,banti,بنتي,my daughter
+wldi,waldi,weldi,ولدي,my son
+lwalid,,,لواليد,father
+lwalida,,,لواليدة,mother
+baba,bba,,بابا,dad
+mama,mmi,mma,ماما,mom
+khouya,5ouya,khoya,خويا,my brother
+khti,5ti,,ختي,my sister
+3mi,aami,3mmi,عمي,my uncle
+3mti,aamti,3mmti,عمتي,my aunt
+khali,5ali,,خالي,my uncle
+khalti,5alti,,خالتي,my aunt
+kouzan,kozan,,كوزان,my cousin
+wld 3mi,wld aami,wld 3mmi,ولد عمي,my cousin
+wld 3mti,wld aamti,wld 3mmti,ولد عمتي,my cousin
+wld khali,wld 5ali,,ولد خالي,my cousin
+wld khalti,wld 5alti,,ولد خالتي,my cousin
+bnt 3mi,bnt aami,bnt 3mmi,بنت عمي,my cousin
+bnt 3mti,bnt aamti,bnt 3mmti,بنت عمتي,my cousin
+bnt khali,bnt 5ali,,بنت خالي,my cousin
+bnt khalti,bnt 5alti,,بنت خالتي,my cousin
+zawja,zzawja,,زوجة,wife
+lmra,lemra,lamra,لمرا,wife
+zawjati,,,زوجتي,my wife
+merti,mrati,,مرتي,my wife
+madam,madamti,,مادام,my wife
+zawj,zzawj,,زوج,husband
+rrajl,arrajel,rrajal,الراجل,husband
+khatibi,,,خطيبي,fiancé 
+khatibti,,,خطيبتي,fiancée 
+mjwwj,mzwwj,mjawwej,مجوّج,married
+mjwwja,mzwwja,mjawweja,مجوّجة,married
+3zri,3azri,3ezri,عزري,single
+ddrari,drari,,الدراري,children
+khout,5out,,خوت,brothers
+khwatat,5watat,,خواتات,sisters
+walidin,,,واليدين,parents
+khwal,5wal,,خوال,uncles
+3mam,a3mam,,عمام,uncles
+7fid,hfid,7afid,حفيد,grandchild
+jdd,jedd,jadd,جدّ,grandfather
+jdda,jedda,jadda,جدّة,grandmother
+7enna,3ziza,,حنّة,grandmother
+nsab,nsaab,,نساب,family-in-law

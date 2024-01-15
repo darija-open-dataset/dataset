@@ -1,55 +1,55 @@
-"n1","n2","n3","n4","eng"
-"rrwa7","","","","influenza"
-"skkar","","","","diabetes"
-"Sda3","","","","ache"
-"7asasia","hassasia","7assasia","","allergy"
-"DDi9a","DDe9a","","","asthma"
-"tanffous","tanffos","tanaffos","","breathing"
-"S7i7","","","","healthy"
-"mriD","","","","ill"
-"Tibb","","","","medicine"
-"sbiTar","","","","hospital"
-"labilanS","","","","ambulance"
-"maraD","","","","disease"
-"konSir","mard khayb","lmard lkhayb","mard lkhayb","cancer"
-"taw77oud","taw77od","","","autism"
-"bouchwika","bochwika","","","varicella"
-"ara9","","","","insomnia"
-"ss8al","","","","diarrhea"
-"SriSra","","","","diarrhea"
-"jr7a","jr7","jer7a","jar7a","wound"
-"t9ya","te9ya","t9ia","","vomit"
-"dwa","ddwa","","","medication"
-"ghrza","ghorza","gherza","","stitch"
-"3kkaz","3okkaz","","","crutch"
-"bnj","benj","lbnj","lbenj","anesthetic"
-"tchri7","tachri7","","","autopsy"
-"S77a","Si77a","Sa77a","","health"
-"alam","2alam","7ri9","","pain"
-"3Tsa","3eTsa","3aTsa","","sneeze"
-"k7ba","ka7ba","ke7ba","","cough"
-"khalia","khaliya","5alia","5alyya","cell"
-"maraD mozmin","","","","chronic disease"
-"maraD mo3di","","","","contagious disease"
-"gzima","lgzima","","","eczema"
-"SSr3","SSara3","","","epilepsy"
-"Ta3oun","Ta3on","","","plague"
-"romatizm","rromatizm","roumatizm","rroumatizm","rheumatism"
-"l7la9m","7la9m","7la9em","l7la9em","tonsils"
-"skhana","s5ana","sskhana","","fever"
-"7kka","7ekka","","","itching"
-"chalal","","","","paralysis"
-"gui7","gi7","","","pus"
-"lti8ab","ilti8ab","ltihab","","inflammation"
-"lbbaser","lbbasr","","","piles"
-"l9ebT","l9bT","","","constipation"
-"boul","","","","urine"
-"lgholD","gholD","lghlD","","obesity"
-"7ma9","l7ma9","","","insanity"
-"ij8aD","ijhaD","","","abortion"
-"jjdam","","","","leprosy"
-"7bb chchbab","7ebb chbab","7ebb chchbab","7bbchbab","acne"
-"7ri9 rass","alam d rass","","","headache"
-"mheress","m8aress","mharres","","fractured"
-"thrisa","tehrisa","te8rissa","","fracture"
-"boumzwi","bomzwi","","","Irritable bowel syndrome"
+n1,n2,n3,n4,darija_ar,eng
+rrwa7,,,,الرواح,influenza
+skkar,,,,سكّار,diabetes
+Sda3,,,,صداع,ache
+7asasia,hassasia,7assasia,,حساسية,allergy
+DDi9a,DDe9a,,,الضيقا,asthma
+tanffous,tanffos,tanaffos,,تنفّس,breathing
+S7i7,,,,صحيح,healthy
+mriD,,,,مريض,ill
+Tibb,,,,طبّ,medicine
+sbiTar,,,,سبيطار,hospital
+labilanS,,,,لابيلانص,ambulance
+maraD,,,,مرض,disease
+konSir,mard khayb,lmard lkhayb,mard lkhayb,كونصير,cancer
+taw77oud,taw77od,,,توحّد,autism
+bouchwika,bochwika,,,بوشويكا,varicella
+ara9,,,,أرق,insomnia
+ss8al,,,,السهال,diarrhea
+SriSra,,,,صريصرة,diarrhea
+jr7a,jr7,jer7a,jar7a,جرحة,wound
+t9ya,te9ya,t9ia,,تقيا,vomit
+dwa,ddwa,,,دوا,medication
+ghrza,ghorza,gherza,,غرزة,stitch
+3kkaz,3okkaz,,,عكّاز,crutch
+bnj,benj,lbnj,lbenj,بنج,anesthetic
+tchri7,tachri7,,,تشريح,autopsy
+S77a,Si77a,Sa77a,,صحّة,health
+alam,2alam,7ri9,,ألم,pain
+3Tsa,3eTsa,3aTsa,,عطسة,sneeze
+k7ba,ka7ba,ke7ba,,كحبة,cough
+khalia,khaliya,5alia,5alyya,خلية,cell
+maraD mozmin,,,,مرض مزمن,chronic disease
+maraD mo3di,,,,مرض معدي,contagious disease
+gzima,lgzima,,,ڭزيما,eczema
+SSr3,SSara3,,,الصرع,epilepsy
+Ta3oun,Ta3on,,,طاعون,plague
+romatizm,rromatizm,roumatizm,rroumatizm,روماتيزم,rheumatism
+l7la9m,7la9m,7la9em,l7la9em,لحلاقم,tonsils
+skhana,s5ana,sskhana,,سخانة,fever
+7kka,7ekka,,,حكّة,itching
+chalal,,,,شلل,paralysis
+gui7,gi7,,,ڭيح,pus
+lti8ab,ilti8ab,ltihab,,لتيهاب,inflammation
+lbbaser,lbbasr,,,لبّاسر,piles
+l9ebT,l9bT,,,لقبط,constipation
+boul,,,,بول,urine
+lgholD,gholD,lghlD,,لغلض,obesity
+7ma9,l7ma9,,,حماق,insanity
+ij8aD,ijhaD,,,إجهاض,abortion
+jjdam,,,,الجدام,leprosy
+7bb chchbab,7ebb chbab,7ebb chchbab,7bbchbab,حبّ الشباب,acne
+7ri9 rass,alam d rass,,,حريق راسّ,headache
+mheress,m8aress,mharres,,مهرسّ,fractured
+thrisa,tehrisa,te8rissa,,تهريسة,fracture
+boumzwi,bomzwi,,,بومزوي,Irritable bowel syndrome

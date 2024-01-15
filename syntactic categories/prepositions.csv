@@ -1,42 +1,42 @@
-"n1","n2","n3","n4","eng"
-"gddam","godam","goddam","","in front of"
-"mora","moura","","","behind"
-"fog","foug","","","on"
-"t7t","taht","ta7t","","under"
-"3la","aala","","","about"
-"b3d","be3d","ba3d","","after"
-"Dedd","Dadd","","","against"
-"fost","","","","among"
-"b7al","bhal","","","as"
-"b7al","bhal","","","like"
-"f","fi","","","at"
-"bsbab","bsabab","","","because of"
-"9bl","9bel","qbel","9bal","before"
-"mora","moura","wra","","behind"
-"t7t","lt7t","te7t","ta7t","below"
-"7da","hda","","","beside"
-"bin","","","","between"
-"b","bi","","","by"
-"bwasiTat","b wasiTat","","","by means of"
-"t7t","ta7t","te7T","","down"
-"fou9t","f w9t","fw9t","","during"
-"ma3ada","ma 3ada","","","except"
-"tab3","taab3","tabaa","","following"
-"l","li","","","to"
-"l","li","","","for"
-"mn","men","","","from"
-"f","fi","","","in"
-"za2id","","","","in addition"
-"ila","","","","if"
-"bima fiha","","","","including"
-"daakhl","daa5l","dakhl","da5l","inside"
-"khaarj","5aarj","kharj","5arj","outside"
-"mn","men","","","of"
-"3la","aala","","","over"
-"bnnisba","bnisba","b nnisba","b nisba","regarding"
-"mn","men","","","since"
-"f ttija8","f tijah","fttijah","ftija8","toward"
-"7tal","","","","until"
-"m3a","maa","","","with"
-"7it","7int","7itach","7intach","because"
-"bach","","","","in order to"
+n1,n2,n3,n4,darija_ar,eng
+gddam,godam,goddam,,ڭدّام,in front of
+mora,moura,,,مورا,behind
+fog,foug,,,فوڭ,on
+t7t,taht,ta7t,,تحت,under
+3la,aala,,,علا,about
+b3d,be3d,ba3d,,بعد,after
+Dedd,Dadd,,,ضدّ,against
+fost,,,,فوسط,among
+b7al,bhal,,,بحال,as
+b7al,bhal,,,بحال,like
+f,fi,,,ف,at
+bsbab,bsabab,,,بسباب,because of
+9bl,9bel,qbel,9bal,قبل,before
+mora,moura,wra,,مورا,behind
+t7t,lt7t,te7t,ta7t,تحت,below
+7da,hda,,,حدا,beside
+bin,,,,بين,between
+b,bi,,,ب,by
+bwasiTat,b wasiTat,,,بواسطة,by means of
+t7t,ta7t,te7T,,تحت,down
+fou9t,f w9t,fw9t,,فوقت,during
+ma3ada,ma 3ada,,,ماعادا,except
+tab3,taab3,tabaa,,تابع,following
+l,li,,,ل,to
+l,li,,,ل,for
+mn,men,,,من,from
+f,fi,,,ف,in
+za2id,,,,زائد,in addition
+ila,,,,إلا,if
+bima fiha,,,,بما فيها,including
+daakhl,daa5l,dakhl,da5l,داخل,inside
+khaarj,5aarj,kharj,5arj,خارج,outside
+mn,men,,,من,of
+3la,aala,,,على,over
+bnnisba,bnisba,b nnisba,b nisba,بالنسبة,regarding
+mn,men,,,من,since
+f ttija8,f tijah,fttijah,ftija8,ف اتجاه,toward
+7tal,,,,حتال,until
+m3a,maa,,,معا,with
+7it,7int,7itach,7intach,حيت,because
+bach,,,,باش,in order to
