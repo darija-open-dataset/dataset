@@ -25,9 +25,16 @@ While we have made significant progress in compiling and organizing the dataset,
 ---
 
 ## How to contribute
+[We've made a detailed video for you on how to contribute](https://www.youtube.com/watch?v=gyuTSJgux4s&ab_channel=DODa)
 
-[We've made a tutorial for you in DODa's website](https://darija-open-dataset.github.io/examples/tutorial.html)
+TL;DW (Too Long Didn't Watch):
+1. Go to [Issues](https://github.com/darija-open-dataset/dataset/issues)
+2. Choose one and comment to have it assigned to you
+3. Fork the [Dataset Repository](https://github.com/darija-open-dataset/dataset)
+4. Translate and fix typos in the file corresponding to your assigned issue 
+5. Open a Pull Request 
 
+Thank you for your contribution!!!
 ---
 
 ## Guidelines / Recommendations
