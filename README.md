@@ -16,14 +16,8 @@ Our primary goal is to establish DODa as the go-to reference for NLP in Darija. 
 While we have made significant progress in compiling and organizing the dataset, it's important to note that parts of the dataset are still either under review or in progress, especially in the *sentences.csv* file. We welcome contributions from the Moroccan IT community to help us refine and expand the dataset further, ensuring its accuracy and completeness. Together, we can build a powerful foundation for future NLP innovations tailored to Moroccan culture and language.
 
 ---
-<p align="center">
-  <img src="./images/wordcloud.png" alt="wordcloud of DODa."  width="100%" />
-</p>
-
 [Check out this introductory video about DODa.](https://www.youtube.com/watch?v=IZWuEy7yLB0)
-
 ---
-
 ## How to contribute
 [We've made a detailed video for you on how to contribute](https://www.youtube.com/watch?v=gyuTSJgux4s&ab_channel=DODa)
 
