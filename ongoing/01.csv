@@ -42,7 +42,7 @@ fin lmodakira?,where is the notebook,فين لموداكيرا?
 kant hnaya,it was here,كانت هنايا
 chofi hdak,look beside you,شوفي هداك
 jm3tha flil,I gathered it in the night,جمعتها فليل
-chtbt lbit,,شتبت لبيت
+chtbt lbit,sweep the room,شتبت لبيت
 hahya l9itha,no problem I found it,هاهيا لقيتها
 3tini lflos,give me the money,عتيني لفلوس
 nmchi nchri l3trya,I'm gonna go buy the spices,نمشي نشري لعتريا
@@ -52,7 +52,7 @@ yallah m3aya,come with me,يالّاه معايا
 jani n3as,I'm sleepy,جاني نعاس
 tsbho 3la khir,good night everyone,تسبهو علا خير
 sog lpikala,drive the bike,سوڭ لپيكالا
-dri srir,,دري سرير
+dri srir,a young boy,دري سرير
 atay skhon,hot tea,أتاي سخون
 ktb fdftar,write in the notebook,كتب فدفتار
 hdri m3aya,talk with me,هدري معايا
@@ -110,7 +110,7 @@ wach bghiti chi wajba khfifa?,do you want a quick snack?,واش بغيتي شي 
 chhal ra9m lkorsi dyalk?,what's your chair number,شهال راقم لكورسي ديالك?
 fin msafr ?,where are you traveling,فين مسافر ?
 wach bghiti blasa hda srjm?,do you want a spot next the window,واش بغيتي بلاسا هدا سرجم?
-wach haz m3ak chi sawail?,,واش هاز معاك شي ساوايل?
+wach haz m3ak chi sawail?,do you have liquids with you,واش هاز معاك شي ساوايل?
 rihla tlrat,the trip is canceled,ريهلا تلرات
 brina n3tadro 3la taekhir,we are sorry for the delay,برينا نعتادرو علا تاخير
 fya jo3,I'm hungry,فيا جوع
@@ -186,7 +186,7 @@ ghadi nmchiw lraba ndiro rihla,we are going to the forest,غادي نمشيو ل
 nhar zwin dir casket chms skhona,what a nice day put on you're hat it's hot,نهار زوين دير كاسكت شمس سخونا
 ghadi nmchi ftobis,I'm taking the bus,غادي نمشي فتوبيس
 diw m3akom lma,take water with you,ديو معاكوم لما
-hna katnbt dra,,هنا كاتنبت درا
+hna katnbt dra,here's where corn grows,هنا كاتنبت درا
 so9 3amr rkbt fo9 lhisan,the souk is crowded I rode a horse,سوق عامر ركبت فوق لهيسان
 hna kaydiro bzaf dyal lancheta,here they do a lot of activities,هنا كايديرو بزاف ديال لانشتا
 3afak chi hôtel 9rib,is there a hotel nearby,عافاك شي هôتل قريب
@@ -196,7 +196,7 @@ had jrda zwina,this garden is pretty,هاد جردا زوينا
 rja3ti wala mazal,did you come back,رجاعتي والا مازال
 ckon galik tamchi bwahdk,who told you to come alone,ككون ڭاليك تامشي بواهدك
 khaski txawri m3aya,you have to ask me first,خاسكي تشاوري معايا
-ma3ndi mandir blbsala,,ماعندي ماندير بلبسالا
+ma3ndi mandir blbsala,I don't like bad behaviour,ماعندي ماندير بلبسالا
 lwahd howa li y3awak 3la raso,you should only rely on yourself,لواهد هووا لي يعاواك علا راسو
 wa9ila ghadi na3ess,I think I'm going to sleep,واقيلا غادي ناعسّ
 ndiro lihom ghir xi tamarin wasaf,we are just gonne do only one exercice for them,نديرو ليهوم غير شي تامارين واساف
@@ -239,763 +239,757 @@ ghanmchi nakhedam.,I'm going to work,غانمشي ناخدام.
 wakha wlh masalit,I swear I was busy,واخا وله ماساليت
 ghadi nkhetaf xi w9ita,I'm going to make up some time,غادي نختاف شي وقيتا
 insan rah fih khalal,humans are not perfect,إنسان راه فيه خالال
-la hania imkan biti tmchi tn3as.,,لا هانيا إمكان بيتي تمشي تنعاس.
-hna yalah kandawzo sif.,,هنا يالاه كانداوزو سيف.
-hamdolah kolchi mzn,,هامدولاه كولشي مزن
-iwa had sa3a bien .,,إوا هاد ساعا بين .
-isawal fik lkhir abebe,,إساوال فيك لخير أبب
-ma ana martak,,ما أنا مارتاك
-ma ana bentak,,ما أنا بنتاك
-ma ana jartak,,ما أنا جارتاك
-ma ana hbibtak,,ما أنا هبيبتاك
-ma ana sahbtak,,ما أنا ساهبتاك
-ma ana khatibtk,,ما أنا خاتيبتك
-la ri3 hdar hd sa3a.,,لا ريع هدار هد ساعا.
-ahna hta hna m3aha,,أهنا هتا هنا معاها
-lwa9t khyabt akhoya.,,لواقت خيابت أخويا.
-w bshtak laftour zin.,,و بسهتاك لافتور زين.
-tkon 3andna monasba.,,تكون عاندنا موناسبا.
-wghadi ongolk marhba.,,وغادي أُنڭولك مارهبا.
-drt m3ah lmazyan.,,درت معاه لمازيان.
-xof hta t3ya wtskot.,,شوف هتا تعيا وتسكوت.
-wlmhm bnadam mrfo33,,ولمهم بنادام مرفوعّ
-ay haja 3andha 9anon.,,أي حاجة عاندها قانون.
-3tini gha tissa3 nwali b1.,,عتيني غا تيسّاع نوالي ب1.
-bhat 3la rasak almardi.,,بهات علا راساك ألماردي.
-lwalid dima rajal .,,لواليد ديما راجال .
-idrab youmayn safi.,,إدراب يوماين سافي.
-insan tama3 m3a rasoo,,إنسان تاماع معا راسو
-lmaghrib dylna zi'n,,لماغريب ديلنا زي'ن
-fotni khalini 3lik.,,فوتني خاليني عليك.
-telefon ghali bzafff.,,تلفون غالي بزافّف.
-wdir xi taman zwin.,,ودير شي تامان زوين.
-wzid n9as gha xi 100 dh,,وزيد نقاس غا شي 100 ده
-hawalt m3ah mabgha,,هاوالت معاه مابغا
-sir lso9 momkin tl9ah.,,سير لسوق مومكين تلقاه.
-gha xafha wtlaff meskin,,غا شافها وتلافّ مسكين
-iwa tkalma liya db,,إوا تكالما لييا دب
-lbarah knt naxat,,لباراه كنت ناشات
-wxhal mn whda xrbty,,وشهال من وهدا شربتي
-dir rasak makatfham.,,دير راساك ماكاتفهام.
-tmazak liya disque,,تمازاك لييا ديسقو
-nhaer dor biya nwarik,,نهار دور بييا نواريك
-xof alahmar 9adamak .,,شوف ألاهمار قاداماك .
-ana faytak b joj hwayj.,,أنا فايتاك ب جوج حوايج.
-xhal dawazti lpermi,,شهال داوازتي لپرمي
-knt f 2017 3ayan.,,كنت ف 2017 عايان.
-rab3in alf bax xrah.,,رابعين ألف باش شراه.
-osafi hdxi li ghngolik,,أُسافي هدشي لي غنڭوليك
-wax hdxi db khaliti,,واش هدشي دب خاليتي
-khali liya whda darori,,خالي لييا وهدا داروري
-mra khra nsifthom lik.,,مرا خرا نسيفتهوم ليك.
-wlah tatsdmt bzaf,,ولاه تاتسدمت بزاف
-wahaka kaydir liha.,,واهاكا كايدير ليها.
-ilamajawbto kayb9a ysoni bhal haka.,,إلاماجاوبتو كايبقا يسوني بهال هاكا.
-wax bghiti m3aya sway3,,واش بغيتي معايا سوايع
-waderi hada kay9ra mza,,وادري هادا كايقرا مزا
-mni kysonu 3lik hkk bzaff,,مني كيسونو عليك هكّ بزافّ
-mymkn insan kysonu 3lik ghir hakak,,ميمكن إنسان كيسونو عليك غير هاكاك
-wlah ma3rft ach kaydir,,ولاه ماعرفت أش كايدير
-nti 3titih lwa9t,,نتي عتيتيه لواقت
-wkhda wa9to lcafffi,,وخدا واقتو لكافّفي
-bsiff ysoni 3lik.,,بسيفّ يسوني عليك.
-lmgm hdxi rh m3jbnix.,,لمڭم هدشي ره معجبنيش.
-wach ana xayat lik .,,واش أنا شايات ليك .
-smh liya wsafi,,سمه لييا وسافي
-ana db sawltak,,أنا دب ساولتاك
-3lax blokitini nta,,علاش بلوكيتيني نتا
-kifax wlah m3rft 3lax,,كيفاش ولاه معرفت علاش
-hdxi libghit n3rff safi,,هدشي ليبغيت نعرفّ سافي
-kyna xi hj jdida,,كينا شي هج جديدا
-rah ana mafhamtt,,راه أنا مافهامتّ
-ghir goli liya 3lach hd,,غير ڭولي لييا علاش هد
-wkhy dyali fink,,وخي ديالي فينك
-wlbrah fin knti,,ولبراه فين كنتي
-wb9it hda marjane,,وبقيت هدا مارجان
-ja lwalid mn so9,,جا لواليد من سوق
-sift liua ta3bi2a,,سيفت ليوا تاعبيأ
-ana wlit naddi,,أنا وليت نادّي
-lyoma 9rit joj sway3,,ليوما قريت جوج سوايع
-gheda inshlah ghansafer,,غدا إنسهلاه غانسافر
-afin cv azin,,أفين كڤ أزين
-kif dayr ahbibi,,كيف داير أهبيبي
-kif dwzti nhark mzn,,كيف دوزتي نهارك مزن
-ach kat3awd b3da,,أش كاتعاود بعدا
-kif dayra lwalida,,كيف دايرا لواليدا
-labs 3liha afonon,,لابس عليها أفونون
-fin ghbrti 3liya,,فين غبرتي علييا
-wa chhal oana kntsna fik,,وا شهال أُانا كنتسنا فيك
-ana jaya mn lkhdma,,أنا جايا من لخدما
-smh liya t3tlt 3lik,,سمه لييا تعتلت عليك
-islm 3lik lkhir,,إسلم عليك لخير
-itwhchk lkhir abb,,إتوهشك لخير أبّ
-iwa ahna kan3diw,,إوا أهنا كانعديو
-m3a lw9t 9asha,,معا لوقت قاسها
-yalah thla liya frask,,يالاه تهلا لييا فراسك
-jit oml9itak,,جيت أُملقيتاك
-nti kat3jbini,,نتي كاتعجبيني
-wnti katham9ini,,ونتي كاتهامقيني
-wylh nmxiw lhih,,ويله نمشيو لهيه
-xhal bx xriti sbat,,شهال بش شريتي سبات
-wl3alam mrawan,,ولعالام مراوان
-wdk nher zelzal,,ودك نهر زلزال
-wnad lharb 3wtani,,وناد لهارب عوتاني
-lmhm kon ghir rajal,,لمهم كون غير راجال
-lmhm imta ntl9aw azin,,لمهم إمتا نتلقاو أزين
-matwahxtinich akbida,,ماتواهشتينيش أكبيدا
-iwa diri lna xi rdv,,إوا ديري لنا شي ردڤ
-bizou zin dyali,,بيزو زين ديالي
-howa kan f café,,هووا كان ف كافé
-mal9itich l7al,,مالقيتيش لحال
-wabazz lik akhy,,وابازّ ليك أخي
-matab9ax tabki wtaxki,,ماتابقاش تابكي وتاشكي
-rah hiya bghato mza,,راه هييا بغاتو مزا
-tla9at bih f resto,,تلاقات بيه ف رستو
-whiya saraha mbogsa,,وهييا ساراها مبوڭسا
-ay hay 3la x3er twill,,أي هاي علا شعر تويلّ
-hta ana 3ajabni.,,هتا أنا عاجابني.
-ana rah mrid,,أنا راه مريد
-wkifax,,وكيفاش
-iwa lah yaster wsafi,,إوا الله ياستر وسافي
-wahd sayd fina howa,,واهد سايد فينا هووا
-axno mlk m9ala9,,أشنو ملك مقالاق
-wax ghadi t3ich fiha,,واش غادي تعيش فيها
-fin ghadi twsal ga3,,فين غادي توسال ڭاع
-wntl9aw f jam3,,ونتلقاو ف جامع
-wntla9aw f lbar,,ونتلاقاو ف لبار
-wntxawfo hdah ila bghit,,ونتشاوفو هداه إلا بغيت
-b9a txad dk lakra.,,بقا تشاد دك لاكرا.
-3lah malo mazwin.,,علاه مالو مازوين.
-ach galih b3da khona,,أش ڭاليه بعدا خونا
-wgoliya xhal dk lakra,,وڭولييا شهال دك لاكرا
-wgha khaliha 3alah,,وغا خاليها عالاه
-rah lbarah khasart,,راه لباراه خاسارت
-iwa mxiti wla ba9i,,إوا مشيتي ولا باقي
-iwa kayn chi sfa,,إوا كاين شي سفا
-hta l3otla inshlah.,,هتا لعوتلا إنسهلاه.
-wafin wrah t3atalti,,وافين وراه تعاتالتي
-wkifax wax mbghitix tji,,وكيفاش واش مبغيتيش تجي
-wlmhm wdoz 3ando lggazar rah mahlol,,ولمهم ودوز عاندو لڭّازار راه ماهلول
-ana f triq daba,,أنا ف تريق دابا
-walakin ana 3ndi l3amal,,والاكين أنا عندي لعامال
-awddi khlliha 3lellah,,أودّي خلّيها عللّاه
-jawh mn marrakech,,جاوه من مارّاكش
-mali ana wmlk nta,,مالي أنا وملك نتا
-khaliha lrasak,,خاليها لراساك
-wgol xi hj fachkal,,وڭول شي هج فاشكال
-matab9ax tkharba9,,ماتابقاش تخارباق
-golihom ghir lha9i9a,,ڭوليهوم غير لهاقيقا
-iwa hmdolah kif dima,,إوا همدولاه كيف ديما
-ramadan mobrak,,رامادان موبراك
-wnta b9a hadinii,,ونتا بقا هادينيّ
-xof rah kolxi tmak,,شوف راه كولشي تماك
-bnadam kyfham libgha,,بنادام كيفهام ليبغا
-labas 3lih akhy,,لاباس عليه أخي
-wnayda lharb f char9,,ونايدا لهارب ف شارق
-iwa dwzo nta m3ak,,إوا دوزو نتا معاك
-gheda lmatch dyal lwidad,,غدا لماتش ديال لويداد
-iwa gheda sbah m3a 9,,إوا غدا سباه معا 9
-wgha nta li mfarwah,,وغا نتا لي مفارواه
-rah f lmahata l9ito,,راه ف لماهاتا لقيتو
-wgol lbnadam sa7,,وڭول لبنادام ساح
-wakyban s7i7,,واكيبان سحيح
-wrah kyst3mal protéine,,وراه كيستعمال پروتéين
-rah hiya li 3ahira,,راه هييا لي عاهيرا
-wmojod lkhir azin,,وموجود لخير أزين
-fotha wkhaliha tma,,فوتها وخاليها تما
-tasal biha wbloki,,تاسال بيها وبلوكي
-3awd charjiha db.,,عاود شارجيها دب.
-wlkhadam nit bniyti,,ولخادام نيت بنييتي
-wlkhadma hadi nit,,ولخادما هادي نيت
-wbghit ngolik hj,,وبغيت نڭوليك هج
-bghit n3traf lik,,بغيت نعتراف ليك
-rah knhabak,,راه كنهاباك
-rah knmot 3lkk,,راه كنموت علكّ
-gha xof xi blan,,غا شوف شي بلان
-bnadam mfarxakh,,بنادام مفارشاخ
-iwa aji 3ndi txof,,إوا أجي عندي تشوف
-rah ba3 dkxi kamal,,راه باع دكشي كامال
-whowa mohal wx tl9ah,,وهووا موهال وش تلقاه
-xarjam rah maftoh,,شارجام راه مافتوه
-wx7al katalbas,,وشحال كاتالباس
-w7al lbab db,,وحال لباب دب
-ana jay m3a dyaf,,أنا جاي معا دياف
-wgoliya wx ja 3ndk,,وڭولييا وش جا عندك
-rah khona kan tma,,راه خونا كان تما
-3tini nmira dyalk,,عتيني نميرا ديالك
-wdoz 3ndi tgheda,,ودوز عندي تغدا
-wx kyn xi ftour,,وش كين شي فتور
-wm3a xhal ghadi l3amal,,ومعا شهال غادي لعامال
-wx nta msali,,وش نتا مسالي
-wx 3nedk xi diplôme,,وش عندك شي ديپلôم
-wkha inshalahh bzrba,,وخا إنسهالاهه بزربا
-mrhba w alf mrahba.,,مرهبا و ألف مراهبا.
-yalah ara liya dkxi,,يالاه أرا لييا دكشي
-wsir direct wdir,,وسير ديركت ودير
-wsoni 3liya whd xwiya,,وسوني علييا وهد شوييا
-3tini xwiya akhy,,عتيني شوييا أخي
-wdoz 3ndi lkhadma,,ودوز عندي لخادما
-ara liya laflous,,أرا لييا لافلوس
-wkhod liya sal3a.,,وخود لييا سالعا.
-fot l9ahwa wdor,,فوت لقاهوا ودور
-hta ana khaftt,,هتا أنا خافتّ
-wbghit gha nmra dyal khok,,وبغيت غا نمرا ديال خوك
-m3a mab9at 3ndi,,معا مابقات عندي
-hut tah lih telefon .,,هوت تاه ليه تلفون .
-wglt za1ma ghadi tkon.,,وڭلت زا1ما غادي تكون.
-3ndk nta jdida dyalo,,عندك نتا جديدا ديالو
-lbarah kyn sahd,,لباراه كين ساهد
-rir m3a lwa9t,,رير معا لواقت
-wkon 9asah awa,,وكون قاساه أوا
-wbnadam tlfan m3a raso,,وبنادام تلفان معا راسو
-kon zwin bhalak,,كون زوين بهالاك
-lah ydir lkhir ahbiba,,الله يدير لخير أهبيبا
-zin fink rah kntsana,,زين فينك راه كنتسانا
-wgha mafia liykhdam,,وغا مافيا لييخدام
-3tini forsa okhra,,عتيني فورسا أُخرا
-wdk bnadam zin,,ودك بنادام زين
-iwa 3ndk takhsero,,إوا عندك تاخسرو
-wdoz l3ndo wji m3ah,,ودوز لعندو وجي معاه
-nhar gatlik lma39ol,,نهار ڭاتليك لماعقول
-wdoz wjibo m3k,,ودوز وجيبو معك
-kndwi bniytiii,,كندوي بنييتيّي
-wx nta xwiya mzanzan,,وش نتا شوييا مزانزان
-wrah dar 3andna 3amra,,وراه دار عاندنا عامرا
-iwa mza fiha hiya sabab,,إوا مزا فيها هييا ساباب
-jib wr9a dokhol,,جيب ورقا دوخول
-khodi safha okhra,,خودي سافها أُخرا
-lyoma dzt lik,,ليوما دزت ليك
-gheda tamarin jdad,,غدا تامارين جداد
-3ndk tghlat m3aya,,عندك تغلات معايا
-bnadam zéro fhd lablad,,بنادام زéرو فهد لابلاد
-wsawlt fih omasawl fiha,,وساولت فيه أُماساول فيها
-xhal mrayah,,شهال مراياه
-ara xi garo akhy,,أرا شي ڭارو أخي
-rah ana m9to3,,راه أنا مقتوع
-wri9a w ktmarad 3liha,,وريقا و كتماراد عليها
-ara lna dk z3tar,,أرا لنا دك زعتار
-wgha 39al 3liha,,وغا عقال عليها
-lmaskhot dar ksida,,لماسخوت دار كسيدا
-beslama hbiba moh,,بسلاما هبيبا موه
-zizwar ntaya m3a rasak,,زيزوار نتايا معا راساك
-wmol hanot 3ndo kolxi,,ومول هانوت عندو كولشي
-rah kyna tmak nsitiha,,راه كينا تماك نسيتيها
-rah saort hda lbab,,راه ساورت هدا لباب
-bab kbir tbarklah,,باب كبير تباركلاه
-db linsan kyzalal,,دب لينسان كيزالال
-wjib lna xi litro,,وجيب لنا شي ليترو
-xhal kataswa hadi,,شهال كاتاسوا هادي
-xhal taman dyalha,,شهال تامان ديالها
-fiha akhir amol lkhir,,فيها أخير أمول لخير
-wtlab sidi rabi,,وتلاب سيدي رابي
-bnadam gha mahsad,,بنادام غا ماهساد
-bnadam gha mah9ad,,بنادام غا ماهقاد
-bnadam gha mnawi,,بنادام غا مناوي
-iwa chaghlo hadak,,إوا شاغلو هاداك
-yfhma libgha ana mali,,يفهما ليبغا أنا مالي
-xher jay kon tma,,شهر جاي كون تما
-b3d 3lih rah fih lmoshkil,,بعد عليه راه فيه لموسهكيل
-nzidak wla nskot,,نزيداك ولا نسكوت
-rah xaftha glsa tma,,راه شافتها ڭلسا تما
-xhal katalbas f rajlin,,شهال كاتالباس ف راجلين
-wxhal katsalo dyal flous,,وشهال كاتسالو ديال فلوس
-wlmhm rah ghadi tl9ah,,ولمهم راه غادي تلقاه
-wskot ila mzayer,,وسكوت إلا مزاير
-tjawaj asahbi rah zin,,تجاواج أساهبي راه زين
-drari sghar fihom sda3,,دراري سغار فيهوم سداع
-ich bnadam gha dawi,,إش بنادام غا داوي
-haydi lih telefon,,هايدي ليه تلفون
-golih y9ra mza,,ڭوليه يقرا مزا
-wx mxa lafac,,وش مشا لافاك
-ba9i f lablad,,باقي ف لابلاد
-w zayar had l3am,,و زايار هاد لعام
-l3am jay ghaykon lkhir,,لعام جاي غايكون لخير
-wx bla m3na dkchi.,,وش بلا معنا دكشي.
-rah 3ndi takwin.,,راه عندي تاكوين.
-rah msafer ana,,راه مسافر أنا
-wkifx rah mafhmt,,وكيفش راه مافهمت
-lcar rah mxa 3lik,,لكار راه مشا عليك
-hadi rah l3o9oba.,,هادي راه لعوقوبا.
-3lch swltk o khality vu,,علش سولتك أُ خاليتي ڤو
-aslan nta dima hka dayer,,أسلان نتا ديما هكا داير
-rah mchina bzoj wml9ina walo tma,,راه مشينا بزوج وملقينا والو تما
-chty dak wjh lwil,,شتي داك وجه لويل
-mchat l torkya,,مشات ل توركيا
-gal liya bli tsjl f lafac l9orea d amrika gheda,,ڭال لييا بلي تسجل ف لافاك لقورا د أمريكا غدا
-ymkn khasna nmchiw,,يمكن خاسنا نمشيو
-ta hna wa3rri'n,,تا هنا واعرّي'ن
-nari yakhty 3la dok joj lf3at,,ناري ياختي علا دوك جوج لفعات
-mb9aw baw yhchmo,,مبقاو باو يهشمو
-ana mchit lmarrakech,,أنا مشيت لمارّاكش
-gals ana f salon,,ڭالس أنا ف سالون
-wbghit njm3 liha,,وبغيت نجمع ليها
-wgha sber 3liya,,وغا سبر علييا
-twahxtak almima,,تواهشتاك ألميما
-twhxtak alwalid,,توهشتاك ألواليد
-twhxtak amrati,,توهشتاك أمراتي
-wbghit ndir m3k xi,,وبغيت ندير معك شي
-wdaz bsor3a,,وداز بسورعا
-rah lmos f cosina,,راه لموس ف كوسينا
-talaja mazala maftoha,,تالاجا مازالا مافتوها
-wjib tomobile dylk,,وجيب توموبيل ديلك
-ba3 dik lard,,باع ديك لارد
-wbghit njm3 rasi,,وبغيت نجمع راسي
-wxrit tlfasa jdida,,وشريت تلفاسا جديدا
-ara liya ha9i mn dkchi,,أرا لييا هاقي من دكشي
-awah wax nta tma,,أواه واش نتا تما
-bghit nxofk ila bghiti,,بغيت نشوفك إلا بغيتي
-wm3a xhal nxofk,,ومعا شهال نشوفك
-daghya sawalti fiha,,داغيا ساوالتي فيها
-wlah yhdik makhla9,,ولاه يهديك ماخلاق
-malk khayaf mon,,مالك خاياف مون
-wkhda 3ndo zayt,,وخدا عندو زايت
-lmotor tabyasa,,لموتور تابياسا
-dah m3ah f lkofre,,داه معاه ف لكوفر
-ji ji twhxtak nxofak,,جي جي توهشتاك نشوفاك
-wx nta majawaj,,وش نتا ماجاواج
-wax nti mtal9a,,واش نتي متالقا
-wx ntoma l'abs xwiya,,وش نتوما ل'ابس شوييا
-wx nti mjawja bih,,وش نتي مجاوجا بيه
-wkhali lma fin ydoz,,وخالي لما فين يدوز
-bnadam msalgat tma,,بنادام مسالڭات تما
-wtachafrte tma bl3alali,,وتاشافرت تما بلعالالي
-wa latay 3ndk azin,,وا لاتاي عندك أزين
-wlmhm rh mtaki xwiya,,ولمهم ره متاكي شوييا
-rah ana gha f dar,,راه أنا غا ف دار
-sift li lcod,,سيفت لي لكود
-wna gha f la banque,,ونا غا ف لا بانقو
-wx khditi lflous wla mzl,,وش خديتي لفلوس ولا مزل
-hit wxftak ghbrrti azin,,هيت وشفتاك غبرّتي أزين
-ila kyn dk bnadam tma,,إلا كين دك بنادام تما
-rh 9ray mza,,ره قراي مزا
-rah tkharjat mo3alima,,راه تخارجات موعاليما
-rh tkharjat mo3alim.,,ره تخارجات موعاليم.
-wlat dik bnt tbiba.,,ولات ديك بنت تبيبا.
-bsahtkom hd lgalsa.,,بساهتكوم هد لڭالسا.
-wkanbni dar akhy.,,وكانبني دار أخي.
-farfara khalitha 5adama.,,فارفارا خاليتها خاداما.
-rah l9isam mesdod,,راه لقيسام مسدود
-chrit lmonada db,,شريت لمونادا دب
-wknhbak bzaff wlah,,وكنهباك بزافّ ولاه
-hayad mn hdaya.,,هاياد من هدايا.
-dir dk lfilm rh zwin.,,دير دك لفيلم ره زوين.
-rah film nadi,,راه فيلم نادي
-xftk gls hda lmadrsa.,,شفتك ڭلس هدا لمادرسا.
-rah khadam f lmasbana.,,راه خادام ف لماسبانا.
-rh kaytharak besbah.,,ره كايتهاراك بسباه.
-wgha bnadam twhxni,,وغا بنادام توهشني
-fih whd lghira.,,فيه وهد لغيرا.
-fiha ghira kbira,,فيها غيرا كبيرا
-zwina rah ktbghik,,زوينا راه كتبغيك
-t9atal m3a lwa9t,,تقاتال معا لواقت
-salem 3liha bzaf,,سالم عليها بزاف
-w3idkom mobarak sa3id.,,وعيدكوم موباراك ساعيد.
-xof xkara rh fih,,شوف شكارا ره فيه
-brika rah makhadamch,,بريكا راه ماخادامش
-whd salon zwin wkbi,,وهد سالون زوين وكبي
-wx nta dyr idrab,,وش نتا دير إدراب
-gheda l3otla,,غدا لعوتلا
-iwa frah liya m3a rasak,,إوا فراه لييا معا راساك
-b3d 3la lmokhadirat,,بعد علا لموخاديرات
-dir rayada dima,,دير رايادا ديما
-wkntxaja3 fra9ty,,وكنتشاجاع فراقتي
-wbayna fin nta hma9,,وباينا فين نتا هماق
-xhal xriti téléphone,,شهال شريتي تéلéپهون
-salafni xi flous,,سالافني شي فلوس
-wana f xari3,,وانا ف شاريع
-sonit lik owalo.,,سونيت ليك أُوالو.
-wb9it kntsanak alhob,,وبقيت كنتساناك ألهوب
-aji wach adiro kola b9ismo,,أجي واش أديرو كولا بقيسمو
-wla kima drto l3am lfayt,,ولا كيما درتو لعام لفايت
-knti l3am lfayti glti,,كنتي لعام لفايتي ڭلتي
-nta tchad 9ism tmk,,نتا تشاد قيسم تمك
-otlamd liyb9aw itbadlo,,أُتلامد لييبقاو إتبادلو
-ach ghadiro had l3am,,أش غاديرو هاد لعام
-ah iwa sf hkak hssen,,أه إوا سف هكاك هسّن
-wx dk ostad fraso,,وش دك أُستاد فراسو
-ah kant ghada liha,,أه كانت غادا ليها
-dini m3ak sbah,,ديني معاك سباه
-la la sf blach ama3ndk tran walo,,لا لا سف بلاش أماعندك تران والو
-ah jaw ms machi kamla,,أه جاو مس ماشي كاملا
-oui an glst hna,,وي أن ڭلست هنا
-hh wa ana ga3 mazal mal9it dyali,,هه وا أنا ڭاع مازال مالقيت ديالي
-ila l9itihm siftlya nta nit ijiw maa 9 onss,,إلا لقيتيهم سيفتليا نتا نيت إجيو ما 9 أُنسّ
-wach jaw tlamd kamla,,واش جاو تلامد كاملا
-la ghir dar,,لا غير دار
-khrjto ntoma,,خرجتو نتوما
-la ana ghir dar,,لا أنا غير دار
-rah maghayt3awd,,راه ماغايتعاود
-gharj3o bhalkom,,غارجعو بهالكوم
-arah n3ast dani n3ass bnadm shar yad,,أراه نعاست داني نعاسّ بنادم سهار ياد
-rah knt kandwi appel dakchi lach,,راه كنت كاندوي أپّل داكشي لاش
-gol hda lwad,,ڭول هدا لواد
-iwa lah ir7am lwalidin,,إوا الله إرحام لواليدين
-ana 3arfa mamalk,,أنا عارفا مامالك
-ghaglthalk laknti adfa3,,غاڭلتهالك لاكنتي أدفاع
-ah bati tma,,أه باتي تما
-kayn chi 3cha,,كاين شي عشا
-mat9ad 3lya man9ad 3lik,,ماتقاد عليا مانقاد عليك
-aah wa ana rah machi hkak lidart,,اه وا أنا راه ماشي هكاك ليدارت
-kolchi rawanto ana,,كولشي راوانتو أنا
-makandkhl ana lchi face ana kanchof ghalikat7at hna flwatsp,,ماكاندخل أنا لشي فاس أنا كانشوف غاليكاتحات هنا فلواتسپ
-face an7aydo ga3,,فاس أنحايدو ڭاع
-ah iwa mzyan asidi,,أه إوا مزيان أسيدي
-ta ana f casa,,تا أنا ف كاسا
-agol ltlamd ydakhlo irasmo chihaja ijiboha,,أڭول لتلامد يداخلو إراسمو شيحاجة إجيبوها
-ldik lmajla l7a2ithya anbadalha,,لديك لماجلا لحاإتهيا أنبادالها
-attriko lbyad,,أتّريكو لبياد
-chtk katchof fl9ism,,شتك كاتشوف فلقيسم
-fin chti fya awdi hh,,فين شتي فيا أودي هه
-ta ana ma3ndi walooo,,تا أنا ماعندي والوو
-lism3ak igol achmn tbogissa,,ليسمعاك إڭول أشمن تبوڭيسّا
-3la ma3mri ga3 lbsta,,علا ماعمري ڭاع لبستا
-fach kayn tansi9,,فاش كاين تانسيق
-iwa darori mra mra,,إوا داروري مرا مرا
-nta dwkhok ghal7orof,,نتا دوخوك غالحوروف
-nta libantili ghabar,,نتا ليبانتيلي غابار
-ok chinhar fach katbat hna iwa sf nhar jm3a,,أُك شينهار فاش كاتبات هنا إوا سف نهار جمعا
-m3rft saraha,,معرفت ساراها
-iwa sf nchofo tlat,,إوا سف نشوفو تلات
-tayla latchawfna fh,,تايلا لاتشاوفنا فه
-onjiw jm3a ok,,أُنجيو جمعا أُك
-la nta simana kolha ga3,,لا نتا سيمانا كولها ڭاع
-ta ana kan39l,,تا أنا كانعقل
-wakha swl lya 3afak,,واخا سول ليا عافاك
-n3ast achmn vu,,نعاست أشمن ڤو
-vu hya t9ra msg,,ڤو هيا تقرا مسڭ
-omatjawb 3lih,,أُماتجاوب عليه
-rah 2 chrtat makay3niwch bli dakhla lwatsap,,راه 2 شرتات ماكايعنيوش بلي داخلا لواتساپ
-coco dzl nsit mardit 3lik,,كوكو دزل نسيت مارديت عليك
-rah jit ldar,,راه جيت لدار
-iwa hadchi li3ta lah,,إوا هادشي ليعتا الله
-iwa rah ana gltlk mn dak nhar,,إوا راه أنا ڭلتلك من داك نهار
-ila majit lajbal,,إلا ماجيت لاجبال
-wila jit rah sf,,ويلا جيت راه سف
-db chkon limkhli vu,,دب شكون ليمخلي ڤو
-hadi hya vu dyal bsa7,,هادي هيا ڤو ديال بساح
-bnadm i9ra msgk omayjawb,,بنادم إقرا مسڭك أُمايجاوب
-ah machi mochkil wasmhlina ila braztnak,,أه ماشي موشكيل واسمهلينا إلا برازتناك
-ohadchi lidrti rah khliti vu,,أُهادشي ليدرتي راه خليتي ڤو
-rak khlitihaaaa asidi,,راك خليتيهاا أسيدي
-lwahd liy9a msg omayjawb,,لواهد لييقا مسڭ أُمايجاوب
-hadik hya vu dbsah,,هاديك هيا ڤو دبساه
-hit m3ndi mngol,,هيت معندي منڭول
-ah sobhan llah,,أه سوبهان اللاه
-ghanta litkhli vu,,غانتا ليتخلي ڤو
-aknt bagha ngolik gha majawti wmchit bhali,,أكنت باغا نڭوليك غا ماجاوتي ومشيت بهالي
-ah tfit telefon,,أه تفيت تلفون
-iwa rah mat3rf ach tjib lwa9t,,إوا راه ماتعرف أش تجيب لواقت
-omomkin bnadm ihtajk,,أُمومكين بنادم إهتاجك
-mamzyanch hkak,,مامزيانش هكاك
-kifach ach bghak bnadm o3la lyom ana kansoni walo,,كيفاش أش بغاك بنادم أُعلا ليوم أنا كانسوني والو
-tfih wla che3lo,,تفيه ولا شعلو
-nta katfalsaf 3lya,,نتا كاتفالساف عليا
-iwa ana kandwi maak,,إوا أنا كاندوي ماك
-okangolik lach tafiha,,أُكانڭوليك لاش تافيها
-rah gali ghir pochita,,راه ڭالي غير پوشيتا
-hanmarto sonilih ghasonilih bach ta3rf fin i3tihmlk,,هانمارتو سونيليه غاسونيليه باش تاعرف فين إعتيهملك
-wila sba9tih nta,,ويلا سباقتيه نتا
-ohwa mazal ma7thomlih,,أُهوا مازال ماحتهومليه
-wamachiiii kartona,,واماشيّيّ كارتونا
-waghir pochita,,واغير پوشيتا
-ah yih kankhrb9 ana,,أه ييه كانخربق أنا
-yih kankharba9o kmlin,,ييه كانخارباقو كملين
-chehal mn tilmid,,شهال من تيلميد
-dawkhoni ana had lflos,,داوخوني أنا هاد لفلوس
-chkon ba9i ma3ta 3ndkom skhoniya bzaf,,شكون باقي ماعتا عندكوم سخونييا بزاف
-agol lih b flos tsjall,,أڭول ليه ب فلوس تسجالّ
-rah lmodir kaygoli nsifthomlih,,راه لمودير كايڭولي نسيفتهومليه
-nass jaw lablad,,ناسّ جاو لابلاد
-3la vedio kaykhl3,,علا ڤديو كايخلع
-ila jaw talamid,,إلا جاو تالاميد
-sifthom bhalhom rah maghankhdm lyom,,سيفتهوم بهالهوم راه ماغانخدم ليوم
-ana t9der nkhraj bkri,,أنا تقدر نخراج بكري
-3andi tbiba,,عاندي تبيبا
-iwa kayn chi sfar,,إوا كاين شي سفار
-yih mrahba chnahya .,,ييه مراهبا شناهيا .
-3o9oba hadi ola chno,,عوقوبا هادي أُلا شنو
-aji nti msafra,,أجي نتي مسافرا
-ana aslan mafhmt hadchi ma3rft lih,,أنا أسلان مافهمت هادشي ماعرفت ليه
-ywdi ktbi libghiti,,يودي كتبي ليبغيتي
-abzaf mafya liyktab,,أبزاف مافيا لييكتاب
-nta 3o9oba hadi,,نتا عوقوبا هادي
-nta glti liya laaa,,نتا ڭلتي لييا لاا
-hta nmxi l9issam.,,هتا نمشي لقيسّام.
-ana rah db ftri9.,,أنا راه دب فتريق.
-dorros homa hadok,,دورّوس هوما هادوك
-rah dakchi liglt lik.,,راه داكشي ليڭلت ليك.
-wx nti khditih,,وش نتي خديتيه
-makhdit walou azin,,ماخديت والو أزين
-mawsslna walou mno,,ماوسّلنا والو منو
-ijib ghur sha osalama,,إجيب غور سها أُسالاما
-fiha xi 3ibb,,فيها شي عيبّ
-ana ghandir dakchi,,أنا غاندير داكشي
-wach nta katssayb,,واش نتا كاتسّايب
-hta ana momkin,,هتا أنا مومكين
-rah makayn hta moxkil,,راه ماكاين هتا موشكيل
-hdxi ana b3da tlaa3 li damm,,هدشي أنا بعدا تلاع لي دامّ
-wlkin ana knswbo fih,,ولكين أنا كنسوبو فيه
-dar olkhadma had sa3a,,دار أُلخادما هاد ساعا
-ana 9tarht whd safi,,أنا قتارهت وهد سافي
-ani ndir français,,أني ندير فرانçايس
-onta ila bghiti,,أُنتا إلا بغيتي
-fin ja bdabt,,فين جا بدابت
-wach hda riad lamane,,واش هدا رياد لامان
-ola 9bal mno,,أُلا قبال منو
-olah ila bssah,,أُلاه إلا بسّاه
-nichan niit,,نيشان نيّت
-wayeeh dakchi likayn,,واييه داكشي ليكاين
-iwa ach ghadir,,إوا أش غادير
-ana b3da ma3ndich,,أنا بعدا ماعنديش
-tza3za3t mn blassti,,تزاعزاعت من بلاسّتي
-hit khalti tma,,هيت خالتي تما
-hna makayn inch f centre,,هنا ماكاين إنش ف سنتر
-walakin darbat,,والاكين داربات
-walh ila malk rkhis 3andna,,واله إلا مالك رخيس عاندنا
-wlah ila lmalal,,ولاه إلا لمالال
-smhli maknjwb,,سمهلي ماكنجوب
-bit nsafr omrwna,,بيت نسافر أُمرونا
-m3a skhari lkhdma l3fo,,معا سخاري لخدما لعفو
-ah la mazal saraha,,أه لا مازال ساراها
-la wlah ma3ajbni,,لا ولاه ماعاجبني
-hit kaynin lbnat dakchi bach,,هيت كاينين لبنات داكشي باش
-wlah maknkdab,,ولاه ماكنكداب
-ahna kharjin db,,أهنا خارجين دب
-skhan lhal,,سخان لحال
-ana db nji,,أنا دب نجي
-warah l3fo mli kayskhan lhal,,واراه لعفو ملي كايسخان لحال
-wayh hh ana kaysali m3aya sahat,,وايه هه أنا كايسالي معايا ساهات
-galsna ftmdid,,ڭالسنا فتمديد
-wafin cv wjtilya lhlib otmar,,وافين كڤ وجتيليا لهليب أُتمار
-ach zyan lmot saht,,أش زيان لموت ساهت
-hhhh la bayna lblan,,هههه لا باينا لبلان
-lhamdolh wnta achkt3wd,,لهامدوله ونتا أشكتعود
-ahy machi dylk dok lf3ayl,,أهي ماشي ديلك دوك لفعايل
-lawh wlah madyalk,,لاوه ولاه ماديالك
-fay9ak saht,,فايقاك ساهت
-wjd lglas machi lihlib,,وجد لڭلاس ماشي ليهليب
-tjibhalina ndrha ghir lshti m3a chwi lhna nhydo zrogya gyal agadir,,تجيبهالينا ندرها غير لسهتي معا شوي لهنا نهيدو زروڭيا ڭيال أڭادير
-bsah ayh lah yshl 3lik chal kaydir yak maghali,,بساه أيه الله يسهل عليك شال كايدير ياك ماغالي
-yzayn yamk achkt3wd hanya,,يزاين يامك أشكتعود هانيا
-galtlik mora l3id .,,ڭالتليك مورا لعيد .
-ana ghankon khdama maghnsali lyoma wgheda,,أنا غانكون خداما ماغنسالي ليوما وغدا
-wafin cv kaynin chi 3rast wla makn li3rdk,,وافين كڤ كاينين شي عراست ولا ماكن ليعردك
-mamn9al chi shab lbak walo,,مامنقال شي سهاب لباك والو
-wayh lmohim dakchi lktir ktboh,,وايه لموهيم داكشي لكتير كتبوه
-makyna walo fa3 safi,,ماكينا والو فاع سافي
-3adi machi mochkil,,عادي ماشي موشكيل
-wayh hta ygrad,,وايه هتا يڭراد
-yzayn yamk,,يزاين يامك
-mazl makhrjo,,مازل ماخرجو
-wayh hta ytgras,,وايه هتا يتڭراس
-walh ial l3fo 3rfti chhal nas msiftilya mamjwba had hh,,واله يال لعفو عرفتي شهال ناس مسيفتيليا مامجوبا هاد هه
-kayna tamara wlah,,كاينا تامارا ولاه
-walo ghir tamara 3l wal9,,والو غير تامارا عل والق
-iwa tamara hakak,,إوا تامارا هاكاك
-ana ich achghnhyd wlo makn bach nhydo,,أنا إش أشغنهيد ولو ماكن باش نهيدو
-maslah okan kanhchmo,,ماسلاه أُكان كانهشمو
-iwa magltih,,إوا ماڭلتيه
-ytwahchk lkhir ana mazal msafra,,يتواهشك لخير أنا مازال مسافرا
-mazl majit achkat3wd,,مازل ماجيت أشكاتعود
-wafin hanya achkat3we wnta lighbar,,وافين هانيا أشكاتعو ونتا ليغبار
-ahna ana rani ghir fzagora db,,أهنا أنا راني غير فزاڭورا دب
-hya msfrtich fhad l3otla,,هيا مسفرتيش فهاد لعوتلا
-walah ila slak,,والاه إلا سلاك
-kidayr m3a lkhdma,,كيداير معا لخدما
-iwa ila chrbi ghir skar,,إوا إلا شربي غير سكار
-warh w9to hadi achghndiro,,واره وقتو هادي أشغنديرو
-walo had sa3a,,والو هاد ساعا
-kidayr m3a chi khdma mzyan,,كيداير معا شي خدما مزيان
-ah nkon ana,,أه نكون أنا
-achmn w9ita blil,,أشمن وقيتا بليل
-la mohal wach ana,,لا موهال واش أنا
-wlah ila lhmdolv,,ولاه إلا لهمدولڤ
-hya bdat l9raya,,هيا بدات لقرايا
-ah3yana chwya ila 3ndi chihaja kanmchi btaksi,,أهعيانا شويا إلا عندي شيحاجة كانمشي بتاكسي
-chwya lhamdolah,,شويا لهامدولاه
-kay'a ghir mchalya tele tah lya,,كاي'ا غير مشاليا تل تاه ليا
-lahmdolah yswl fik lkhir,,لاهمدولاه يسول فيك لخير
-wlah ila ahna,,ولاه إلا أهنا
-kanslko m3a saht,,كانسلكو معا ساهت
-smhli wlah ila sahabli jawbtk,,سمهلي ولاه إلا ساهابلي جاوبتك
-iwa snito sir safr tbahar,,إوا سنيتو سير سافر تباهار
-wlah tzadit bzaf,,ولاه تزاديت بزاف
-hhh hadchi li3talah,,ههه هادشي ليعتالاه
-ahna kandobo fhad saht,,أهنا كاندوبو فهاد ساهت
-ndobo l3fooo osfai,,ندوبو لعفوو أُسفاي
-mazal lyoma,,مازال ليوما
-lah y3tik sha,,الله يعتيك سها
-la db ma3roda,,لا دب ماعرودا
-mablok had tele 3ndi hbl,,مابلوك هاد تل عندي هبل
-wayh kayskhno,,وايه كايسخنو
-bit ngolik mazl hna fl3rasat,,بيت نڭوليك مازل هنا فلعراسات
-ayh dima shir,,أيه ديما سهير
-safi db nchof ongolik,,سافي دب نشوف أُنڭوليك
-chti kiwlit,,شتي كيوليت
-lah ybark fik bit n9as wlah,,الله يبارك فيك بيت نقاس ولاه
-wana kaybalya bzaf,,وانا كايباليا بزاف
-wlah ila mab9it kankal m3a saht ghir sawail,,ولاه إلا مابقيت كانكال معا ساهت غير ساوايل
-ah lokn galtiha ngolik hta ana la hhhh kant khdama lyoma mafa9t htal 2,,أه لوكن ڭالتيها نڭوليك هتا أنا لا هههه كانت خداما ليوما مافاقت هتال 2
-wasafi hta nchofo chi nhar onkhrjo blil bhal hakak lwad ontjm3o ndiro chi jaskrot,,واسافي هتا نشوفو شي نهار أُنخرجو بليل بهال هاكاك لواد أُنتجمعو نديرو شي جاسكروت
-la machi ana,,لا ماشي أنا
-wasaht onas katzwaj,,واساهت أُناس كاتزواج
-wayglso ghir fchhar 10 lfo9 mzyana,,وايڭلسو غير فشهار 10 لفوق مزيانا
-yzyan yamk,,يزيان يامك
-mazl mamsafar,,مازل مامسافار
-wayah lkhdma chhal ghatb9a ta,,واياه لخدما شهال غاتبقا تا
-ah ila jit tma nswal fik,,أه إلا جيت تما نسوال فيك
-hayhay nas bsahtk,,هايهاي ناس بساهتك
-la warzazat,,لا وارزازات
-ahna knslko hta bina ntl3o hna mchiti ltanja,,أهنا كنسلكو هتا بينا نتلعو هنا مشيتي لتانجا
-rah 3xiya nsawal fik,,راه عشييا نساوال فيك
-xof rh mamsali,,شوف ره مامسالي
-khalsti dkchi,,خالستي دكشي
-wjib lih la9fal,,وجيب ليه لاقفال
-rah sift lih msg,,راه سيفت ليه مسڭ
-okan bgha yji,,أُكان بغا يجي
-mrhba bik asahbi,,مرهبا بيك أساهبي
-rah ghnsoni 3lik,,راه غنسوني عليك
-hbiba fin xadaha,,هبيبا فين شاداها
-iwa dozi l3andi,,إوا دوزي لعاندي
-wjib joj dfater,,وجيب جوج دفاتر
-wjib joj kilo batata,,وجيب جوج كيلو باتاتا
-rah maticha ghalya,,راه ماتيشا غاليا
-jib liya m3k takos,,جيب لييا معك تاكوس
-imta l3ars 3ndo b3da,,إمتا لعارس عندو بعدا
-glaiya xhaer jay,,ڭلاييا شهار جاي
-wglst tsanani tmak,,وڭلست تساناني تماك
-mlk earban awa,,ملك إاربان أوا
-rah drab zenzl f maghrib,,راه دراب زنزل ف ماغريب
-imta ghadi lafrnasa,,إمتا غادي لافرناسا
-wjib liya m3k xi hj,,وجيب لييا معك شي هج
-xhal f 3amrak,,شهال ف عامراك
-fin kataskon,,فين كاتاسكون
-smiyt bak,,سمييت باك
-smiyt malak,,سمييت مالاك
-chno ism dyl khok,,شنو إسم ديل خوك
-wkhtak zwina,,وختاك زوينا
-bghit natnasab m3kom,,بغيت ناتناساب معكوم
-wl9a bnt zwina,,ولقا بنت زوينا
-machalah 3likom,,ماشالاه عليكوم
-tbarklah 3liha hiya,,تباركلاه عليها هييا
-ostad lyoma zwin,,أُستاد ليوما زوين
-lbarah kan dars zwin,,لباراه كان دارس زوين
-match kan momti3,,ماتش كان مومتيع
-wjib liya tmerr,,وجيب لييا تمرّ
-ana rah ghanbat hna,,أنا راه غانبات هنا
-wgha lah yssekher lik,,وغا الله يسّخر ليك
-sifti liya ta3bi2a,,سيفتي لييا تاعبيأ
-rah safar howa o bah,,راه سافار هووا أُ باه
-xhal kbira 3ndkom dar.,,شهال كبيرا عندكوم دار.
-virsi liya dkxi,,ڤيرسي لييا دكشي
-rah wa9f nit,,راه واقف نيت
-rah kn9lb 3la khadama,,راه كنقلب علا خاداما
-mxit l casablanca,,مشيت ل كاسابلانكا
-w safrt l maknas,,و سافرت ل ماكناس
-w rah ana f taza,,و راه أنا ف تازا
-wdoz l3ndo l agadir.,,ودوز لعندو ل أڭادير.
-fin akhoua l3ziz,,فين أخوا لعزيز
-wamlk lberah majitich,,واملك لبراه ماجيتيش
-wab9it kantsna fik,,وابقيت كانتسنا فيك
-lmhm chof ghur 9adi,,لمهم شوف غور قادي
-ila jab llah te3t 9adi,,إلا جاب اللاه تعت قادي
-wa dak naher fin kenti,,وا داك ناهر فين كنتي
-majitich la9hwa,,ماجيتيش لاقهوا
-gheda rah kayan match,,غدا راه كايان ماتش
-ntafrjo f real safi,,نتافرجو ف رال سافي
-kant ne3s lberah,,كانت نعس لبراه
-kan 3lik te3lmni,,كان عليك تعلمني
-wala ghur tsoni lua,,والا غور تسوني لوا
-jiti mn tamgrout,,جيتي من تامڭروت
-kif dura de3wa tema,,كيف دورا دعوا تما
-kayan chi tahrouk,,كايان شي تاهروك
-la9dia ne3sa akhy,,لاقديا نعسا أخي
-wakifach hanya,,واكيفاش هانيا
-dekhal lafcebok,,دخال لافسبوك
-chof rah ghatji,,شوف راه غاتجي
-lyouma ach 3ndk,,ليوما أش عندك
-wach khadam wala la,,واش خادام والا لا
-ylh ghadi la salle,,يله غادي لا سالّ
-gheda ntrinw sbuuh,,غدا نترينو سبووه
-waji choua bakri,,واجي شوا باكري
-wa3yan nta akhy,,واعيان نتا أخي
-smh lua te3tlt,,سمه لوا تعتلت
-ach derti ma3a khona,,أش درتي ماعا خونا
-maghdich lyouma,,ماغديش ليوما
-lila namcho,,ليلا نامشو
-kayan chi mousi9a,,كايان شي موسيقا
-fin waslti ma3ha,,فين واسلتي ماعها
-awdi le3fou,,أودي لعفو
-makyana ma3na,,ماكيانا ماعنا
-derna fih khur,,درنا فيه خور
-oflakher khwa bina,,أُفلاخر خوا بينا
-ji diha merhba,,جي ديها مرهبا
-ma3ndk mochkill,,ماعندك موشكيلّ
-ila jiti liha dba,,إلا جيتي ليها دبا
-wala ta nher seat,,والا تا نهر سات
-lmhm gha tkouni,,لمهم غا تكوني
-mojoda incha2lh,,موجودا إنشاءله
-ylh tahya lik,,يله تاهيا ليك
-tasbh 3la khir,,تاسبه علا خير
-wdoz lmarchi jibha,,ودوز لمارشي جيبها
-wkhod lhot w l9azbor,,وخود لهوت و لقازبور
-wana rah kntsanak,,وانا راه كنتساناك
-rah wa9f xi n'as sa3a,,راه واقف شي ن'اس ساعا
-wax dkhalto lamdina,,واش دخالتو لامدينا
-wdirha fin tjik,,وديرها فين تجيك
-wdrabha lwalid dyalha,,ودرابها لواليد ديالها
-l9awha m3ah f dar,,لقاوها معاه ف دار
-whowa rah f lablad.,,وهووا راه ف لابلاد.
-w txahit xi taniya,,و تشاهيت شي تانييا
-ahsen blad bladi,,أهسن بلاد بلادي
-lmossi9a zina bzaff,,لموسّيقا زينا بزافّ
-sabw xi barad atay,,سابو شي باراد أتاي
-khodi 9ar3a d lma,,خودي قارعا د لما
-jib lframaj o lkhobz,,جيب لفراماج أُ لخوبز
-wtayab m3ak lma,,وتاياب معاك لما
-wylh salit lmatch,,ويله ساليت لماتش
-ghanmchi l hamam,,غانمشي ل هامام
-ghanmchi ndawax,,غانمشي نداواش
-3tat lbarani,,عتات لباراني
-ohna ma3tatnach,,أُهنا ماعتاتناش
-nta litalfan,,نتا ليتالفان
-rja3 9ra mza,,رجاع قرا مزا
-fin akhoua zin,,فين أخوا زين
-ylh tahya tasbh,,يله تاهيا تاسبه
-3la khur akhy,,علا خور أخي
-mra mra,,مرا مرا
-7xoma 3lik,,حشوما عليك
-slm zin dyali .,,سلم زين ديالي .
-kidyra lhob .,,كيديرا لهوب .
-mrc bzafff bzaff,,مرك بزافّف بزافّ
-w samhi li lbrh rh dani n3ass,,و سامهي لي لبره ره داني نعاسّ
-khdina z3ma ton número bax ndwiw.,,خدينا زعما تون نúمرو باش ندويو.
-sa3a nti maamsalyax lina,,ساعا نتي مامسالياش لينا
-awdi rah db mamsalyach,,أودي راه دب مامسالياش
-alala hta tsali,,ألالا هتا تسالي
-lah ysser lik akhayata lbari3a,,الله يسّر ليك أخاياتا لباريعا
-mni tsali ana ntsanak bax ndwiw ok,,مني تسالي أنا نتساناك باش ندويو أُك
-ok mrc3lah db mamasalya,,أُك مركعلاه دب ماماساليا
-bghina ghir nt3rfo 3lij akter,,بغينا غير نتعرفو عليج أكتر
-wax nti mn nawa7i .,,واش نتي من ناواحي .
-ok mbghitix tdwi,,أُك مبغيتيش تدوي
-yak galti liya hta nsali,,ياك ڭالتي لييا هتا نسالي
-dik sa3a lah o3lam,,ديك ساعا الله أُعلام
-knti f takwin,,كنتي ف تاكوين
-db rh mkynax fih,,دب ره مكيناش فيه
-dzl rah tablokat liya lacart dyl télé odb,,دزل راه تابلوكات لييا لاكارت ديل تéلé أُدب
-mal9it mandir,,مالقيت ماندير
-kifx tblokit lik,,كيفش تبلوكيت ليك
-nsit lcod puk dylo,,نسيت لكود پوك ديلو
-iwa fin kayn ixkal afatima,,إوا فين كاين إشكال أفاتيما
-makhdamch liya ba9i lacrt,,ماخدامش لييا باقي لاكرت
-3lax db khadam whasap,,علاش دب خادام وهاساپ
-khdama ghir blwifi,,خداما غير بلويفي
-swltk lbrh mjwbtini,,سولتك لبره مجوبتيني
-hiya kdwi bchal7a,,هييا كدوي بشالحا
-walkin khadam whsap,,والكين خادام وهساپ
-fin kyn moxkil,,فين كين موشكيل
-lmhm cv b3da kighada m3a takwunn,,لمهم كڤ بعدا كيغادا معا تاكوونّ
-hit chrit ohda khera,,هيت شريت أُهدا خرا
-paaser ha lna ila bghitii,,پاسر ها لنا إلا بغيتيّ
-bx mdwi m3ak mra mra,,بش مدوي معاك مرا مرا
+la hania imkan biti tmchi tn3as.,no problem if you want to go to sleep,لا هانيا إمكان بيتي تمشي تنعاس.
+hna yalah kandawzo sif.,we are just now having summer fun,هنا يالاه كانداوزو سيف.
+hamdolah kolchi mzn,thank god everything is good,هامدولاه كولشي مزن
+iwa had sa3a bien .,good for now,إوا هاد ساعا بين .
+isawal fik lkhir abebe,thanks for asking babe,إساوال فيك لخير أبب
+ana martak,I'm your wife,ما أنا مارتاك
+ana bentak,I'm your daughter,ما أنا بنتاك
+ana jartak,I'm your neighboor,ما أنا جارتاك
+ana hbibtak,I'm your lover,ما أنا هبيبتاك
+ana sahbtak,I'm your girlfriend,ما أنا ساهبتاك
+ana khatibtk,I'm your fiance,ما أنا خاتيبتك
+la ghir fdar hd sa3a.,no I'm just home now,لا ريع هدار هد ساعا.
+ahna hta hna m3aha,we are with her too,أهنا هتا هنا معاها
+lwa9t khyabt akhoya.,Everyone is a bad person this time.,لواقت خيابت أخويا.
+w bshtak laftour zin.,enjoy the breakfast,و بسهتاك لافتور زين.
+tkon 3andna monasba.,we have a ceremony,تكون عاندنا موناسبا.
+wghadi ongolk marhba.,I'm gonna welcome you,وغادي أُنڭولك مارهبا.
+drt m3ah lmazyan.,I did him a favour,درت معاه لمازيان.
+xof hta t3ya wtskot.,talk until u get your tired and you're gonna shut up,شوف هتا تعيا وتسكوت.
+wlmhm bnadam mrfo33,the point is they are unfocused,ولمهم بنادام مرفوعّ
+ay haja 3andha 9anon.,everything has a law,أي حاجة عاندها قانون.
+3tini gha tissa3 nwali b1.,just leave me alone and I'm going to be fine,عتيني غا تيسّاع نوالي ب1.
+bhat 3la rasak almardi.,look yourself my friend,بهات علا راساك ألماردي.
+lwalid dima rajal .,my dad is always a man,لواليد ديما راجال .
+idrab youmayn safi.,the strike is only for 2 days,إدراب يوماين سافي.
+insan tama3 m3a rasoo,he's greedy,إنسان تاماع معا راسو
+lmaghrib dylna zin,our Morocco is beautiful,لماغريب ديلنا زي'ن
+fotni khalini 3lik.,just leave me alone,فوتني خاليني عليك.
+telefon ghali bzafff.,the phone is to expensive,تلفون غالي بزافّف.
+wdir xi taman zwin.,give me a good price,ودير شي تامان زوين.
+wzid n9as gha xi 100 dh,reduce the price by 100 dh,وزيد نقاس غا شي 100 ده
+hawalt m3ah mabgha,I tried with it but it didn't work,هاوالت معاه مابغا
+sir lso9 momkin tl9ah.,go to the strore you might find it,سير لسوق مومكين تلقاه.
+gha xafha wtlaff meskin,the moment he saw her he lost it,غا شافها وتلافّ مسكين
+iwa tkalma liya db,just calm down now,إوا تكالما لييا دب
+lbarah knt naxat,I was having fun yesterday,لباراه كنت ناشات
+wxhal mn whda xrbty,how many did you drink,وشهال من وهدا شربتي
+dir rasak makatfham.,act like you don't understand,دير راساك ماكاتفهام.
+tmazak liya disque,listen to this song,تمازاك لييا ديسقو
+nhaer dor biya nwarik,if I see you again I'm gonna beat u up,نهار دور بييا نواريك
+xof alahmar 9adamak .,look where your walking,شوف ألاهمار قاداماك .
+ana faytak b joj hwayj.,I'm ahead of you by 2 steps,أنا فايتاك ب جوج حوايج.
+xhal dawazti lpermi,how much did you pay for the driver's license,شهال داوازتي لپرمي
+knt f 2017 3ayan.,I was weak in 2017,كنت ف 2017 عايان.
+rab3in alf bax xrah.,he bought it with 40000,رابعين ألف باش شراه.
+osafi hdxi li ghngolik,that's all I have to say,أُسافي هدشي لي غنڭوليك
+wax hdxi db khaliti,what is this you left here,واش هدشي دب خاليتي
+khali liya whda darori,leave one for me,خالي لييا وهدا داروري
+mra khra nsifthom lik.,I will send you one another time,مرا خرا نسيفتهوم ليك.
+wlah tatsdmt bzaf,I was shoock,ولاه تاتسدمت بزاف
+wahaka kaydir liha.,this is how he does it,واهاكا كايدير ليها.
+ilamajawbto kayb9a ysoni bhal haka.,if I don't answer he keeps calling like this,إلاماجاوبتو كايبقا يسوني بهال هاكا.
+wax bghiti dir m3aya sway3,do you want to do extra lessons with me,واش بغيتي معايا سوايع
+had deri hada kay9ra mzyan,this guy is a good student,وادري هادا كايقرا مزا
+mni kysonu 3lik hkk bzaff,he keeps calling you a lot,مني كيسونو عليك هكّ بزافّ
+mymknch insan kysonu 3lik ghir hakak,this is unreal people call you for no reason,ميمكن إنسان كيسونو عليك غير هاكاك
+wlah ma3rft ach kaydir,I don't know what is he doing,ولاه ماعرفت أش كايدير
+nti 3titih lwa9t,you gave him time,نتي عتيتيه لواقت
+wkhda wa9to,he took his time,وخدا واقتو لكافّفي
+bsiff ysoni 3lik.,no surprise he calls you,بسيفّ يسوني عليك.
+lmhm hdxi rh m3jbnix.,the point is I don't like this,لمڭم هدشي ره معجبنيش.
+wach ana xayat lik .,I'm just an extra baggage,واش أنا شايات ليك .
+smh liya wsafi,just forgive me,سمه لييا وسافي
+ana db sawltak,I just asked you,أنا دب ساولتاك
+3lax blokitini nta,why did you block me,علاش بلوكيتيني نتا
+kifax wlah m3rft 3lax,how come you don't know why,كيفاش ولاه معرفت علاش
+hdxi libghit n3rff safi,this is all I want to know,هدشي ليبغيت نعرفّ سافي
+kyna xi hj jdida,is there any news,كينا شي هج جديدا
+rah ana mafhamtt,I don't get it,راه أنا مافهامتّ
+ghir goli liya 3lach hd,just tell me why hd,غير ڭولي لييا علاش هد
+wkhy dyali fink,my brother where are you,وخي ديالي فينك
+wlbrah fin knti,where were you yesterday,ولبراه فين كنتي
+wb9it hda marjane,I was next to marjane,وبقيت هدا مارجان
+ja lwalid mn so9,my father came back from the store,جا لواليد من سوق
+sift liua ta3bi2a,can you buy me my phone subscription,سيفت ليوا تاعبيأ
+ana wlit naddi,I'm really good now,أنا وليت نادّي
+lyoma 9rit joj sway3,I studied for 2 hours today,ليوما قريت جوج سوايع
+gheda inshlah ghansafer,I will travel tomorrow,غدا إنسهلاه غانسافر
+afin cv azin,hey how are you cutie,أفين كڤ أزين
+kif dayr ahbibi,how are you my love,كيف داير أهبيبي
+kif dwzti nhark mzn,how was your day,كيف دوزتي نهارك مزن
+ach kat3awd b3da,any news about you ?,أش كاتعاود بعدا
+kif dayra lwalida,how's your mom,كيف دايرا لواليدا
+labs 3liha afonon,she's fine,لابس عليها أفونون
+fin ghbrti 3liya,where did you disapear,فين غبرتي علييا
+wa chhal oana kntsna fik,I was waiting for you for a long time,وا شهال أُانا كنتسنا فيك
+ana jaya mn lkhdma,I'm comming from work,أنا جايا من لخدما
+smh liya t3tlt 3lik,I'm sorry I'm late,سمه لييا تعتلت عليك
+islm 3lik lkhir,thanks for asking,إسلم عليك لخير
+itwhchk lkhir abb,I miss you too babe,إتوهشك لخير أبّ
+iwa ahna kan3diw,I'm just passing time,إوا أهنا كانعديو
+m3a lw9t 9asha,time is tough,معا لوقت قاسها
+yalah thla liya frask,stay safe,يالاه تهلا لييا فراسك
+jit oml9itak,I didn't find you,جيت أُملقيتاك
+nti kat3jbini,I like you,نتي كاتعجبيني
+wnti katham9ini,I love you,ونتي كاتهامقيني
+wylh nmxiw lhih,let's go there,ويله نمشيو لهيه
+xhal bx xriti sbat,how much did you buy the shoes,شهال بش شريتي سبات
+wl3alam mrawan,the world is messy,ولعالام مراوان
+wdk nher zelzal,the earthquake day,ودك نهر زلزال
+wnad lharb 3wtani,the war begun again,وناد لهارب عوتاني
+lmhm kon ghir rajal,just be a man,لمهم كون غير راجال
+lmhm imta ntl9aw azin,where can we meet cutie,لمهم إمتا نتلقاو أزين
+matwahxtinich akbida,you didn't miss me,ماتواهشتينيش أكبيدا
+iwa diri lna xi rdv,just set up a appointment,إوا ديري لنا شي ردڤ
+bizou zin dyali,kisses cutie,بيزو زين ديالي
+howa kan f café,he was in the coffe shop,هووا كان ف كافé
+mal9itich l7amd,u didn't find lemons,مالقيتيش لحال
+wabazz lik akhy,I don't know what to tell you,وابازّ ليك أخي
+matab9ax tabki wtaxki,stop whining,ماتابقاش تابكي وتاشكي
+rah hiya bghato mzyan,she wants it good,راه هييا بغاتو مزا
+tla9at bih f resto,she met him in a restaurant,تلاقات بيه ف رستو
+whiya saraha mbogsa,she's super hot to be honest,وهييا ساراها مبوڭسا
+ay hay 3la x3er twill,your long hair looks absolutely stunning!,أي هاي علا شعر تويلّ
+hta ana 3ajabni.,I like it too,هتا أنا عاجابني.
+ana rah mrid,I'm sick,أنا راه مريد
+wkifax,how,وكيفاش
+iwa lah yaster wsafi,may god forgive us,إوا الله ياستر وسافي
+wahd sayd fina howa,wher's the man,واهد سايد فينا هووا
+axno mlk m9ala9,why are you worried,أشنو ملك مقالاق
+wax ghadi t3ich fiha,are you gonna live in it,واش غادي تعيش فيها
+fin ghadi twsal ga3,what are you going to achieve,فين غادي توسال ڭاع
+wntl9aw f jam3,let's meet in the mosque,ونتلقاو ف جامع
+wntla9aw f lbar,let's meet at the bar,ونتلاقاو ف لبار
+wntxawfo hdah ila bghiti,let's see each other near it if you want,ونتشاوفو هداه إلا بغيت
+b9a txad dk lakra.,remember to close that shit,بقا تشاد دك لاكرا.
+3lah malo mazwin.,why are you saying it's ugly,علاه مالو مازوين.
+ach galih b3da khona,what did the guy tell him,أش ڭاليه بعدا خونا
+wgoliya xhal dk lakra,just tell me how much does that shit cost,وڭولييا شهال دك لاكرا
+wgha khaliha 3alah,just let it be,وغا خاليها عالاه
+rah lbarah khasart,it broke yesterday,راه لباراه خاسارت
+iwa mxiti wla ba9i,did you go or not yet,إوا مشيتي ولا باقي
+iwa kayn chi safar,did you travel,إوا كاين شي سفا
+hta l3otla inshlah.,until the holidays if god wants,هتا لعوتلا إنسهلاه.
+wafin wrah t3atalti,where are you, you are late,وافين وراه تعاتالتي
+wkifax wax mbghitix tji,you don't want to come ?,وكيفاش واش مبغيتيش تجي
+wlmhm wdoz 3ando lggazar rah mahlol,anyway just go to him the butcher shop is open,ولمهم ودوز عاندو لڭّازار راه ماهلول
+ana f triq daba,I'm on my way now,أنا ف تريق دابا
+walakin ana 3ndi l3amal,but I have work,والاكين أنا عندي لعامال
+awddi khlliha 3lellah,just let god decide our fate,أودّي خلّيها عللّاه
+jawh mn marrakech,they came to him from marrakech,جاوه من مارّاكش
+mali ana wmlk nta,what's difference between me and you,مالي أنا وملك نتا
+khaliha lrasak,let it for yourself,خاليها لراساك
+wgol xi hj fachkal,say something nice,وڭول شي هج فاشكال
+matab9ax tkharba9,stop doing random stuff,ماتابقاش تخارباق
+golihom ghir lha9i9a,tell them the truth,ڭوليهوم غير لهاقيقا
+iwa hmdolah kif dima,everything is good just like always,إوا همدولاه كيف ديما
+ramadan mobrak,happy ramadan,رامادان موبراك
+wnta b9a hadinii,keep stalking me,ونتا بقا هادينيّ
+xof rah kolxi tmak,everything is there,شوف راه كولشي تماك
+bnadam kyfham libgha,people understand whatever they want,بنادام كيفهام ليبغا
+labas 3lih akhy,he's good my brother,لاباس عليه أخي
+wnayda lharb f char9,there is war in the east,ونايدا لهارب ف شارق
+iwa dwzo nta m3ak,take him with you,إوا دوزو نتا معاك
+gheda lmatch dyal lwidad,tomorrow widad are playing,غدا لماتش ديال لويداد
+iwa gheda sbah m3a 9,well then tomorrow 9AM it is,إوا غدا سباه معا 9
+wgha nta li mfarwah,it's just you that's retarded,وغا نتا لي مفارواه
+rah f lmahata l9ito,I found him in the bus station,راه ف لماهاتا لقيتو
+wgol lbnadam sa7,tell people the truth,وڭول لبنادام ساح
+wakyban s7i7,he looks strong,واكيبان سحيح
+wrah kyst3mal protéine,he uses protein powder,وراه كيستعمال پروتéين
+rah hiya li 3ahira,she's the whore,راه هييا لي عاهيرا
+wmojod lkhir azin,I'm wealthy cutie,وموجود لخير أزين
+fotha wkhaliha tma,skip it and leave it there,فوتها وخاليها تما
+tasal biha wbloki,call her then block her,تاسال بيها وبلوكي
+3awd charjiha db.,recharge it now,عاود شارجيها دب.
+wlkhadam nit bniyti,I'm working seriously,ولخادام نيت بنييتي
+wlkhadma hadi nit,this is hard work,ولخادما هادي نيت
+wbghit ngolik hj,I want to tell you something,وبغيت نڭوليك هج
+bghit n3traf lik,I want to get to know you,بغيت نعتراف ليك
+rah knhabak,I love you,راه كنهاباك
+rah knmot 3lkk,I can die for you,راه كنموت علكّ
+gha xof xi blan,just see what you can do,غا شوف شي بلان
+bnadam mfarxakh,dude is destroyed,بنادام مفارشاخ
+iwa aji 3ndi txof,come to mee and see,إوا أجي عندي تشوف
+rah ba3 dkxi kamal,he sold everything,راه باع دكشي كامال
+whowa mohal wx tl9ah,I don't think you can find him,وهووا موهال وش تلقاه
+xarjam rah maftoh,the window is open,شارجام راه مافتوه
+wx7al katalbas,what's your clothing size,وشحال كاتالباس
+w7al lbab db,open the door now,وحال لباب دب
+ana jay m3a dyaf,I'm comming with the guests,أنا جاي معا دياف
+wgoliya wx ja 3ndk,tell me if he came to you,وڭولييا وش جا عندك
+rah khona kan tma,the dude was there,راه خونا كان تما
+3tini nmira dyalk,give me your phone number,عتيني نميرا ديالك
+wdoz 3ndi tgheda,come have lunch with me,ودوز عندي تغدا
+wx kyn xi ftour,did you cook breakfast,وش كين شي فتور
+wm3a xhal ghadi l3amal,when are you going to work,ومعا شهال غادي لعامال
+wx nta msali,are u free,وش نتا مسالي
+wx 3nedk xi diplôme,do you have a degree,وش عندك شي ديپلôم
+wkha inshalahh bzrba,ok I'll do it quick,وخا إنسهالاهه بزربا
+mrhba w alf mrahba.,welcome,مرهبا و ألف مراهبا.
+yalah ara liya dkxi,give the stuff,يالاه أرا لييا دكشي
+wsir direct wdor,go straight then turn,وسير ديركت ودير
+wsoni 3liya whd xwiya,call me in abit,وسوني علييا وهد شوييا
+3tini xwiya akhy,give me a little bit brother,عتيني شوييا أخي
+wdoz 3ndi lkhadma,come to my work,ودوز عندي لخادما
+ara liya laflous,give me the money,أرا لييا لافلوس
+wkhod liya sal3a.,take the goods for me,وخود لييا سالعا.
+fot l9ahwa wdor,go past the coffe shop then turn,فوت لقاهوا ودور
+hta ana khaftt,I'm scared too,هتا أنا خافتّ
+wbghit gha nmra dyal khok,I want you're bother's phone number,وبغيت غا نمرا ديال خوك
+m3a mab9at 3ndi,I don't have it anymore,معا مابقات عندي
+hut tah lih telefon .,it's because he dropped his phone,هوت تاه ليه تلفون .
+wglt za3ma ghadi tkon.,I tought that you will be there,وڭلت زا1ما غادي تكون.
+3ndk nta jdida dyalo,you have the newest version of his,عندك نتا جديدا ديالو
+lbarah kyn sahd,it was hot yesterday,لباراه كين ساهد
+rir m3a lwa9t,just with time,رير معا لواقت
+wkon 9asah awa,be strong,وكون قاساه أوا
+wbnadam tlfan m3a raso,he's lost,وبنادام تلفان معا راسو
+kon zwin bhalak,be good like you,كون زوين بهالاك
+lah ydir lkhir ahbiba,let's hope it's gonna be fine babe,الله يدير لخير أهبيبا
+zin fink rah kntsana,where are you cutie I'm waiting,زين فينك راه كنتسانا
+wgha mafia liykhdam,I don't feel like working,وغا مافيا لييخدام
+3tini forsa okhra,give me another chance,عتيني فورسا أُخرا
+wdk bnadam zin,that person is good,ودك بنادام زين
+iwa 3ndk takhsero,then be careful so you don't loose him,إوا عندك تاخسرو
+wdoz l3ndo wji m3ah,go to him then come together,ودوز لعندو وجي معاه
+nhar gatlik lma39ol,the day I told you what should be told,نهار ڭاتليك لماعقول
+wdoz wjibo m3k,go and bring him with you,ودوز وجيبو معك
+kndwi bniytiii,I'm serious,كندوي بنييتيّي
+wx nta xwiya mzanzan,are you crazy,وش نتا شوييا مزانزان
+wrah dar 3andna 3amra,our house is full,وراه دار عاندنا عامرا
+iwa mza fiha hiya sabab,that's good she's the cause,إوا مزا فيها هييا ساباب
+jib wr9a dokhol,bring the peper to enter,جيب ورقا دوخول
+khodi safha okhra,take another page,خودي سافها أُخرا
+lyoma dzt lik,I came to you today,ليوما دزت ليك
+gheda tamarin jdad,there is new homework tomorrow,غدا تامارين جداد
+3ndk tghlat m3aya,don't make a mistake with me,عندك تغلات معايا
+bnadam zéro fhd lablad,people are retarded in this country,بنادام زéرو فهد لابلاد
+wsawlt fih omasawl fiha,I didn't ask about him and neither did he,وساولت فيه أُماساول فيها
+xhal mrayah,how long are you staying,شهال مراياه
+ara xi garo akhy,give me a ciguarette my brother,أرا شي ڭارو أخي
+rah ana m9to3,I'm tempted to smoke,راه أنا مقتوع
+wri9a w ktmarad 3liha,it's just a cigarette wrapper,وريقا و كتماراد عليها
+ara lna dk z3tar,give me that shit,أرا لنا دك زعتار
+wgha 39al 3liha,remember this,وغا عقال عليها
+lmaskhot dar ksida,he's been in an accident,لماسخوت دار كسيدا
+beslama hbiba moh,goodbye babe muah,بسلاما هبيبا موه
+zizwar ntaya m3a rasak,you're a tough guy,زيزوار نتايا معا راساك
+wmol hanot 3ndo kolxi,the store has everything,ومول هانوت عندو كولشي
+rah kyna tmak nsitiha,it's there you forgot it,راه كينا تماك نسيتيها
+rah saort hda lbab,the key are near the door,راه ساورت هدا لباب
+bab kbir tbarklah,it's a big door,باب كبير تباركلاه
+db linsan kyzalal,this guy is a pervert,دب لينسان كيزالال
+wjib lna xi litro,bring us a littre,وجيب لنا شي ليترو
+xhal kataswa hadi,how much is this,شهال كاتاسوا هادي
+xhal taman dyalha,how much is this,شهال تامان ديالها
+fiha khir amol lkhir,it's good eitherway,فيها أخير أمول لخير
+wtlab sidi rabi,pray to god,وتلاب سيدي رابي
+bnadam gha mahsad,people are envious,بنادام غا ماهساد
+bnadam gha mah9ad,people are resentful,بنادام غا ماهقاد
+bnadam gha mnawi,people are skeptical,بنادام غا مناوي
+iwa chaghlo hadak,it's his business,إوا شاغلو هاداك
+yfhma libgha ana mali,he can understand it however he want I don't care,يفهما ليبغا أنا مالي
+xher jay kon tma,next month be there,شهر جاي كون تما
+b3d 3lih rah fih lmoshkil,leave him alone he's a problem,بعد عليه راه فيه لموسهكيل
+nzidak wla nskot,do you want me to keep going or just be quiet,نزيداك ولا نسكوت
+rah xaftha glsa tma,I saw her sitting there,راه شافتها ڭلسا تما
+xhal katalbas f rajlin,what shoe size do you wear,شهال كاتالباس ف راجلين
+wxhal katsalo dyal flous,and how much do you owe him,وشهال كاتسالو ديال فلوس
+wlmhm rah ghadi tl9ah,the point is you're gonna find it,ولمهم راه غادي تلقاه
+wskot ila mzayer,bee quiet if you're hurt,وسكوت إلا مزاير
+tjawaj asahbi rah zin,marriage is good my friend,تجاواج أساهبي راه زين
+drari sghar fihom sda3,kids are annoying,دراري سغار فيهوم سداع
+ich bnadam gha dawi,people just talk,إش بنادام غا داوي
+haydi lih telefon,take the phone away from him,هايدي ليه تلفون
+golih y9ra mza,tell him to study well,ڭوليه يقرا مزا
+wx mxa lafac,did he go the the unviversity,وش مشا لافاك
+ba9i f lablad,he's still in the country,باقي ف لابلاد
+w zayar had l3am,work harder this year,و زايار هاد لعام
+l3am jay ghaykon lkhir,next year will be better hopefully,لعام جاي غايكون لخير
+wx bla m3na dkchi.,that stuff has no point,وش بلا معنا دكشي.
+rah 3ndi takwin.,I have professional training,راه عندي تاكوين.
+rah msafer ana,I'm traveling,راه مسافر أنا
+wkifx rah mafhmt,I don't understand,وكيفش راه مافهمت
+lcar rah mxa 3lik,you missed the bus,لكار راه مشا عليك
+hadi rah l3o9oba.,this is a punishment,هادي راه لعوقوبا.
+3lch swltk o khality vu,why did you leave me on seen when I asked you,علش سولتك أُ خاليتي ڤو
+aslan nta dima hka dayer,you're always like this,أسلان نتا ديما هكا داير
+rah mchina bzoj wml9ina walo tma,we both went there and found nothing,راه مشينا بزوج وملقينا والو تما
+chty dak wjh lwil,did you that cursed dude,شتي داك وجه لويل
+mchat l torkya,she went to turkey,مشات ل توركيا
+gal liya bli tsjl f lafac l9orea d amrika gheda,he told me that he will register in the unviersity and American card draw tomorrow,ڭال لييا بلي تسجل ف لافاك لقورا د أمريكا غدا
+ymkn khasna nmchiw,I think we should go,يمكن خاسنا نمشيو
+ta hna wa3rri'n,we are insane,تا هنا واعرّي'ن
+nari yakhty 3la dok joj lf3at,look at those two snakes,ناري ياختي علا دوك جوج لفعات
+mb9aw baw yhchmo,they don't get ashamed anymore,مبقاو باو يهشمو
+ana mchit lmarrakech,I went to marrakech,أنا مشيت لمارّاكش
+gals ana f salon,I'm sitting in the living room,ڭالس أنا ف سالون
+wbghit njm3 liha,I want to gather for her,وبغيت نجمع ليها
+wgha sber 3liya,just be patient with me,وغا سبر علييا
+twahxtak almima,I miss you mom,تواهشتاك ألميما
+twhxtak alwalid,I miss you dad,توهشتاك ألواليد
+twhxtak amrati,I miss you my wife,توهشتاك أمراتي
+wbghit ndir m3k xi,I want to do with you something,وبغيت ندير معك شي
+wdaz bsor3a,he passed by fast,وداز بسورعا
+rah lmos f cosina,the knife is in the kitchen,راه لموس ف كوسينا
+talaja mazala maftoha,the fridge is still open,تالاجا مازالا مافتوها
+wjib tomobile dylk,bring your car,وجيب توموبيل ديلك
+ba3 dik lard,he sold that territory,باع ديك لارد
+wbghit njm3 rasi,I want to be more dedicated,وبغيت نجمع راسي
+wxrit tlfasa jdida,I bought a new tv,وشريت تلفاسا جديدا
+ara liya ha9i mn dkchi,give me my cut,أرا لييا هاقي من دكشي
+awah wax nta tma,wow you are already there,أواه واش نتا تما
+bghit nxofk ila bghiti,I want to see if you want,بغيت نشوفك إلا بغيتي
+wm3a xhal nxofk,when can I see you,ومعا شهال نشوفك
+daghya sawalti fiha,you asked about her fast,داغيا ساوالتي فيها
+wlah yhdik makhla9,may god forgive what he created,ولاه يهديك ماخلاق
+malk khayaf mon,why are you afraid of him,مالك خاياف مون
+wkhda 3ndo zayt,he bought oil from him,وخدا عندو زايت
+lmotor tabyas,the motrcycle's tires are broken,لموتور تابياسا
+dah m3ah f lkofre,he took it with him in the car trunk,داه معاه ف لكوفر
+ji ji twhxtak nxofak,come come I missed you, I want to see you,جي جي توهشتاك نشوفاك
+wx nta majawaj,are you married,وش نتا ماجاواج
+wax nti mtal9a,are you divorced,واش نتي متالقا
+wx ntoma l'abs xwiya,are you crazy ?,وش نتوما ل'ابس شوييا
+wx nti mjawja bih,are you married to him,وش نتي مجاوجا بيه
+wkhali lma fin ydoz,leave a path to water to spill from,وخالي لما فين يدوز
+bnadam msalgat tma,people are perverts there,بنادام مسالڭات تما
+wtachafrte tma bl3alali,that neighborhood is full of thieves,وتاشافرت تما بلعالالي
+wa latay 3ndk azin,you make perfect tea cutie,وا لاتاي عندك أزين
+wlmhm rh mtaki xwiya,I'm resting a bit,ولمهم ره متاكي شوييا
+rah ana gha f dar,I'm just home,راه أنا غا ف دار
+sift li lcod,send me the code,سيفت لي لكود
+wna gha f la banque,I'm in the bank,ونا غا ف لا بانقو
+wx khditi lflous wla mzl,did you take the money or not yet,وش خديتي لفلوس ولا مزل
+hit wxftak ghbrrti azin,because you disapeared on me honey,هيت وشفتاك غبرّتي أزين
+ila kyn dk bnadam tma,if that dude is there,إلا كين دك بنادام تما
+rh 9ray mzyan,he's a good student,ره قراي مزا
+rah tkharjat mo3alima,she's graduated as a teacher,راه تخارجات موعاليما
+rh tkharj mo3alim.,he graduated as a teacher,ره تخارجات موعاليم.
+wlat dik bnt tbiba.,that doctor's daughter,ولات ديك بنت تبيبا.
+bsahtkom hd lgalsa.,enjoy this seat,بساهتكوم هد لڭالسا.
+wkanbni dar akhy.,I'm building a house my brother,وكانبني دار أخي.
+farfara khalitha 5adama.,I left the fan on,فارفارا خاليتها خاداما.
+rah l9isam mesdod,the class is closed,راه لقيسام مسدود
+chrit lmonada db,I bought the soda,شريت لمونادا دب
+wknhbak bzaff wlah,I love you so much I swear,وكنهباك بزافّ ولاه
+hayad mn hdaya.,leave me alone,هاياد من هدايا.
+dir dk lfilm rh zwin.,put on that movie it's good,دير دك لفيلم ره زوين.
+rah film nadi,that movie is good,راه فيلم نادي
+xftk gls hda lmadrsa.,I saw you sitting next to the school,شفتك ڭلس هدا لمادرسا.
+rah khadam f lmasbana.,I work in the laundry shop,راه خادام ف لماسبانا.
+rh kaytharak besbah.,he leaves in the morning,ره كايتهاراك بسباه.
+wgha bnadam twhxni,people missed me,وغا بنادام توهشني
+fih whd lghira.,he's very jealous,فيه وهد لغيرا.
+fiha ghira kbira,she's very jealous,فيها غيرا كبيرا
+zwina rah ktbghik,she's cute and she loves you,زوينا راه كتبغيك
+t9atal m3a lwa9t,make evey minute count,تقاتال معا لواقت
+salem 3liha bzaf,tell her I say hi,سالم عليها بزاف
+w3idkom mobarak sa3id.,happy eid,وعيدكوم موباراك ساعيد.
+xof xkara rh fih,check the bag you should find it,شوف شكارا ره فيه
+brika rah makhadamach,the lighter is not working,بريكا راه ماخادامش
+whd salon zwin wkbir,a big and nice living room,وهد سالون زوين وكبي
+wx nta dyr idrab,are you on a strike,وش نتا دير إدراب
+gheda l3otla,tomorrow is holidays,غدا لعوتلا
+iwa frah liya m3a rasak,just be happy,إوا فراه لييا معا راساك
+b3d 3la lmokhadirat,stay away from drugs,بعد علا لموخاديرات
+dir rayada dima,always do sports,دير رايادا ديما
+wkntxaja3 fra9ty,I'm cheering for my team,وكنتشاجاع فراقتي
+wbayna fik nta hma9,it obvious that you're crazy,وباينا فين نتا هماق
+xhal xriti téléphone,how much did you buy the phone,شهال شريتي تéلéپهون
+salafni xi flous,borrow me some money,سالافني شي فلوس
+wana f xari3,I'm on the street,وانا ف شاريع
+sonit lik owalo.,I called you and you didn't pick up,سونيت ليك أُوالو.
+wb9it kntsanak alhob,I kept waiting for you my love,وبقيت كنتساناك ألهوب
+aji wach adiro kola b9ismo,wait will you put each one in his class,أجي واش أديرو كولا بقيسمو
+wla kima drto l3am lfayt,or just like you did last year,ولا كيما درتو لعام لفايت
+knti l3am lfayti glti,you were here last year you said,كنتي لعام لفايتي ڭلتي
+nta tchad 9ism tmk,you take that class,نتا تشاد قيسم تمك
+otlamd liyb9aw itbadlo,and the other students can swap,أُتلامد لييبقاو إتبادلو
+ach ghadiro had l3am,what will you do this year,أش غاديرو هاد لعام
+ah iwa sf hkak hssen,well then that's better,أه إوا سف هكاك هسّن
+wx dk ostad fraso,does that teacher know,وش دك أُستاد فراسو
+ah kant ghada liha,yes she was going there,أه كانت غادا ليها
+dini m3ak sbah,take me with you tomorrow morning,ديني معاك سباه
+la la sf blach ama3ndk tran walo,no no need you don't have the train,لا لا سف بلاش أماعندك تران والو
+ah jaw ms machi kamla,yes they came but not everyone,أه جاو مس ماشي كاملا
+oui an glst hna,yes I sat there,وي أن ڭلست هنا
+hh wa ana ga3 mazal mal9it dyali,haha I didn't find mine yet,هه وا أنا ڭاع مازال مالقيت ديالي
+ila l9itihm siftlya nta nit ijiw maa 9 onss,If you find them let me know so they can come at 9:30,إلا لقيتيهم سيفتليا نتا نيت إجيو ما 9 أُنسّ
+wach jaw tlamd kamla,did all the students come,واش جاو تلامد كاملا
+la ghir dar,no just my home,لا غير دار
+khrjto ntoma,you went out,خرجتو نتوما
+la ana ghir dar,no I'm home,لا أنا غير دار
+rah maghayt3awd,it's not gonna repeat,راه ماغايتعاود
+gharj3o bhalkom,just come back,غارجعو بهالكوم
+arah n3ast dani n3ass bnadm shar yak,I slept I stayed up late,أراه نعاست داني نعاسّ بنادم سهار ياد
+rah knt kandwi appel dakchi lach,I was in call that's why,راه كنت كاندوي أپّل داكشي لاش
+gol hda lwad,say near the river,ڭول هدا لواد
+iwa lah ir7am lwalidin,well thank you,إوا الله إرحام لواليدين
+ana 3arfa malk,I know what's up with you,أنا عارفا مامالك
+ghaglthalk laknti adfa3,I told you in case you want to apply,غاڭلتهالك لاكنتي أدفاع
+ah bati tma,yes just stay the night there,أه باتي تما
+kayn chi 3cha,did you cook dinner,كاين شي عشا
+mat9ad 3lya man9ad 3lik,I can't beat you and you can't neither,ماتقاد عليا مانقاد عليك
+aah wa ana rah machi hkak lidart,I didn't do it like that,اه وا أنا راه ماشي هكاك ليدارت
+kolchi rawanto ana,I messed up everything,كولشي راوانتو أنا
+makandkhl ana lchi face ana kanchof ghalikat7at hna flwatsp,I don't use facebook I only see stuff in whatsapp,ماكاندخل أنا لشي فاس أنا كانشوف غاليكاتحات هنا فلواتسپ
+face an7aydo ga3,I'm going to uninstall facebook,فاس أنحايدو ڭاع
+ah iwa mzyan asidi,that's great dude,أه إوا مزيان أسيدي
+ta ana f casa,I'm in casablanca too,تا أنا ف كاسا
+agol ltlamd ydakhlo irasmo chihaja ijiboha,tell the students to draw something and bring it,أڭول لتلامد يداخلو إراسمو شيحاجة إجيبوها
+ldik lmajla l7a2ithya anbadalha,I'm gonna change that wallpaper,لديك لماجلا لحاإتهيا أنبادالها
+attriko lbyad,the white shirt,أتّريكو لبياد
+chtk katchof fl9ism,I see that you are looking at the class,شتك كاتشوف فلقيسم
+fin chti fya awdi hh,when did you saw me,فين شتي فيا أودي هه
+ta ana ma3ndi walooo,I have nothing too,تا أنا ماعندي والوو
+lism3ak igol achmn tbogissa,if someone hears you he'll think you're handsome,ليسمعاك إڭول أشمن تبوڭيسّا
+3la ma3mro ga3 lbota,no they didn't fill the gas bottle,علا ماعمري ڭاع لبستا
+fach kayn tansi9,where is the coordination,فاش كاين تانسيق
+iwa darori mra mra,it's important from time to time,إوا داروري مرا مرا
+nta dwkhok ghal7orof,you got confused just by the letters,نتا دوخوك غالحوروف
+nta libantili ghabar,you've been missing,نتا ليبانتيلي غابار
+ok chinhar fach katbat hna iwa sf nhar jm3a,someday when you stay here ok then friday it is,أُك شينهار فاش كاتبات هنا إوا سف نهار جمعا
+m3rft saraha,I don't know to be honest,معرفت ساراها
+iwa sf nchofo tlat,ok then tuesday,إوا سف نشوفو تلات
+tayla latchawfna fh,we are not gonna see each other,تايلا لاتشاوفنا فه
+onjiw jm3a ok,we come on friday ok,أُنجيو جمعا أُك
+la nta simana kolha ga3,no you take the whole week,لا نتا سيمانا كولها ڭاع
+ta ana kan39l,I remember too,تا أنا كانعقل
+wakha swl lya 3afak,ok ask for me please,واخا سول ليا عافاك
+n3ast achmn vu,I was sleeping what seen,نعاست أشمن ڤو
+vu hya t9ra msg,seen means you saw the message,ڤو هيا تقرا مسڭ
+omatjawb 3lih,and you didn't answer,أُماتجاوب عليه
+rah 2 chrtat makay3niwch bli dakhla lwatsap,two ticks doesn't mean I'm on whatsapp,راه 2 شرتات ماكايعنيوش بلي داخلا لواتساپ
+coco dzl nsit mardit 3lik,hey sorry I forgot to answer,كوكو دزل نسيت مارديت عليك
+rah jit ldar,I came the house,راه جيت لدار
+iwa hadchi li3ta lah,that's all I got,إوا هادشي ليعتا الله
+iwa rah ana gltlk mn dak nhar,I told you the other day,إوا راه أنا ڭلتلك من داك نهار
+ila majit lajbal,if I didn't come to the mountain,إلا ماجيت لاجبال
+wila jit rah sf,if I come then it's fine,ويلا جيت راه سف
+db chkon limkhli vu,now who's leaving the other one on seen,دب شكون ليمخلي ڤو
+hadi hya vu dyal bsa7,this the real meaning of leaving someone on seen,هادي هيا ڤو ديال بساح
+bnadm i9ra msgk omayjawb,people read your message and doesn't answer,بنادم إقرا مسڭك أُمايجاوب
+ah machi mochkil wasmhlina ila braztnak,yes that's fine and forgive us if we annoyed you,أه ماشي موشكيل واسمهلينا إلا برازتناك
+ohadchi lidrti rah khliti vu,and this is what you have done, you left me on seen,أُهادشي ليدرتي راه خليتي ڤو
+rak khlitihaaaa asidi,you left it mister,راك خليتيهاا أسيدي
+lwahd liy9a msg omayjawb,people that finds a message and doesn't answer,لواهد لييقا مسڭ أُمايجاوب
+hit m3ndi mngol,because I have nothing to say,هيت معندي منڭول
+ah sobhan llah,yes praise god,أه سوبهان اللاه
+ghanta litkhli vu,it's just you who left me on seen,غانتا ليتخلي ڤو
+aknt bagha ngolik gha majawti wmchit bhali,I wanted to tell you, you just didn't answer and I went away,أكنت باغا نڭوليك غا ماجاوتي ومشيت بهالي
+ah tfit telefon,yes I turned off my phone,أه تفيت تلفون
+iwa rah mat3rf ach tjib lwa9t,you don't know what can come around,إوا راه ماتعرف أش تجيب لواقت
+omomkin bnadm ihtajk,we might need you,أُمومكين بنادم إهتاجك
+mamzyanch hkak,that's not good,مامزيانش هكاك
+kifach ach bghak bnadm o3la lyom ana kansoni walo,what's do they want from you and today I was calling but no answer,كيفاش أش بغاك بنادم أُعلا ليوم أنا كانسوني والو
+tfih wla che3lo,turn it off or on,تفيه ولا شعلو
+nta katfalsaf 3lya,you're getting philosophical on me,نتا كاتفالساف عليا
+iwa ana kandwi maak,well I'm speaking to you,إوا أنا كاندوي ماك
+okangolik lach tafiha,and I'm telling you why did you turn it off,أُكانڭوليك لاش تافيها
+rah gali ghir pochita,he told me it's just a phone cover,راه ڭالي غير پوشيتا
+hanmarto sonilih ghasonilih bach ta3rf fin i3tihmlk,this is his number call him so you can know where he can give them to you,هانمارتو سونيليه غاسونيليه باش تاعرف فين إعتيهملك
+wila sba9tih nta,what if you were faster than him,ويلا سباقتيه نتا
+ohwa mazal ma7thomlih,and he didn't put them for him yet,أُهوا مازال ماحتهومليه
+wamachiiii kartona,it's not a cardboard,واماشيّيّ كارتونا
+waghir pochita,it's just a phone cover,واغير پوشيتا
+ah yih kankhrb9 ana,yes I'm just doing random stuff,أه ييه كانخربق أنا
+yih kankharba9o kmlin,yes we are screwing up,ييه كانخارباقو كملين
+chehal mn tilmid,how many students,شهال من تيلميد
+dawkhoni ana had lflos,this money is getting me dizzy,داوخوني أنا هاد لفلوس
+chkon ba9i ma3ta 3ndkom skhoniya bzaf,who still didn't give up heat,شكون باقي ماعتا عندكوم سخونييا بزاف
+agol lih b flos tsjall,tell him it's with registration money,أڭول ليه ب فلوس تسجالّ
+rah lmodir kaygoli nsifthomlih,the director is telling me send them to him,راه لمودير كايڭولي نسيفتهومليه
+nass jaw lablad,people came to the country,ناسّ جاو لابلاد
+3la vedio kaykhl3,this video is scary,علا ڤديو كايخلع
+ila jaw talamid,if the students came,إلا جاو تالاميد
+sifthom bhalhom rah maghankhdm lyom,send them back I'm not working today,سيفتهوم بهالهوم راه ماغانخدم ليوم
+ana n9der nkhraj bkri,I can come out early,أنا تقدر نخراج بكري
+3andi tbiba,I have an appointment with the doctor,عاندي تبيبا
+iwa kayn chi sfar,did you travel lately,إوا كاين شي سفار
+yih mrahba chnahya .,yes sure what is it,ييه مراهبا شناهيا .
+3o9oba hadi ola chno,this is a punishment or what,عوقوبا هادي أُلا شنو
+aji nti msafra,hey you are you traveling,أجي نتي مسافرا
+ana aslan mafhmt hadchi ma3rft lih,anyways I don't understand this and I don't know how to do it,أنا أسلان مافهمت هادشي ماعرفت ليه
+ywdi ktbi libghiti,just write whatever you want,يودي كتبي ليبغيتي
+abzaf mafya liyktab,this is too much I don't feel like writing,أبزاف مافيا لييكتاب
+nta 3o9oba hadi,this is a punishment,نتا عوقوبا هادي
+nta glti liya laaa,you told me no,نتا ڭلتي لييا لاا
+hta nmxi l9issam.,until I go to the class,هتا نمشي لقيسّام.
+ana rah db ftri9.,I'm on my way,أنا راه دب فتريق.
+dorros homa hadok,that's the courses,دورّوس هوما هادوك
+rah dakchi liglt lik.,that's what I told you,راه داكشي ليڭلت ليك.
+wx nti khditih,did you take it,وش نتي خديتيه
+makhdit walou azin,I didn't take anything cutie,ماخديت والو أزين
+mawsslna walou mno,we didn't recieve anything from it,ماوسّلنا والو منو
+ijib ghur sha osalama,bring just health and peace,إجيب غور سها أُسالاما
+fiha xi 3ibb,is that a flaw,فيها شي عيبّ
+ana ghandir dakchi,I will do that stuff,أنا غاندير داكشي
+wach nta katssayb,are you making it,واش نتا كاتسّايب
+hta ana momkin,I might too,هتا أنا مومكين
+rah makayn hta moxkil,there is no problem,راه ماكاين هتا موشكيل
+hdxi ana b3da tlaa3 li damm,this stuff is making me angry,هدشي أنا بعدا تلاع لي دامّ
+wlkin ana knswbo fih,but I'm fixing it,ولكين أنا كنسوبو فيه
+dar olkhadma had sa3a,just from work to home for now,دار أُلخادما هاد ساعا
+ana 9tarht whd safi,I just proposed one that's it,أنا قتارهت وهد سافي
+ani ndir français,I'm going to choose french,أني ندير فرانçايس
+onta ila bghiti,and you if you want,أُنتا إلا بغيتي
+fin ja bdabt,where is it exactly,فين جا بدابت
+wach hda riad lamane,is it near riad lamane,واش هدا رياد لامان
+ola 9bal mno,or before it,أُلا قبال منو
+olah ila bssah,I swear it's true,أُلاه إلا بسّاه
+nichan niit,yes straight,نيشان نيّت
+wayeeh dakchi likayn,yes that's what's up,واييه داكشي ليكاين
+iwa ach ghadir,well what are you going to do,إوا أش غادير
+ana b3da ma3ndich,personally I don't have it,أنا بعدا ماعنديش
+tza3za3t mn blassti,I jumped from my place,تزاعزاعت من بلاسّتي
+hit khalti tma,because my aunt is there,هيت خالتي تما
+hna makayninch f centre,we are not in the center,هنا ماكاين إنش ف سنتر
+walakin darbat,but she hit,والاكين داربات
+wlah ila malk rkhis 3andna,I swear it cheap in our store,واله إلا مالك رخيس عاندنا
+wlah ila lmalal,I swear I'm bored,ولاه إلا لمالال
+smhli maknjwb,sorry I wasn't answering,سمهلي ماكنجوب
+bit nsafr omrwna,I want to travel but I have so much in my head,بيت نسافر أُمرونا
+ah la mazal saraha,yes not yet to be honest,أه لا مازال ساراها
+la wlah ma3ajbni,no I swear I don't like it,لا ولاه ماعاجبني
+hit kaynin lbnat dakchi bach,it's because there will be girls that's why,هيت كاينين لبنات داكشي باش
+wlah maknkdab,I swear I'm not lying,ولاه ماكنكداب
+ahna kharjin db,we are going out now,أهنا خارجين دب
+skhan lhal,it's getting hot,سخان لحال
+ana db nji,I'm coming now,أنا دب نجي
+warah l3fo mli kayskhan lhal,I ask for mercy when it gets hot,واراه لعفو ملي كايسخان لحال
+wayh hh ana kaysali m3aya saraha,I know he makes me laugh so hard to be honest,وايه هه أنا كايسالي معايا ساهات
+galsna ftmdid,we didn't work in the extension,ڭالسنا فتمديد
+wafin cv wjtilya lhlib otmar,heey how are you didn't you prepare milk and dates to welcome me,وافين كڤ وجتيليا لهليب أُتمار
+hhhh la bayna lblan,haha no the the plan is obvious,هههه لا باينا لبلان
+lhamdolh wnta achkt3wd,I'm good what about you how's your life,لهامدوله ونتا أشكتعود
+ahy machi dylk dok lf3ayl,it's just wasn't expecting that behaviour from you,أهي ماشي ديلك دوك لفعايل
+lawh wlah madyalk,no I swear it's not yours,لاوه ولاه ماديالك
+fay9ak sahd,the heat woke you up,فايقاك ساهت
+wjd lglas machi lihlib,prepare icecream not milk,وجد لڭلاس ماشي ليهليب
+bsah ayh lah yshl 3lik chal kaydir yak maghali,that's true how much does it cost is it expensive,بساه أيه الله يسهل عليك شال كايدير ياك ماغالي
+yzayn yamk achkt3wd hanya,I hope you have a succesful future how are you doing,يزاين يامك أشكتعود هانيا
+galtlik mora l3id .,I told you after eid,ڭالتليك مورا لعيد .
+ana ghankon khdama maghnsali lyoma wgheda,I'll be working I won't be available today and tomorrow,أنا غانكون خداما ماغنسالي ليوما وغدا
+wafin cv kaynin chi 3rast wla makn li3rdk,heyy how are you is there any weddings or no one is inviting you,وافين كڤ كاينين شي عراست ولا ماكن ليعردك
+mamn9al chi shab lbak walo,nothing was told to your father's friends,مامنقال شي سهاب لباك والو
+wayh lmohim dakchi lktir ktboh,the point is you have to write the big parts,وايه لموهيم داكشي لكتير كتبوه
+makyn walo ga3 safi,there is nothing,ماكينا والو فاع سافي
+3adi machi mochkil,it's normal no porblem,عادي ماشي موشكيل
+wayh hta ytgad,yes until it's fixed,وايه هتا يڭراد
+yzayn yamk,hope you have a succesful future,يزاين يامك
+mazl makhrjo,they didn't go out yet,مازل ماخرجو
+wayh hta ytgras,yes until it's kneaded,وايه هتا يتڭراس
+walh ial l3fo 3rfti chhal nas msiftilya mamjwba had hh,I swear this is annoying do you know how many people are sending me messages and I didn't answer anyone haha,واله يال لعفو عرفتي شهال ناس مسيفتيليا مامجوبا هاد هه
+kayna tamara wlah,there is hardwork I swear,كاينا تامارا ولاه
+walo ghir tamara 3la walo,we are just hardworking for nothing,والو غير تامارا عل والق
+iwa tamara hakak,hardwork for nothing,إوا تامارا هاكاك
+ana ich achghnhyd wlo makn bach nhydo,I what do you want me to take out I don't have anything to take it out with,أنا إش أشغنهيد ولو ماكن باش نهيدو
+maslah okan kanhchmo,we had decency,ماسلاه أُكان كانهشمو
+iwa magltih,well you didn't say it,إوا ماڭلتيه
+ytwahchk lkhir ana mazal msafra,that means a lot I'm still traveling,يتواهشك لخير أنا مازال مسافرا
+mazl majit achkat3wd,I didn't come back yet how is going,مازل ماجيت أشكاتعود
+wafin hanya achkat3we wnta lighbar,heyy how are you you disappeared on us,وافين هانيا أشكاتعو ونتا ليغبار
+ahna ana rani ghir fzagora db,I'm in zagora now,أهنا أنا راني غير فزاڭورا دب
+hya msfrtich fhad l3otla,you didn't travel this holidays,هيا مسفرتيش فهاد لعوتلا
+walah ila slak,I swear we should just live it out,والاه إلا سلاك
+kidayr m3a lkhdma,how is work,كيداير معا لخدما
+iwa ila chrbi ghir skar,just drink some sugar,إوا إلا شربي غير سكار
+warh w9to hadi achghndiro,well this is it's time what can we do,واره وقتو هادي أشغنديرو
+walo had sa3a,nothing for now,والو هاد ساعا
+kidayr m3a chi khdma mzyan,how is work,كيداير معا شي خدما مزيان
+ah nkon ana,yes I'll be there,أه نكون أنا
+achmn w9ita blil,when in the night,أشمن وقيتا بليل
+la mohal wach ana,I don't think it's me,لا موهال واش أنا
+wlah ila lhmdolh,I swear I'm good,ولاه إلا لهمدولڤ
+hya bdat l9raya,school started didn't it,هيا بدات لقرايا
+ah3yana chwya ila 3ndi chihaja kanmchi btaksi,yes she's sick if I have some money I go with a taxi,أهعيانا شويا إلا عندي شيحاجة كانمشي بتاكسي
+chwya lhamdolah,I'm fine,شويا لهامدولاه
+kay'a ghir mchalya tele tah lya,that's true it's just that I lost my phone,كاي'ا غير مشاليا تل تاه ليا
+lahmdolah yswl fik lkhir,I'm good thanks for asking,لاهمدولاه يسول فيك لخير
+wlah ila ahna,I'm just here,ولاه إلا أهنا
+kanslko m3a sahd,we just killing time with this heat,كانسلكو معا ساهت
+smhli wlah ila sahabli jawbtk,I'm sorry I tought I answered you,سمهلي ولاه إلا ساهابلي جاوبتك
+iwa snito sir safr tbahar,if you signed then go for a swim in the beach,إوا سنيتو سير سافر تباهار
+wlah tzadit bzaf,I swear I weight way more now,ولاه تزاديت بزاف
+hhh hadchi li3talah,haha that's all I got,ههه هادشي ليعتالاه
+ahna kandobo fhad sahd,we are melting in this heat,أهنا كاندوبو فهاد ساهت
+ndobo l3fooo osfai,we are melting may god help us,ندوبو لعفوو أُسفاي
+mazal lyoma,today is left,مازال ليوما
+lah y3tik sha,good stuff,الله يعتيك سها
+la db ma3roda,no I'm invited now,لا دب ماعرودا
+mablok had tele 3ndi hbl,my phone is blocked,مابلوك هاد تل عندي هبل
+wayh kayskhno,I know right they get hot,وايه كايسخنو
+bit ngolik mazl hna fl3rasat,I just wanted to tell you that we are still in the wedding ceremonies,بيت نڭوليك مازل هنا فلعراسات
+ayh dima shir,yes I always stay up late,أيه ديما سهير
+safi db nchof ongolik,ok I'll check and let you know,سافي دب نشوف أُنڭوليك
+chti kiwlit,did you see how I became,شتي كيوليت
+lah ybark fik bit n9as wlah,thank you I want to reduce I swear,الله يبارك فيك بيت نقاس ولاه
+wana kaybalya bzaf,I see a lot,وانا كايباليا بزاف
+wlah ila mab9it kankal m3a saht ghir sawail,I swear with this heat I don't eat anything I only drink liquids,ولاه إلا مابقيت كانكال معا ساهت غير ساوايل
+ah lokn galtiha ngolik hta ana la hhhh kant khdama lyoma mafa9t htal 2,yes if you told me I would've told you also no haha she was working today she didin't wake up until 2 pm,أه لوكن ڭالتيها نڭوليك هتا أنا لا هههه كانت خداما ليوما مافاقت هتال 2
+wasafi hta nchofo chi nhar onkhrjo blil bhal hakak lwad ontjm3o ndiro chi kaskrot,well then let's setup a setup a picnic near the river in the night,واسافي هتا نشوفو شي نهار أُنخرجو بليل بهال هاكاك لواد أُنتجمعو نديرو شي جاسكروت
+la machi ana,no it's not me,لا ماشي أنا
+wasaht onas katzwaj,it's hot and people are getting married,واساهت أُناس كاتزواج
+wayglso ghir fchhar 10 lfo9 mzyana,they can stop just in october and above,وايڭلسو غير فشهار 10 لفوق مزيانا
+yzyan yamk,I hope you have a good future,يزيان يامك
+mazl mamsafar,I'm not traveling yet,مازل مامسافار
+wayah lkhdma chhal ghatb9a ,yes how much will work last,واياه لخدما شهال غاتبقا 
+ah ila jit tma nswal fik,yes if I come there I'll ask for you,أه إلا جيت تما نسوال فيك
+hayhay nas bsahtk,wow congrats for the half,هايهاي ناس بساهتك
+la warzazat,no ouarzazate,لا وارزازات
+ahna knslko hta bina ntl3o hna mchiti ltanja,we are just passing  time, we wanted to travel and you went to tangier,أهنا كنسلكو هتا بينا نتلعو هنا مشيتي لتانجا
+rah 3xiya nsawal fik,I will call you in the afternoon,راه عشييا نساوال فيك
+xof rh mamsali,look man I'm busy,شوف ره مامسالي
+khalsti dkchi,did you that stuff,خالستي دكشي
+wjib lih la9fal,bring his the lock,وجيب ليه لاقفال
+rah sift lih msg,I sent him a message,راه سيفت ليه مسڭ
+okan bgha yji,he wanted to come,أُكان بغا يجي
+mrhba bik asahbi,welcome my friend,مرهبا بيك أساهبي
+rah ghnsoni 3lik,I will call you,راه غنسوني عليك
+hbiba fin xadaha,where are you babe,هبيبا فين شاداها
+iwa dozi l3andi,well come to mine,إوا دوزي لعاندي
+wjib joj dfater,bring two notebook with you,وجيب جوج دفاتر
+wjib joj kilo batata,bring two kilos of potatos,وجيب جوج كيلو باتاتا
+rah maticha ghalya,tomatoes are expensive,راه ماتيشا غاليا
+jib liya m3k takos,bring me a tacos,جيب لييا معك تاكوس
+imta l3ars 3ndo b3da,when is his wedding,إمتا لعارس عندو بعدا
+glaiya xhaer jay,he told me next month,ڭلاييا شهار جاي
+wglst tsanani tmak,wait for me there,وڭلست تساناني تماك
+mlk harban awa,why are you running,ملك إاربان أوا
+rah drab zenzl f maghrib,there is an earthquake in morocco,راه دراب زنزل ف ماغريب
+imta ghadi lafrnasa,when are you going to france,إمتا غادي لافرناسا
+wjib liya m3k xi hj,bring me something with you,وجيب لييا معك شي هج
+xhal f 3amrak,how old are you,شهال ف عامراك
+fin kataskon,where do you live,فين كاتاسكون
+smiyt bak,what's you father's name,سمييت باك
+smiyt malak,malak's name,سمييت مالاك
+chno ism dyl khok,what's your brother's name,شنو إسم ديل خوك
+wkhtak zwina,you sister is pretty,وختاك زوينا
+bghit natnasab m3kom,I want to be part of your family,بغيت ناتناساب معكوم
+wl9a bnt zwina,he found a beautiful girl,ولقا بنت زوينا
+machalah 3likom,Blessings be upon you,ماشالاه عليكوم
+tbarklah 3liha hiya,Blessings be upon her,تباركلاه عليها هييا
+ostad lyoma zwin,today's teacher is cute,أُستاد ليوما زوين
+lbarah kan dars zwin,yesterday the course was good,لباراه كان دارس زوين
+match kan momti3,that was a fun game,ماتش كان مومتيع
+wjib liya tmerr,bring me dates,وجيب لييا تمرّ
+ana rah ghanbat hna,I will stay the night here,أنا راه غانبات هنا
+wgha lah yssekher lik,whatever you want,وغا الله يسّخر ليك
+sifti liya ta3bi2a,send me money for my phone subscription,سيفتي لييا تاعبيأ
+rah safar howa o bah,he traveled with his father,راه سافار هووا أُ باه
+xhal kbira 3ndkom dar.,how big is your house,شهال كبيرا عندكوم دار.
+virsi liya dkxi,send me that money,ڤيرسي لييا دكشي
+rah wa9f nit,I'm broke,راه واقف نيت
+rah kn9lb 3la khadama,I'm looking for a job,راه كنقلب علا خاداما
+mxit l casablanca,I went to casablanca,مشيت ل كاسابلانكا
+w safrt l maknas,I traveled to meknes,و سافرت ل ماكناس
+w rah ana f taza,I'm in taza,و راه أنا ف تازا
+wdoz l3ndo l agadir.,visit him in agadir,ودوز لعندو ل أڭادير.
+fin akhoua l3ziz,how are you my dear friend,فين أخوا لعزيز
+wamlk lberah majitich,why didn't you come yesterday,واملك لبراه ماجيتيش
+wab9it kantsna fik,I was waiting for you,وابقيت كانتسنا فيك
+lmhm chof ghur 9ad,the important is that you make it,لمهم شوف غور قادي
+wa dak naher fin kenti,where were you that day,وا داك ناهر فين كنتي
+majitich la9hwa,you didn't come to the coffe shop,ماجيتيش لاقهوا
+gheda rah kayan match,there is a game tomorrow,غدا راه كايان ماتش
+ntafrjo f real safi,we watch real madrid together okey,نتافرجو ف رال سافي
+kant ne3s lberah,I was sleeping yesterday,كانت نعس لبراه
+kan 3lik te3lmni,you should've informed me,كان عليك تعلمني
+wala ghur tsoni lua,or you could've called,والا غور تسوني لوا
+jiti mn tamgrout,you came from tamgrout,جيتي من تامڭروت
+kif dura de3wa tema,how is life there,كيف دورا دعوا تما
+kayan chi tahrouk,is there stuff to do,كايان شي تاهروك
+la9dia ne3sa akhy,it's boring my brother,لاقديا نعسا أخي
+wakifach hanya,how is it fine,واكيفاش هانيا
+dekhal lafcebok,get on facebook,دخال لافسبوك
+chof rah ghatji,look she's comming,شوف راه غاتجي
+lyouma ach 3ndk,what do you have today,ليوما أش عندك
+wach khadam wala la,are you working or not,واش خادام والا لا
+ylh ghadi la salle,I was about to go to the gym,يله غادي لا سالّ
+gheda ntrinw sbuuh,we go to the gym tomorrow,غدا نترينو سبووه
+waji choua bakri,come ealy,واجي شوا باكري
+wa3yan nta akhy,you're lame my borhter,واعيان نتا أخي
+smh lua te3tlt,sorry I'm late,سمه لوا تعتلت
+ach derti ma3a khona,what did you do with that dude,أش درتي ماعا خونا
+maghdich lyouma,I'm not going today,ماغديش ليوما
+lila namcho,this night we go,ليلا نامشو
+kayan chi mousi9a,is there music,كايان شي موسيقا
+fin waslti m3aha,how is it going with her,فين واسلتي ماعها
+awdi le3fou,ehh whatever,أودي لعفو
+makyana ma3na,there's no point,ماكيانا ماعنا
+derna fih khur,we made him a favor,درنا فيه خور
+oflakher khwa bina,and he stood us up,أُفلاخر خوا بينا
+ji diha merhba,come take it don't worry about it,جي ديها مرهبا
+ma3ndk mochkill,you don't have a problem,ماعندك موشكيلّ
+ila jiti liha dba,if you came for it now,إلا جيتي ليها دبا
+wala ta nher seat,no until saturday,والا تا نهر سات
+lmhm gha tkouni,you just should be there,لمهم غا تكوني
+mojoda incha2lh,I'm ready,موجودا إنشاءله
+ylh tahya lik,greetings,يله تاهيا ليك
+tasbh 3la khir,good night,تاسبه علا خير
+wdoz lmarchi jibha,go to market and bring it,ودوز لمارشي جيبها
+wkhod lhot w l9azbor,take the fish and coriander,وخود لهوت و لقازبور
+wana rah kntsanak,I'm waiting for you,وانا راه كنتساناك
+rah wa9f xi n'as sa3a,I was standing there for half an hour,راه واقف شي ن'اس ساعا
+wax dkhalto lamdina,did you enter the city,واش دخالتو لامدينا
+wdirha fin tjik,remember me very well,وديرها فين تجيك
+wdrabha lwalid dyalha,her father hit her,ودرابها لواليد ديالها
+l9awha m3ah f dar,they found her in his house with him,لقاوها معاه ف دار
+whowa rah f lablad.,he's in the countryside,وهووا راه ف لابلاد.
+w txahit xi tanjiya,I'm craving a tanjia,و تشاهيت شي تانييا
+ahsen blad bladi,the best country ever is mine,أهسن بلاد بلادي
+lmossi9a zina bzaff,the music is very good,لموسّيقا زينا بزافّ
+swb xi barad atay,make tea,سابو شي باراد أتاي
+khodi 9ar3a d lma,take a water bottle,خودي قارعا د لما
+jib lframaj o lkhobz,bring cheese and bread,جيب لفراماج أُ لخوبز
+wtayab m3ak lma,boil water while you're there,وتاياب معاك لما
+wylh salit lmatch,I just finished a game,ويله ساليت لماتش
+ghanmchi l hamam,I'm going to hamam,غانمشي ل هامام
+ghanmchi ndawax,I'm going to shower,غانمشي نداواش
+3tat lbarani,she gave it to strangers,عتات لباراني
+ohna ma3tatnach,and she didn't give us,أُهنا ماعتاتناش
+nta litalfan,you're lost,نتا ليتالفان
+rja3 9ra mzyan,go back and study well,رجاع قرا مزا
+fin akhoua zin,where have you been my handsome brother,فين أخوا زين
+ylh tahya tal sbah,well good night until the morning,يله تاهيا تاسبه
+3la khur akhy,good bye my brother,علا خور أخي
+mra mra,from time to time,مرا مرا
+slm zin dyali .,hey my love,سلم زين ديالي .
+kidyra lhob .,how are you dear,كيديرا لهوب .
+mrc bzafff bzaff,thank you sooo much,مرك بزافّف بزافّ
+w samhi li lbrh rh dani n3ass,I'm sorry I fell a sleep yesterday,و سامهي لي لبره ره داني نعاسّ
+khdina z3ma ton número bax ndwiw.,I took your number so we can talk,خدينا زعما تون نúمرو باش ندويو.
+sa3a nti maamsalyax lina,but you're too busy for me,ساعا نتي مامسالياش لينا
+awdi rah db mamsalyach,I'm busy now,أودي راه دب مامسالياش
+alala hta tsali,nono take your time until you're free,ألالا هتا تسالي
+lah ysser lik akhayata lbari3a,good luck talented seamstress,الله يسّر ليك أخاياتا لباريعا
+mni tsali ana ntsanak bax ndwiw ok,I'll be waiting for you when you finish we should talk,مني تسالي أنا نتساناك باش ندويو أُك
+ok mrc wlah db mamasalya,ok thanks I swear I'm busy now,أُك مركعلاه دب ماماساليا
+bghina ghir nt3rfo 3lik kter,I just want to get to know you better,بغينا غير نتعرفو عليج أكتر
+wax nti mn nawa7i .,are you from this area,واش نتي من ناواحي .
+ok mbghitix tdwi,ok you don't wanna talk,أُك مبغيتيش تدوي
+yak galti liya hta nsali,you told me until you finish,ياك ڭالتي لييا هتا نسالي
+dik sa3a lah o3lam,how know's at that time,ديك ساعا الله أُعلام
+knti f takwin,you were in profesional training school,كنتي ف تاكوين
+db rh mkynax fih,I'm not there now,دب ره مكيناش فيه
+dzl rah tablokat liya lacart dyl télé odb,I'm sorry my phone card got block and now,دزل راه تابلوكات لييا لاكارت ديل تéلé أُدب
+mal9it mandir,I have nothing to do,مالقيت ماندير
+kifx tblokit lik,how did I got blocked,كيفش تبلوكيت ليك
+nsit lcod puk dylo,I forgot the puk code,نسيت لكود پوك ديلو
+iwa fin kayn ixkal afatima,where is the problem fatima,إوا فين كاين إشكال أفاتيما
+makhdamch liya ba9i lacrt,my card is not working anymore,ماخدامش لييا باقي لاكرت
+3lax db khadam whasap,why is whatsapp working now,علاش دب خادام وهاساپ
+khdama ghir blwifi,I'm only using wifi,خداما غير بلويفي
+swltk lbrh mjwbtini,I asked you yesterday and you didn't answer,سولتك لبره مجوبتيني
+hiya kdwi bchal7a,is she talking berberian,هييا كدوي بشالحا
+walkin khadam whsap,but whatsapp is working,والكين خادام وهساپ
+fin kyn moxkil,where is the problem,فين كين موشكيل
+lmhm cv b3da kighada m3a takwunn,anyway how are you how's profession school,لمهم كڤ بعدا كيغادا معا تاكوونّ
+hit chrit ohda khera,because I bought another one,هيت شريت أُهدا خرا
+paaser ha lna ila bghitii,pass the ball to me if you want,پاسر ها لنا إلا بغيتيّ
+bx mdwi m3ak mra mra,so we can speak from time to time,بش مدوي معاك مرا مرا
