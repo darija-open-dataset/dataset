@@ -19,7 +19,10 @@ While we have made significant progress in compiling and organizing the dataset,
 [Check out this introductory video about DODa.](https://www.youtube.com/watch?v=IZWuEy7yLB0)
 ---
 ## How to contribute
-[We've made a detailed video for you on how to contribute](https://www.youtube.com/watch?v=gyuTSJgux4s&ab_channel=DODa)
+
+You're free to navigate straight to the [AtlasIA](https://atlasia.ma) interface and start your contributions.
+
+Otherwise, if you prefer using dev tools, [we've made a detailed video for you on how to contribute](https://www.youtube.com/watch?v=gyuTSJgux4s&ab_channel=DODa)
 
 TL;DW (Too Long Didn't Watch):
 1. Go to [Issues](https://github.com/darija-open-dataset/dataset/issues)
