@@ -20,7 +20,7 @@ While we have made significant progress in compiling and organizing the dataset,
 ---
 ## How to contribute
 
-You're free to navigate straight to the [AtlasIA](https://atlasia.ma) interface and start your contributions.
+You're free to navigate straight to the [AtlasIA](https://atlasia.ma) interface and start your contributions 🔥🔥.
 
 Otherwise, if you prefer using dev tools, [we've made a detailed video for you on how to contribute](https://www.youtube.com/watch?v=gyuTSJgux4s&ab_channel=DODa)
 
