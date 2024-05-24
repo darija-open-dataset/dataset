@@ -133,6 +133,17 @@ For further details, visit the [official Pydoda GitHub repository](https://githu
 
 ## Citation
 ```
+@misc{outchakoucht2024evolution,
+      title={The Evolution of Darija Open Dataset: Introducing Version 2}, 
+      author={Aissam Outchakoucht and Hamza Es-Samaali},
+      year={2024},
+      eprint={2405.13016},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+```
 @misc{outchakoucht2021moroccan,
       title={Moroccan Dialect -Darija- Open Dataset},
       author={Aissam Outchakoucht and Hamza Es-Samaali},
