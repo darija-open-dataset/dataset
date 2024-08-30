@@ -598,10 +598,9 @@ kidayer ljaw tama?, how's the weather there ?,كيداير لجاو تاما?
 walah ma3ndi chi fikra, i swear I have no idea,والاه ماعندي شي فيكرا
 ghir lbarh jit, I just came yesterday,غير لباره جيت
 labas lhamdo lilah,I'm fine thank you,لاباس لهامدو ليلاه
-kidayrin drari?,,كيدايرين دراري?
-fina hiya 3mti,,فينا هييا عمتي
-salam 3la nas tama,,سالام علا ناس تاما
-mzyan mli drti haka,,مزيان ملي درتي هاكا
+kidayrin drari?,how are the kids?,كيدايرين دراري?
+fina hiya 3mti,where is my aunt,فينا هييا عمتي
+salam 3la nas tema,greet the people there,سالام علا ناس تاما
 fin jat lmhkama?,,فين جات لمهكاما?
 fin kaychdo tobis?,,فين كايشدو توبيس?
 chhal lmasafa mn hna?,,شهال لماسافا من هنا?
@@ -779,7 +778,7 @@ mn ba3d wndoz 3ndk,,من باعد وندوز عندك
 andoz 3ndk fach nsali,,أندوز عندك فاش نسالي
 chri lma mn lhanot,,شري لما من لهانوت
 jib liya chi kas dyal l3assir,,جيب لييا شي كاس ديال لعاسّير
-atay bskar wla bla skar?,,أتاي بسكار ولا بلا سكار?
+attay bskar wla bla skar?,,أتاي بسكار ولا بلا سكار?
 jib liya chiya dyal n3na3,,جيب لييا شييا ديال نعناع
 kayn 3ndk lhlib?,,كاين عندك لهليب?
 kayna 3ndk monada?,,كاينا عندك مونادا?
@@ -847,155 +846,239 @@ hna lakhrin,,هنا لاخرين
 simana jaya nmcho,,سيمانا جايا نمشو
 matzglch had lforsa,,ماتزڭلش هاد لفورسا
 l9ar3a khawya,,لقارعا خاويا
-3merha blma,,عمرها بلما
-hna daba mt3adlin,,هنا دابا متعادلين
-kidayer l9anon 3ndkom?,,كيداير لقانون عندكوم?
-3ndak chi khbar?,,عنداك شي خبار?
-nta mkalakh,,نتا مكالاخ
-smah liya bzaf,,سماه لييا بزاف
-bati n3awnk,,باتي نعاونك
-3ndk mawhiba zwina,,عندك ماوهيبا زوينا
-bla matsda3 rask,,بلا ماتسداع راسك
-khloh ymchi,,خلوه يمشي
+
 ma3ndich m3a siyasa,,ماعنديش معا سيياسا
-chkon had syed?,,شكون هاد سيد?
-mafrask walo?,,مافراسك والو?
-mafhamtch mz1?,,مافهامتش مز1?
-kankrah chi haja bhal haka,,كانكراه شي حاجة بهال هاكا
-hadchi kaymaradni,,هادشي كايمارادني
-hadchi lighadi ndir,,هادشي ليغادي ندير
-wash 9adr dirha,,واسه قادر ديرها
-ah 9adr ndirha,,أه قادر نديرها
-3ndi wahd lfikra,,عندي واهد لفيكرا
-mat3awd dir haka mra okhra,,ماتعاود دير هاكا مرا أُخرا
-achno kadir flahayat,,أشنو كادير فلاهايات
-knkhdem ghir flweekend,,كنخدم غير فلويكند
-kn9ra,,كنقرا
-kn9ri,,كنقري
-knt3lam logha jdida,,كنتعلام لوغا جديدا
-rah kayn tama,,راه كاين تاما
-rah kayn hna,,راه كاين هنا
-bla man3awd lhadra,,بلا مانعاود لهادرا
-chokran 3la lmosa3da,,شوكران علا لموساعدا
-bghit nt3alam,,بغيت نتعالام
-bghit nkteb,,بغيت نكتب
-momkin nhder?,,مومكين نهدر?
-maghadich nt3amal m3ak,,ماغاديش نتعامال معاك
-rah 9lt lik likayn,,راه قلت ليك ليكاين
-taf9na?,,تافقنا?
+kidayer l9anon 3ndkom?,,كيداير لقانون عندكوم?
+smah liya bzaf,,سماه لييا بزاف
+
+3merha blma,fill it with water,عمرها بلما
+3ndak chi khbar?,do you have some news?,عنداك شي خبار?
+nta mkalakh,you are stupid,نتا مكالاخ
+blati n3awnk,wait i will help you,بالتي نعاونك
+3ndk mawhiba zwina,,عندك ماوهيبا زوينا
+khloh ymchi,let him go,خلوه يمشي
+chkon had siyed?,who is this gentleman,شكون هاد سيد?
+mafhamtch mazal,i still dont understand,مافهامتش مزال
+kankrah chi haja bhal haka,i have things like this,كانكراه شي حاجة بهال هاكا
+hadchi kaymaradni,this sickens me,هادشي كايمارادني
+hadchi lighadi ndir,this is what i will do,هادشي ليغادي ندير
+wach 9adr dirha?,you can do it?,واسه قادر ديرها
+ah 9adr ndirha,yes i can do it,أه قادر نديرها
+3ndi wahd lfikra,i have an idea,عندي واهد لفيكرا
+mat3awdch dir haka mra khra,don't do this ever again,ماتعاود دير هاكا مرا أُخرا
+achno kadir f lahayat,what are you doing in life,أشنو كادير فلاهايات
+knkhdem ghir f lweekend,i only work on the weekend,كنخدم غير فلويكند
+knt3lam logha jdida,i'm learning a new language,كنتعلام لوغا جديدا
+rah kayn tema,he is there,راه كاين تاما
+rah kayn hna,he is here,راه كاين هنا
+bla man3awd lhadra,without going over it again,بلا مانعاود لهادرا
+chokran 3la lmosa3da,thanks for help,شوكران علا لموساعدا
+bghit nt3alam,i want to learn,بغيت نتعالام
+bghit nkteb,i want to write,بغيت نكتب
+momkin nhder?,can i talk?,مومكين نهدر?
+maghadich nt3amal m3ak,I won’t deal with you,ماغاديش نتعامال معاك
+rah 9lt lik likayn,i already told you what's there,راه قلت ليك ليكاين
+taf9na?,are we agreed?,تافقنا?
 knt m9abl lmahal,,كنت مقابل لماهال
-fker fchi haja,,فكر فشي حاجة
-malk sakt?,,مالك ساكت?
-ma3ndi 9ima,,ماعندي قيما
-ghadi ntzawaj,,غادي نتزاواج
-safi hadchi li3ndk,,سافي هادشي ليعندك
-maghadich t9der 3liha,,ماغاديش تقدر عليها
-charji had telefon,,شارجي هاد تلفون
-3alch katghawat?,,عالش كاتغاوات?
-ntla9aw ghda,,نتلاقاو غدا
-kat3rf tsog?,,كاتعرف تسوڭ?
-khask tcharak,,خاسك تشاراك
-sift liya ra9m dyalk,,سيفت لييا راقم ديالك
-imta ghadi tkharaj?,,إمتا غادي تخاراج?
-kan9ra fljami3a,,كانقرا فلجاميعا
-kay9olo ghadi ysdo ghda,,كايقولو غادي يسدو غدا
-maghadich ntkhla 3lik,,ماغاديش نتخلا عليك
-hadchi machi m39ol,,هادشي ماشي معقول
-bach kaths?,,باش كاتهس?
-3ndk mat9ol?,,عندك ماتقول?
-chkon ghadi ykhalas?,,شكون غادي يخالاس?
-mostahil tarbah,,موستاهيل تارباه
+fker fchi haja,think of something,فكر فشي حاجة
+malk sakt?,why are you quite?,مالك ساكت?
+ma3ndi 9ima,i have no worth,ماعندي قيما
+ghadi ntzawaj,i will marry,غادي نتزاواج
+safi hadchi li3ndk,this is all you have,سافي هادشي ليعندك
+maghadich t9der 3liha,you won’t be able to handle it,ماغاديش تقدر عليها
+charji had telefon,charge this phone,شارجي هاد تلفون
+3lach kat ghawat?, why are you screaming?,عالش كاتغاوات?
+ntla9aw ghda,let's meet tomorrow,نتلاقاو غدا
+kat3rf tsog?,do you know how to drive?,كاتعرف تسوڭ?
+khask tcharak,you need to participate,خاسك تشاراك
+sift liya ra9m dyalk,send me your number,سيفت لييا راقم ديالك
+imta ghadi tkharaj?,when you will graduate?,إمتا غادي تخاراج?
+kan9ra fljami3a,i study in the university,كانقرا فلجاميعا
+kay9olo ghadi ysdo ghda,they say they will close tomorrow,كايقولو غادي يسدو غدا
+maghadich ntkhla 3lik,i wont leave you,ماغاديش نتخلا عليك
+hadchi machi m39oul,this is not reasonable,هادشي ماشي معقول
+hadchi machi m9boul, this is not acceptable,هادشي ماشي مقبول
+bach kaths?,what are you feeling?,باش كاتهس?
+3ndk mat9ol?,do you have something to say?,عندك ماتقول?
+chkon ghadi ykhalas?,who is paying?,شكون غادي يخالاس?
+mostahil tarba7,impossible to win,موستاهيل تارباه
 ghadi nkhalas,,غادي نخالاس
-ach katakl?,,أش كاتاكل?
-kanakl,,كاناكل
-knchreb,,كنشرب
-knrsem,,كنرسم
-kndor flmdina,,كندور فلمدينا
-kn9lab 3la lmahta,,كنقلاب علا لماهتا
-wash hadchi shih?,,واسه هادشي سهيه?
-malk mchghol dima?,,مالك مشغول ديما?
-ghadi nkon mchghol,,غادي نكون مشغول
-khdam fmdina okhra,,خدام فمدينا أُخرا
-khali l3ala9a zwina,,خالي لعالاقا زوينا
-chkon li mzyana fihom?,,شكون لي مزيانا فيهوم?
-hta wahda ma3jbatni,,هتا واهدا ماعجباتني
-bdel liya hadi bwahda okhra,,بدل لييا هادي بواهدا أُخرا
-malk katchof fiya?,,مالك كاتشوف فييا?
-ach katrsam?,,أش كاترسام?
-mghdi lyoma 3nd shabi,,مغدي ليوما عند سهابي
-fach tji ntla9aw,,فاش تجي نتلاقاو
-momkin t3awni,,مومكين تعاوني
-malk kadhk?,,مالك كادهك?
-hta wahd ma3arf,,هتا واهد ماعارف
-khli had chi sir binatna,,خلي هاد شي سير بيناتنا
-ktachft hadchi bsodfa,,كتاشفت هادشي بسودفا
-chfthom lbarh,,شفتهوم لباره
-3ndkom nafs tafkir,,عندكوم نافس تافكير
-knfker fnafs lhaja,,كنفكر فنافس لحاجة
-hadchi 9dim hna,,هادشي قديم هنا
-ghir lyoma li ftah,,غير ليوما لي فتاه
-imta ghadi tasli l9raya,,إمتا غادي تاسلي لقرايا
-wsalna ghir lyoma,,وسالنا غير ليوما
-machi hadchi libghit,,ماشي هادشي ليبغيت
-wash 39alti 3liya,,واسه عقالتي علييا
-hawal dakar zyan,,هاوال داكار زيان
-kanfdal n3ichi flbadya,,كانفدال نعيشي فلباديا
-makanhmal lmdina,,ماكانهمال لمدينا
-bghitk tkon mrtah,,بغيتك تكون مرتاه
-kankrh had lhwayj,,كانكره هاد لحوايج
-fker flmosta9bl,,فكر فلموستاقبل
-matkhalih ystaghlk,,ماتخاليه يستاغلك
-bgha ynsab 3lik,,بغا ينساب عليك
-3ti rask raha chwiya,,عتي راسك راها شوييا
-ghadi ytb3ni,,غادي يتبعني
-matmchich bwahdk,,ماتمشيش بواهدك
-madir fbalk walo,,مادير فبالك والو
-dakhal had lcode,,داخال هاد لكود
-kayban wa3r mn bra,,كايبان واعر من برا
-hadchi ghadi ynfa3na,,هادشي غادي ينفاعنا
-golya chi nokta,,ڭوليا شي نوكتا
-b9a mbtasm dima,,بقا مبتاسم ديما
-3arf had l2ihsas,,عارف هاد لإهساس
+ach katakl?,what are you eating?,أش كاتاكل?
+kanakl,i'm eating,كاناكل
+knchreb,i'm drinking,كنشرب
+knrsem,i'm drawing,كنرسم
+knlouwen, i'm painting, كنلون
+kndouwech, i'm showering, كندوش
+kndor f lmdina,i'm walking around in the city,كندور فلمدينا
+wach hadci ha9i9i?, is this real? واش هادشي حقيقي؟
+wach hadchi s7i7?,is this true?,واسه هادشي سهيه?
+malk mchghol dima?,why are you always busy?,مالك مشغول ديما?
+ghadi nkon mchghol,i will be busy,غادي نكون مشغول
+khdam fmdina okhra,working in another city,خدام فمدينا أُخرا
+khali l3ala9a zwina,keep the relationship good,خالي لعالاقا زوينا
+chkon li mzyana fihom?,which one is good among them?,شكون لي مزيانا فيهوم?
+hta wahda ma3jbatni,i didn’t like any of them,هتا واهدا ماعجباتني
+bdel liya hadi bwahda okhra,change this one for another one,بدل لييا هادي بواهدا أُخرا
+malk katchof fiya?,why are you looking at me?,مالك كاتشوف فييا?
+ach katrsam?,what are you drawing?,أش كاترسام?
+mghdi lyoma 3nd shabi,i'm eating lunch at my friend's place today,مغدي ليوما عند سهابي
+fach tji ntla9aw,when you come let's meet,فاش تجي نتلاقاو
+momkin t3awni,you can help me,مومكين تعاوني
+malk kadhk?,why are you laughting?,مالك كادهك?
+hta wahd ma3arf,no one knows,هتا واهد ماعارف
+khli had sirr binatna,keep this secret between us,خلي هاد شي سير بيناتنا
+ktachft hadchi bsodfa,i discovered this by coincidence,كتاشفت هادشي بسودفا
+chfthom lbar7,i saw them yesterday,شفتهوم لباره
+3ndkom nafs tafkir,you have the same thinking,عندكوم نافس تافكير
+3ndkom nafs tafkir,you have the same mindset,عندكوم نافس تافكير
+knfker fnafs lhaja,i'm thinking about the same thing,كنفكر فنافس لحاجة
+hadchi 9dim hna,this is old here,هادشي قديم هنا
+imta ghadi tasli 9raytk,when will you finish your studies,إمتى غادي تسالي قرايتك
+imta ghadi tasli l9raya,when will you finish studying,إمتا غادي تاسلي لقرايا
+wsalna ghir lyoma,we arrived just today,وسالنا غير ليوما
+machi hadchi libghit,this is not what i want,ماشي هادشي ليبغيت
+wash 39alti 3liya,do you remember me,واسه عقالتي علييا
+hawal dekar bzyan,try to remember well,هاوال داكار زيان
+kan fdal n3ichi f lbadiya,i prefer to live in the countryside,كانفدال نعيشي فلباديا
+kan fdal n3ich f l3robiya, i prefer to live in the countryside, كان فضل نعيش ف العروبية
+makanhmalch lmdina,i hate the city,ماكانهمال لمدينا
+bghitk tkon mrta7,i want you to be comfortable,بغيتك تكون مرتاه
+kankrh had lhwayj,i hate these clothes,كانكره هاد لحوايج
+fker flmosta9bal,think of the future,فكر فلموستاقبل
+fker f mosta9balk,think of your future,فكر فلموستاقبلك
+fker f mosta9balna, think of our future, فكر فمستقبلنا
+fker f mosta9balhom, think of their future, فكر فمستقبلهم
+ma tkhalihach tstaghlk,don't let her take advantage of you,ماتخليهاش تستغلك
+ma tkhalihch ystaghlk,don't let him take advantage of you,ماتخاليهش يستاغلك
+bgha ynsab 3lik,he wanted to scam you,بغا ينساب عليك
+3ti rask raha chwiya,rest yourself a bit,عتي راسك راها شوييا
+ghadi ytb3ni,he will follow me,غادي يتبعني
+ghada tb3ni,she will follow me,غادة تبعني
+ghadi nteb3ohom, we will follow them,غادي نتبعوهم
+ghadi yteb3ona, they will follow us,غادي يتبعونا 
+matmchich bou7dk,don't go alone,ماتمشيش بوحدك
+madir fbalk walo,don’t worry about it at all,مادير فبالك والو
+dakhal had lcode,enter this code,داخال هاد لكود
+hadchi ghadi ynfa3na,this will benefit us,هادشي غادي ينفاعنا
+golya chi nokta,tell me a joke,ڭوليا شي نوكتا
+b9a mbtasm dima,always stay smiling,بقا مبتاسم ديما
+3arf had l2ihsas,i know this feeling,عارف هاد لإهساس
+b3d 3la lmachakil,stay away from problems,بعد علا لماشاكيل
+rad liya dakchi li slaftk,return me the stuff i lent you,راد لييا داكشي لي سلافتك
+chba3ti wla la?,are you full or no?,شباعتي ولا لا?
+le3cha wajd, dinner is ready,لعشا واجد
+leftor wajd, breakfast is ready, لفطور واجد
+leghda wajd, lunch is ready, لغدا واجد
+kolchi wajd, everything is ready, كلشي واجد 
+wjdo raskom,get ready,وجدو راسكوم
+chkon chfer liya sak dyali,who stole my bag,شكون شفر لييا ساك ديالي
+maghadich nsmeh lik,i won't forgive you,ماغاديش نسمه ليك
+tsna nmchi m3ak,wait i will go with you,تسنا نمشي معاك
+li 3ndi 9lto lik,i told you what i have,لي عندي قلتو ليك
+makaynch chi 7el akhor,there no other solution,ماكاين شي هل أخور
+knstmt3 bwa9ti hna,i;m enjoying my time here,كنستمتع بواقتي هنا
+
+3jbatk lblasa?,did you like the place,عجباتك لبلاصة?
+3jbatk had lblasa?, did you like this place, عجبتك هاد اللبصة؟
+ket 3jbek had lbasa?, do you like this place?, كتعجبك هاد اللبصة؟
+ket 3jbek lbasa?, do you like the place?, كتعجبك اللبصة؟
+3jbatk lblasa lli writlek?, did you like the place i showed you?, عجباتك لبلاصة اللي وريت لك؟
+3ajbouk had lblais li writlek?, did you like the places i showed you?, عجبوك هاد البلايص لي وريتلك؟
+3ajbouk had lblais li ken wrik?, do you like these places i'm showing you? عجبوك هاد البلايص لي كان وريك؟
+ki jatk had lbasa?, how did you find this place? كي جاتك هاد اللبصة؟
+ki jawk had lblais?, how did you find these places?, كي جاوك هاد البلايص؟
+kifach jatk had lbasa?, how did you find this place?, كيفاش جاتك هاد اللبصة؟
+kifach jawk had lblais?, how did you find these places?, كيفاش جاوك هاد البلايص؟
+3ajbatk hadik lbasa li mchina liha?, did you like that place we went to?, عجبتك هاديك اللبصة لي مشينا ليها؟
+3ajbouk hadok lblais li mchina lihoum?, did you like those places we went to?, عجبوك هدوك البلايص لي مشينا ليهم؟
+ki jatk hadik lblasa li mchina liha?, how did you find that place we went to?, كي جاتك هاديك البلاصة لي مشينا ليها؟
+ki jawk hadok lblais li mchina lihoum?, how did you find those places we went to?, كي جاوك هدوك البلايص لي مشينا ليهم؟
+ki jathom hadik lblasa li mchaw liha?, how did they find that place they went to?, كي جاتهم هاديك اللبصة لي مشاو ليها؟
+ki jawhom hadok lblais li mchaw lihoum?, how did they find those places they went to?, كي جاوهم هادوك البلايص لي مشاو ليهم؟
+ki jatk hadik lblasa li mchaw liha?, how did you find that place they went to?, كي جاتك هاديك اللبصة لي مشاو ليها؟
+ki jawk hadok lblais li mchaw lihoum?, how did you find those places they went to?, كي جاوك هادوك البلايص لي مشاو ليهم؟
+ki jatk hadik lblasa li mchiti liha?, how did you find that place you went to?, كي جاتك هاديك اللبصة لي مشيتي ليها؟
+ki jawk hadok lblais li mchiti lihoum?, how did you find those places you went to?, كي جاوك هادوك البلايص لي مشيتي ليهم؟
+ki jatk hadik lbasa li writlek?, how did you find that place I showed you?, كي جاتك هاديك البلاصة لي وريتك؟
+ki jawk hadok lblais li writlek?, how did you find those places I showed you?, كي جاوك هدوك البلايص لي وريتك؟
+kifach jatk hadik lbasa li writlek?, how did you find that place I showed you?, كيفاش جاتك هاديك البلاصة لي وريتك؟
+kifach jawk hadok lblais li writlek?, how did you find those places I showed you?, كيفاش جاوك هدوك البلايص لي وريتك؟
+kifach jatkom had lbasa?, how did you find this place? كيفاش جاتكم هاد اللبصة؟
+kifach jawkom had lblais?, how did you find these places?, كيفاش جاوكم هاد البلايص؟
+3ajbatkom hadik lbasa li mchina liha?, did you like that place we went to?, عجبتكم هاديك اللبصة لي مشينا ليها؟
+3ajbkom hadok lblais li mchina lihoum?, did you like those places we went to?, عجبكم هادوك البلايص لي مشينا ليهم؟
+ki jatkom hadik lblasa li mchina liha?, how did you find that place we went to?, كي جاتكم هاديك البلاصة لي مشينا ليها؟
+3jbatk lblasa dyal lyoum?, did you like today's place?, عجباتك لبلاصة ديال اليوم؟
+3jbatk dar?, did you like the house?, عجباتك الدار؟
+3jbatk had dar?, did you like this house?, عجبتك هاد الدار؟
+ket 3jbek had dar?, do you like this house?, كتعجبك هاد الدار؟
+ket 3jbek dar?, do you like the house?, كتعجبك الدار؟
+3jbatk dar lli writlek?, did you like the house i showed you?, عجباتك الدار اللي وريت لك؟
+3ajbouk had diour li writlek?, did you like the houses i showed you?, عجبوك هاد الديور  لي وريتلك؟
+3ajbouk had diour li ken wrik?, do you like these houses i'm showing you? عجبوك هاد الديور  لي كان وريك؟
+ki jatk had dar?, how did you find this house?, كي جاتك هاد الدار؟
+ki jawk had diour ?, how did you find these houses?, كي جاوك هاد الديور ؟
+kifach jatk had dar?, how did you find this house?, كيفاش جاتك هاد الدار؟
+kifach jawk had diour ?, how did you find these houses?, كيفاش جاوك هاد الديور ؟
+3ajbatk hadik dar li mchina liha?, did you like that house we went to?, عجبتك هاديك الدار لي مشينا ليها؟
+3ajbouk hadok diour li mchina lihoum?, did you like those houses we went to?, عجبوك هدوك الديور  لي مشينا ليهم؟
+ki jatk hadik dar li mchina liha?, how did you find that house we went to?, كي جاتك هاديك الدار لي مشينا ليها؟
+ki jawk hadok diour li mchina lihoum?, how did you find those houses we went to?, كي جاوك هدوك الديور  لي مشينا ليهم؟
+ki jathom hadik dar li mchaw liha?, how did they find that house they went to?, كي جاتهم هاديك الدار لي مشاو ليها؟
+ki jawhom hadok diour li mchaw lihoum?, how did they find those houses they went to?, كي جاوهم هادوك الديور  لي مشاو ليهم؟
+ki jatk hadik dar li mchaw liha?, how did you find that house they went to?, كي جاتك هاديك الدار لي مشاو ليها؟
+ki jawk hadok diour li mchaw lihoum?, how did you find those houses they went to?, كي جاوك هادوك الديور  لي مشاو ليهم؟
+ki jatk hadik dar li mchiti liha?, how did you find that house you went to?, كي جاتك هاديك الدار لي مشيتي ليها؟
+ki jawk hadok diour li mchiti lihoum?, how did you find those houses you went to?, كي جاوك هادوك الديور  لي مشيتي ليهم؟
+ki jatk hadik dar li writlek?, how did you find that house I showed you?, كي جاتك هاديك الدار لي وريتك؟
+ki jawk hadok diour li writlek?, how did you find those houses I showed you?, كي جاوك هدوك الديور  لي وريتك؟
+kifach jatk hadik dar li writlek?, how did you find that house I showed you?, كيفاش جاتك هاديك الدار لي وريتك؟
+kifach jawk hadok diour li writlek?, how did you find those houses I showed you?, كيفاش جاوك هدوك الديور  لي وريتك؟
+kifach jatkom had dar?, how did you find this house?, كيفاش جاتكم هاد الدار؟
+kifach jawkom had diour ?, how did you find these houses?, كيفاش جاوكم هاد الديور ؟
+3ajbatkom hadik dar li mchina liha?, did you like that house we went to?, عجبتكم هاديك الدار لي مشينا ليها؟
+3ajbkom hadok diour li mchina lihoum?, did you like those houses we went to?, عجبكم هادوك الديور  لي مشينا ليهم؟
+ki jatkom hadik dar li mchina liha?, how did you find that house we went to?, كي جاتكم هاديك الدار لي مشينا ليها؟
+
+khsni nkhdem,i need to work,خسني نخدم
+malk kat khmem?,why are you overthinking?,مالك كاتخمام?
+wach fih lapisin?,does it have a pool?,واش فيه لاپيسين?
+matkhla3,don't get frightened,ماتخلاع
+kolchi ghadi ydoz mzyan,everything will go well,كولشي غادي يدوز مزيان
+ma tkounch khwaf,don't be a craven,ماتكونش خواف
+kaybda ghda,he starts tomorrow,كايبدا غدا
+ghadi ysali lyoma,he will finish today,غادي يسالي ليوما
+ghadi tsali lyoma,she will finish today,غادي تسالي ليوما
+khasna nkhtasro tri9,we need to take a shortcut,خاسنا نختاسرو تريق
+wash mtaf9in?,are we in agreement?,واسه متافقين?
+wsalni lma7ta,take me to the station,وسالني لماهتا
+red liya sarf,return me the change,رد لييا سارف
+khod had lcado,take this gift,خود هاد لكادو
+imta 3id milad dyalk?,when is your birthday?,إمتا عيد ميلاد ديالك?
+ach kay3jbk takol?,what do you like to eat?,أش كايعجبك تاكول?
+ghadi njib lik chi haja zwina,i will bring you something lovely,غداي نجيب ليك شي حاجة زوينا
+wach kat9lab 3liya?,are you searching for me?,واش كاتقلاب علييا?
+ma tdihach fih,don't mind him,ما تديهاش فيه
+hadchi lidrti zwin,what you've done is nice,هادشي ليدرتي زوين
+knt 3arf hadchi,i knew these things,كنت عارف هادشي
+knt 3arf hadchi ghdai yw9a3,i knew this would happen,كنت عارف هادشي غداي يوقاع
+mhtaj chi wahd ywasalni,i need someone to question me,مهتاج شي واهد يواسالني
+chof ach 9adit,look what i made,شوف أش قاديت
+hadchi li 9aditi zwin,what you've made is nice,هادشي لي قاديتي زوين
+fina hiya djakita dyali,where is my jacket,فينا هييا دجاكيتا ديالي
+mli tkhrej sed m3ak lbab,when you go out close the door behind you,ملي تخرج سد معاك لباب
+ma tnsach tfi do,don't forget to turn off the lights,ما تنساش تطفي دو
+had lhey fih sda3,this neighborhood is noisy ,هاد لهي فيه سداع
+khasni chi blasa calm,i need a calm place,خاسني شي بلاسا كالم
+khasni n9ad chi tamarin,i need to do some excerices,خاسني ناد شي تامارين
 mathawal th9ed,,ماتهاوال تهقد
-b3d 3la lmachakil,,بعد علا لماشاكيل
-rad liya dakchi li slaftk,,راد لييا داكشي لي سلافتك
-chba3ti wla la?,,شباعتي ولا لا?
-l3cha wajd,,لعشا واجد
-wjdo raskom,,وجدو راسكوم
-chkon chfer liya sak dyali,,شكون شفر لييا ساك ديالي
-maghadich nsmeh lik,,ماغاديش نسمه ليك
-tsna nmchi m3ak,,تسنا نمشي معاك
-li 3ndi 9lto lik,,لي عندي قلتو ليك
-makayn chi hel akhor,,ماكاين شي هل أخور
-knstmt3 bwa9t hna,,كنستمتع بواقت هنا
-3jbatk lblasa?,,عجباتك لبلاسا?
-khsni nkhdem,,خسني نخدم
-malk katkhmam?,,مالك كاتخمام?
-wash fih lapisin?,,واسه فيه لاپيسين?
-matkhla3,,ماتخلاع
-kolchi ghadi ydoz mzyan,,كولشي غادي يدوز مزيان
-matkonch khwaf,,ماتكونش خواف
-kaybda ghda,,كايبدا غدا
-ghadi ysali lyoma,,غادي يسالي ليوما
-khasna nkhtasro tri9,,خاسنا نختاسرو تريق
-wash mtaf9in?,,واسه متافقين?
-wsalni lmahta,,وسالني لماهتا
-red liya sarf,,رد لييا سارف
-khod hadi cado,,خود هادي كادو
-imta 3id milad dyalk?,,إمتا عيد ميلاد ديالك?
-ach kay3jbk takol?,,أش كايعجبك تاكول?
-ghdai njib lik chi haja zwina,,غداي نجيب ليك شي حاجة زوينا
-wach kat9lab 3liya?,,واش كاتقلاب علييا?
-matdiha fih,,ماتديها فيه
-hadchi lidrti zwin,,هادشي ليدرتي زوين
-knt 3arf hadchi,,كنت عارف هادشي
-knt 3arf hadchi ghdai yw9a3,,كنت عارف هادشي غداي يوقاع
-mhtaj chi wahd ywasalni,,مهتاج شي واهد يواسالني
-chof ach 9adit,,شوف أش قاديت
-hadchi li 9aditi zwin,,هادشي لي قاديتي زوين
-fina hiya djakita dyali,,فينا هييا دجاكيتا ديالي
-mli tkhrej sed m3ak lbab,,ملي تخرج سد معاك لباب
-matnsa tfi do,,ماتنسا تفي دو
-had lhey fih sda3,,هاد لهي فيه سداع
-khasni chi blasa calm,,خاسني شي بلاسا كالم
-khasni nad chi tamarin,,خاسني ناد شي تامارين
+kass dyal attay darorri bach ndba nhari, a cup of tea is necessary to start my day, كاس ديال أتاي ضروري باش نبد نهاري
+
+kayban wa3r mn bra,,كايبان واعر من برا
+ghir lyoma li ftah,,غير ليوما لي فتاه
+kn9lab 3la lmahta,,كنقلاب علا لماهتا
+kn9ri,,كنقري
+kn9ra,,كنقرا
+mafrask walo?,,مافراسك والو?
+mzyan mli drti haka,,مزيان ملي درتي هاكا
+bla matsda3 rask,,بلا ماتسداع راسك
