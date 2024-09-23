@@ -746,7 +746,7 @@ momkin nkmi hna?, can i smoke here?, مومكين نكمي هنا؟
 mmno3 tkmi hna, it’s prohibited to smoke here, المنوع تكمي هنا
 kayn chi snack hnaya?, is there a snack bar here?, كاين شي سناكك هنايا؟
 bghit nmsah had smiya, I want to erase this name, بغيت نمساه هاد سمييا
-ken ghsal lma3n daba, I’m washing the dishes now, كانغسال لماعن دابا
+kenghsal lma3n daba, I’m washing the dishes now, كانغسال لماعن دابا
 ma3rft, i don't know, ماعرفت
 3ziza 3liy had lblasa, this place is dear to me, عزيزا عليا هاد البلاصة
 fin mchat?, where did she go?, فين مشات؟
@@ -778,12 +778,12 @@ bghit wahd ticket, i want one ticket, بغيت واحد تيكيت
 khasni nwsal bzerba, i need to arrive quickly, خاصني نوصل بزربة
 darori nkon tama 9bl lwa9t, i must be there before the time, داروري نكون تما قبل الوقت
 khasna nmcho sbah bkri, we need to go early in the morning, خاصنا نمشيوا الصباح بكري
-kan3s m3a l3achra, i sleep at ten, كانعس مع العشرة
+ken3s m3a l3achra, i sleep at ten, كانعس مع العشرة
 momkin n3rf ach bghiti?, can I know what you want?, ممكن نعرف أش بغيتي؟
 fin kaychdo taxi?, where do they catch a taxi?, فين كايشدو التاكسي؟
 fin momkin nl9a taxi sghir?, where can I find a small taxi?, فين ممكن نلقى تاكسي صغيرة؟
 3ziza 3lik lmosi9a?, are you fond of music?, عزيزا عليك الموسيقى؟
-ma kan tsanatch lmosi9a, i dont listen to music, ما كن تساناتش الموسيقى
+ma kentsanatch lmosi9a, i dont listen to music, ما كن تساناتش الموسيقى
 achmn no3 libghiti?, what type do you want?, أشمن نوع لي بغيتي؟
 achmn lon li 3ajbk, what color did you like?, أشمن لون عاجبك؟
 kaynin bzzaf dyal anwa3, there are many types, كاينين بزاف ديال أنواع
@@ -837,9 +837,9 @@ chriti lbanan lbar7 wla la?, did you buy bananas yesterday or not?, شريتي �
 3andi firma dyal lbanan, i own a banana farm, عندي فيرمة ديال البنان
 ma ki 3jebnich hadak lbanan li rteb bzzaf, i don’t like bananas that are too ripe, ما كي عجبنيش هاداك البنان اللي رطب بزاف
 Bghit ndir tarte b lbanan chno ghan ne7taj?, i want to make a banana tart what do i need?, بغيت ندير تارت ب البنان شنو غانحتاج؟
-kent ken krah lbanan, i used to hate bananas, كنت  كن كره البنان
+kent kenkrah lbanan, i used to hate bananas, كنت  كن كره البنان
 ki 3jebni lbanan, I like bananas, كي عجبني البنان
-ma ken 7lmech lmada9 dyal lbanan, i hate the taste of bananas, ما كنحلمش المذاق ديال البنان
+ma ken7lmech lmada9 dyal lbanan, i hate the taste of bananas, ما كنحلمش المذاق ديال البنان
 
 kayn 3ndk l7lib?,do you have milk?,كاين عندك لحليب?
 kayna 3ndk monada?,do you have soda?,كاينا عندك مونادا?
@@ -946,7 +946,7 @@ blati n3awnk,wait i will help you,بالتي نعاونك
 khloh ymchi,let him go,خلوه يمشي
 chkon had siyed?,who is this gentleman,شكون هاد سيد?
 mafhamtch mazal,i still dont understand,مافهامتش مزال
-kankrah chi haja bhal haka,i have things like this,كانكراه شي حاجة بهال هاكا
+kenkrah chi haja bhal haka,i have things like this,كانكراه شي حاجة بهال هاكا
 hadchi kaymaradni,this sickens me,هادشي كايمارادني
 hadchi lighadi ndir,this is what i will do,هادشي ليغادي ندير
 wach 9adr dirha?,you can do it?,واسه قادر ديرها
@@ -980,7 +980,7 @@ kat3rf tsog?,do you know how to drive?,كاتعرف تسوڭ?
 khask tcharak,you need to participate,خاسك تشاراك
 sift liya ra9m dyalk,send me your number,سيفت لييا راقم ديالك
 imta ghadi tkharaj?,when you will graduate?,إمتا غادي تخاراج?
-kan9ra fljami3a,i study in the university,كانقرا فلجاميعا
+ken9ra fljami3a,i study in the university,كانقرا فلجاميعا
 kay9olo ghadi ysdo ghda,they say they will close tomorrow,كايقولو غادي يسدو غدا
 maghadich ntkhla 3lik,i wont leave you,ماغاديش نتخلا عليك
 hadchi machi m39oul,this is not reasonable,هادشي ماشي معقول
@@ -991,7 +991,7 @@ chkon ghadi ykhalas?,who is paying?,شكون غادي يخالاس?
 mostahil tarba7,impossible to win,موستاهيل تارباه
 ghadi nkhalas,,غادي نخالاس
 ach katakl?,what are you eating?,أش كاتاكل?
-kanakl,i'm eating,كاناكل
+kenakl,i'm eating,كاناكل
 knchreb,i'm drinking,كنشرب
 knrsem,i'm drawing,كنرسم
 knlouwen, i'm painting, كنلون
@@ -1026,11 +1026,11 @@ wsalna ghir lyoma,we arrived just today,وسالنا غير ليوما
 machi hadchi libghit,this is not what i want,ماشي هادشي ليبغيت
 wash 39alti 3liya,do you remember me,واسه عقالتي علييا
 hawal dekar bzyan,try to remember well,هاوال داكار زيان
-kan fdal n3ichi f lbadiya,i prefer to live in the countryside,كانفدال نعيشي فلباديا
-kan fdal n3ich f l3robiya, i prefer to live in the countryside, كان فضل نعيش ف العروبية
-makanhmalch lmdina,i hate the city,ماكانهمال لمدينا
+kenfdal n3ichi f lbadiya,i prefer to live in the countryside,كانفدال نعيشي فلباديا
+kenfdal n3ich f l3robiya, i prefer to live in the countryside, كان فضل نعيش ف العروبية
+makenhmalch lmdina,i hate the city,ماكانهمال لمدينا
 bghitk tkon mrta7,i want you to be comfortable,بغيتك تكون مرتاه
-kankrh had lhwayj,i hate these clothes,كانكره هاد لحوايج
+kenkrh had lhwayj,i hate these clothes,كانكره هاد لحوايج
 fker flmosta9bal,think of the future,فكر فلموستاقبل
 fker f mosta9balk,think of your future,فكر فلموستاقبلك
 fker f mosta9balna, think of our future, فكر فمستقبلنا
@@ -1070,7 +1070,7 @@ ket 3jbek had lbasa?, do you like this place?, كتعجبك هاد اللبصة�
 ket 3jbek lbasa?, do you like the place?, كتعجبك اللبصة؟
 3jbatk lblasa lli writlek?, did you like the place i showed you?, عجباتك لبلاصة اللي وريت لك؟
 3ajbouk had lblais li writlek?, did you like the places i showed you?, عجبوك هاد البلايص لي وريتلك؟
-3ajbouk had lblais li ken wrik?, do you like these places i'm showing you? عجبوك هاد البلايص لي كان وريك؟
+3ajbouk had lblais li kenwrik?, do you like these places i'm showing you? عجبوك هاد البلايص لي كان وريك؟
 ki jatk had lbasa?, how did you find this place? كي جاتك هاد اللبصة؟
 ki jawk had lblais?, how did you find these places?, كي جاوك هاد البلايص؟
 kifach jatk had lbasa?, how did you find this place?, كيفاش جاتك هاد اللبصة؟
@@ -1101,7 +1101,7 @@ ket 3jbek had dar?, do you like this house?, كتعجبك هاد الدار؟
 ket 3jbek dar?, do you like the house?, كتعجبك الدار؟
 3jbatk dar lli writlek?, did you like the house i showed you?, عجباتك الدار اللي وريت لك؟
 3ajbouk had diour li writlek?, did you like the houses i showed you?, عجبوك هاد الديور  لي وريتلك؟
-3ajbouk had diour li ken wrik?, do you like these houses i'm showing you? عجبوك هاد الديور  لي كان وريك؟
+3ajbouk had diour li kenwrik?, do you like these houses i'm showing you? عجبوك هاد الديور  لي كان وريك؟
 ki jatk had dar?, how did you find this house?, كي جاتك هاد الدار؟
 ki jawk had diour ?, how did you find these houses?, كي جاوك هاد الديور ؟
 kifach jatk had dar?, how did you find this house?, كيفاش جاتك هاد الدار؟
@@ -1317,9 +1317,41 @@ ma3mrk darbo 3awtani, never hit him again, ما عمرك دابري عوتاني
 machi ana li dert dekchi, it wasn’t me who did that, ماشي أنا لي ديرت داكشي
 wa fin, what's up, و فين
 bzouj bihom mezyanin, both of them are good, بزوج بهم مزيانين
+kn9ri,i teach,كنقري
+kn9ra,i study,كنقرا
+bla metsewlni 3la hadchi, don't ask me about this, بل تسولنيش على هادشي
+ma3ndich chi fikra 3lach hadchi w9a3, I have no idea why this happened, ماعنديش شي فكرة علاش هادشي وقع
+ghda ghan bda lkhadma, tomorrow I will start work, غدا غنبدا الخدمة
+ana ghadi ldar, i'm going home, أنا غادي للدار
+jma3 frachek, make your bed, جمع فراشك
+na9i had lbasa, clean this place, نقي هاد اللبسة
+nadlk l moustache, your moustache grew, نعدلّك الشارب
+nadtlk la7ya, your beard grew, نعدلّك اللحية
+khasani wa7d l3ayba, i need a thing, خاصني واحد العيبة
+kenfakr f chi 7aja, i was thinking of something, كنت نفكر فشي حاجة
+achmen film hadak?, what movie is that?, شمن فيلم هداك
+7yati kamla w ana kanki ts7ab liya beli dyab 9add lklab, my whole life I thought wolves were the size of dogs, حياتي كاملة وأنا كان كيتساب ليا باللي الذياب قد الكلاب
+khasni n9ol chi haja?, Do I need to say something?, خاصني نقول شي حاجة؟
+n9dar n9ol chi haja 9bel mn bedlo sujet?, can i say something before we change the subject?, نقدر نقول شي حاجة قبل ما نبداو سوجيت؟
+nbghi n3tik chi exemple, i want to give you an example, نبغي نعطيك شي مثال
+khlini nkeml haderti, let me finish what i was saying, خليني نكمل هضرتي
+3awtani 9at3tini?, you interrupted me again?, عاوتاني قطعتيني؟
+7na kamlin 3arfin lmouchkil, we all know the problem, حنا كاملين عارفين المشكل
+hahouwa lblan, this is the plan, ها هو البلان
+khasna ba3da nsaliw, we first need to finish, خاصنا بعدا نساليو
+baraka mn swalat, enough with the questions, براكا من السوالات
+baraka mn l2as2ila, enough with the questions, براكا من الأسئلة
+fina homa walidik, where are your parents?, فين هما واليديك؟
+wach darija logha wla lahja, is Darija a language or a dialect?, واش الداريجة لغة ولا لهجة؟
+bant liya wa7d ljouta lhih, i saw a corpse there, بان ليا واحد الجوتة لحية
+ana meghribi 3aych f europa, i'm moroccan living in europe, أنا مغربي عايش فأوروبا
+fin 3aych?, where do you live?, فين عايش؟
+f chmen mdina 3aych?, in which city do you live?, فشمن مدينة عايش؟
+wa7ed lmoutarachi7 li kanbaghi ydir m3ah interview lbezzaf d lwadhayef lmo7tama jal l interview f zoom labes pinwar, one candidate who wanted to do an interview with him for a variety of potential roles showed up to the Zoom interview wearing a bathrobe, واحد المترشح اللي كان باغي يدير معاه إنترفيو لبزاف ديال الوظائف المحتملة جا للإنترفيو فزوم لابس پينوار
 
 
 
+li ja ki souwl 3liya ana fin mtjawbohch
 basl ntaya,, بسّ لنتا
 baraka mn lbsala,, بركة من البسالة
 bsbabk daba ghadin bdaw mn bda ou jdid
@@ -1327,8 +1359,6 @@ mathawal th9ed,,ماتهاوال تهقد
 kayban wa3r mn bra,,كايبان واعر من برا
 ghir lyoma li ftah,,غير ليوما لي فتاه
 kn9lab 3la lmahta,,كنقلاب علا لماهتا
-kn9ri,,كنقري
-kn9ra,,كنقرا
 mafrask walo?,,مافراسك والو?
 mzyan mli drti haka,,مزيان ملي درتي هاكا
 bla matsda3 rask,,بلا ماتسداع راسك
