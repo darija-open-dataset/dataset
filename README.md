@@ -19,7 +19,10 @@ While we have made significant progress in compiling and organizing the dataset,
 [Check out this introductory video about DODa.](https://www.youtube.com/watch?v=IZWuEy7yLB0)
 ---
 ## How to contribute
-[We've made a detailed video for you on how to contribute](https://www.youtube.com/watch?v=gyuTSJgux4s&ab_channel=DODa)
+
+You're free to navigate straight to the [AtlasIA](https://atlasia.ma) interface and start your contributions 🔥🔥.
+
+Otherwise, if you prefer using dev tools, we've made a [detailed video](https://www.youtube.com/watch?v=gyuTSJgux4s&ab_channel=DODa) for you on how to contribute
 
 TL;DW (Too Long Didn't Watch):
 1. Go to [Issues](https://github.com/darija-open-dataset/dataset/issues)
@@ -129,6 +132,17 @@ For further details, visit the [official Pydoda GitHub repository](https://githu
 - **Commercial Use**: For commercial purposes or any other usage not covered by the [open-source license](https://github.com/darija-open-dataset/dataset/blob/main/LICENSE), please contact the copyright holders Aissam or Hamza to discuss licensing options and permissions.
 
 ## Citation
+```
+@misc{outchakoucht2024evolution,
+      title={The Evolution of Darija Open Dataset: Introducing Version 2}, 
+      author={Aissam Outchakoucht and Hamza Es-Samaali},
+      year={2024},
+      eprint={2405.13016},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 ```
 @misc{outchakoucht2021moroccan,
       title={Moroccan Dialect -Darija- Open Dataset},
