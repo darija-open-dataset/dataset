@@ -3,8 +3,6 @@ name: Update Dashboard
 on:
   push:
     branches: [main]
-    paths:
-      - 'ongoing/*.csv'
   workflow_dispatch:
 
 jobs:
