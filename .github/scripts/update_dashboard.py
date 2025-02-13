@@ -17,7 +17,8 @@ class StatDict(TypedDict):
 
 FILE_BAR_WIDTH: int = 20
 GLOBAL_BAR_WIDTH: int = 30
-BROKEN_FILES: List[str] = ['ongoing/40.csv', 'ongoing/41.csv']
+BROKEN_FILES: List[str] = ['ongoing/40.csv',
+                           'ongoing/41.csv', 'ongoing/44.csv', 'ongoing/46.csv']
 
 
 def generate_progress_bar(percentage: float, width: int) -> str:
