@@ -30,7 +30,21 @@ jobs:
       - name: Update Dashboard
         run: python .github/scripts/update_dashboard.py
         
+      # Add step to check if only dashboard.md was changed
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git add dashboard.md
+          CHANGES=$(git diff --staged --name-only)
+          if [ "$CHANGES" == "dashboard.md" ]; then
+            echo "only_dashboard=true" >> $GITHUB_OUTPUT
+          else
+            echo "only_dashboard=false" >> $GITHUB_OUTPUT
+          fi
+
+      # Only create PR if there are other changes besides dashboard.md
       - name: Create Pull Request
+        if: steps.check_changes.outputs.only_dashboard == 'false'
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: Update translation dashboard
@@ -43,3 +57,12 @@ jobs:
           branch: update-dashboard
           base: main
           delete-branch: true
+
+      # Commit directly to main if only dashboard.md changed
+      - name: Commit dashboard update
+        if: steps.check_changes.outputs.only_dashboard == 'true'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git commit -m "Update dashboard [skip ci]"
+          git push
