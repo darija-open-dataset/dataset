@@ -2,17 +2,17 @@
 
 ## Global progress
 
-[□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□] 2.6%
+[□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□] 2.9%
 
 - Total sentences: 39,412
-- Translated sentences: 1,014
+- Translated sentences: 1,149
 
 ## Progress by file
 
 | File | Progress bar | Translated | Progress |
 |------|-------------|------------|----------|
 | 05.csv | [■■■■■■■■□□□□□□□□□□□□] 40.0% | 400/1,000 | 40.0% |
-| 62.csv | [■■■■■□□□□□□□□□□□□□□□] 26.1% | 261/1,000 | 26.1% |
+| 62.csv | [■■■■■■■□□□□□□□□□□□□□] 39.6% | 396/1,000 | 39.6% |
 | 73.csv | [■■□□□□□□□□□□□□□□□□□□] 13.8% | 138/1,000 | 13.8% |
 | 71.csv | [■■□□□□□□□□□□□□□□□□□□] 12.2% | 122/1,000 | 12.2% |
 | 21.csv | [■□□□□□□□□□□□□□□□□□□□] 9.3% | 93/1,000 | 9.3% |
@@ -55,20 +55,20 @@
 
 | Contributor | Contributions |
 |------------|---------------|
+| Imad Saddik | 19 |
 | YahyAxis | 17 |
-| Imad Saddik | 12 |
 | femal.eprog | 8 |
 | TeleYosh | 7 |
 | aissam | 6 |
 | Omar Temsamani | 4 |
 | Boogey | 4 |
 | Badr EL KHIRI | 3 |
-| aissam-out | 2 |
 | zakarm | 2 |
 | DODa | 2 |
 | Marwa EL KAMIL | 2 |
 | HaoES | 2 |
+| aissam-out | 1 |
 | asmachkirida | 1 |
 | Hamza | 1 |
 
-Last updated: 23/02/2025 10:21:48
+Last updated: 08/03/2025 21:50:53
