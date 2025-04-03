@@ -5,13 +5,13 @@
 [□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□] 2.9%
 
 - Total sentences: 39,412
-- Translated sentences: 1,149
+- Translated sentences: 1,150
 
 ## Progress by file
 
 | File | Progress bar | Translated | Progress |
 |------|-------------|------------|----------|
-| 05.csv | [■■■■■■■■□□□□□□□□□□□□] 40.0% | 400/1,000 | 40.0% |
+| 05.csv | [■■■■■■■■□□□□□□□□□□□□] 40.1% | 401/1,000 | 40.1% |
 | 62.csv | [■■■■■■■□□□□□□□□□□□□□] 39.6% | 396/1,000 | 39.6% |
 | 73.csv | [■■□□□□□□□□□□□□□□□□□□] 13.8% | 138/1,000 | 13.8% |
 | 71.csv | [■■□□□□□□□□□□□□□□□□□□] 12.2% | 122/1,000 | 12.2% |
@@ -63,12 +63,12 @@
 | Omar Temsamani | 4 |
 | Boogey | 4 |
 | Badr EL KHIRI | 3 |
+| aissam-out | 2 |
 | zakarm | 2 |
 | DODa | 2 |
 | Marwa EL KAMIL | 2 |
 | HaoES | 2 |
-| aissam-out | 1 |
 | asmachkirida | 1 |
 | Hamza | 1 |
 
-Last updated: 08/03/2025 21:50:53
+Last updated: 03/04/2025 10:38:32
