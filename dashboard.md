@@ -62,8 +62,8 @@
 | aissam | 6 |
 | Omar Temsamani | 4 |
 | Boogey | 4 |
+| aissam-out | 3 |
 | Badr EL KHIRI | 3 |
-| aissam-out | 2 |
 | zakarm | 2 |
 | DODa | 2 |
 | Marwa EL KAMIL | 2 |
@@ -71,4 +71,4 @@
 | asmachkirida | 1 |
 | Hamza | 1 |
 
-Last updated: 03/04/2025 10:38:32
+Last updated: 03/04/2025 11:14:05
