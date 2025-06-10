@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AtlasIA - Darija Translation Editor</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+            background-color: #fafafa;
+            color: #333;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        .header {
+            background: white;
+            border-bottom: 1px solid #e5e5e5;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px 40px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #333;
+        }
+
+        .about-link {
+            color: #666;
+            text-decoration: none;
+            font-size: 0.95rem;
+            transition: color 0.2s ease;
+        }
+
+        .about-link:hover {
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 60px 40px;
+        }
+
+        .hero-section {
+            text-align: center;
+            margin-bottom: 80px;
+        }
+
+        .hero-title {
+            font-size: 2.5rem;
+            font-weight: 400;
+            color: #333;
+            margin-bottom: 30px;
+            letter-spacing: -0.5px;
+        }
+
+        .hero-description {
+            font-size: 1.1rem;
+            color: #666;
+            max-width: 700px;
+            margin: 0 auto 40px;
+            line-height: 1.7;
+        }
+
+        .divider {
+            width: 80px;
+            height: 3px;
+            background: #333;
+            margin: 0 auto 40px;
+        }
+
+        .controls-section {
+            background: white;
+            border: 1px solid #e5e5e5;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 40px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        }
+
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .file-selector {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .file-selector label {
+            font-weight: 500;
+            color: #333;
+            font-size: 0.95rem;
+        }
+
+        .file-selector-wrapper {
+            position: relative;
+            display: inline-block;
+        }
+
+        .file-input {
+            position: absolute;
+            opacity: 0;
+            width: 100%;
+            height: 100%;
+            cursor: pointer;
+        }
+
+        .file-input-display {
+            padding: 10px 16px;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            background: white;
+            color: #333;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: inline-block;
+            min-width: 200px;
+        }
+
+        .file-input-display:hover {
+            border-color: #9ca3af;
+        }
+
+        .file-selector-wrapper:focus-within .file-input-display {
+            border-color: #333;
+            box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.1);
+        }
+
+        .navigation {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .nav-button {
+            padding: 10px 20px;
+            background: #333;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 500;
+            font-size: 0.9rem;
+            transition: all 0.2s ease;
+        }
+
+        .nav-button:hover:not(:disabled) {
+            background: #111;
+        }
+
+        .nav-button:disabled {
+            background: #d1d5db;
+            cursor: not-allowed;
+        }
+
+        .counter {
+            background: #f9fafb;
+            padding: 8px 16px;
+            border-radius: 6px;
+            font-weight: 500;
+            color: #374151;
+            border: 1px solid #e5e7eb;
+            font-size: 0.9rem;
+        }
+
+        .section-title {
+            font-size: 1.8rem;
+            font-weight: 400;
+            color: #333;
+            text-align: center;
+            margin-bottom: 20px;
+            letter-spacing: -0.3px;
+        }
+
+        .section-subtitle {
+            color: #666;
+            text-align: center;
+            margin-bottom: 50px;
+            font-size: 1rem;
+            line-height: 1.6;
+        }
+
+        .editor-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 50px;
+        }
+
+        .text-card {
+            background: white;
+            border: 1px solid #e5e5e5;
+            border-radius: 12px;
+            padding: 30px;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+            position: relative;
+        }
+
+        .text-card:hover {
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+            transform: translateY(-2px);
+        }
+
+        .text-card.active {
+            border-color: #333;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+            transform: translateY(-2px);
+        }
+
+        .text-card.active::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: #333;
+            border-radius: 12px 12px 0 0;
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .card-title {
+            font-size: 1.2rem;
+            font-weight: 500;
+            color: #333;
+        }
+
+        .keyboard-hint {
+            background: #f3f4f6;
+            color: #374151;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            border: 1px solid #d1d5db;
+        }
+
+        .text-area {
+            width: 100%;
+            min-height: 120px;
+            border: 1px solid #d1d5db;
+            border-radius: 8px;
+            padding: 16px;
+            font-size: 0.95rem;
+            font-family: inherit;
+            resize: vertical;
+            transition: all 0.2s ease;
+            background: #fafbfc;
+            line-height: 1.5;
+        }
+
+        .text-area:focus {
+            outline: none;
+            border-color: #333;
+            background: white;
+            box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.1);
+        }
+
+        .text-card[data-lang="arabic"] .text-area {
+            direction: rtl;
+            text-align: right;
+            font-family: 'Tahoma', 'Arial', sans-serif;
+        }
+
+        .actions-section {
+            text-align: center;
+        }
+
+        .actions {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        .action-button {
+            padding: 12px 24px;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-size: 0.95rem;
+            background: white;
+            color: #374151;
+        }
+
+        .action-button.primary {
+            background: #333;
+            color: white;
+            border-color: #333;
+        }
+
+        .action-button:hover {
+            border-color: #9ca3af;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .action-button.primary:hover {
+            background: #111;
+            border-color: #111;
+        }
+
+        .status {
+            max-width: 500px;
+            margin: 20px auto;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-weight: 500;
+            text-align: center;
+            font-size: 0.9rem;
+            transition: all 0.3s ease;
+        }
+
+        .status.success {
+            background: #f0fdf4;
+            color: #166534;
+            border: 1px solid #bbf7d0;
+        }
+
+        .status.error {
+            background: #fef2f2;
+            color: #dc2626;
+            border: 1px solid #fecaca;
+        }
+
+        .status.loading {
+            background: #f8fafc;
+            color: #475569;
+            border: 1px solid #e2e8f0;
+        }
+
+        .help-section {
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 12px;
+            padding: 30px;
+            margin-top: 40px;
+        }
+
+        .help-title {
+            font-size: 1.1rem;
+            font-weight: 500;
+            color: #333;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+
+        .help-content {
+            color: #666;
+            text-align: center;
+            font-size: 0.9rem;
+            line-height: 1.6;
+        }
+
+        .help-shortcuts {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 15px;
+            flex-wrap: wrap;
+        }
+
+        .shortcut {
+            background: white;
+            padding: 6px 12px;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            border: 1px solid #e5e7eb;
+            color: #374151;
+        }
+
+        @media (max-width: 768px) {
+            .header-content {
+                padding: 15px 20px;
+            }
+            
+            .container {
+                padding: 40px 20px;
+            }
+            
+            .hero-title {
+                font-size: 2rem;
+            }
+            
+            .editor-container {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+            
+            .controls {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .navigation {
+                justify-content: center;
+            }
+            
+            .help-shortcuts {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .fade-in {
+            animation: fadeIn 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">AtlasIA</div>
+            <a href="#" class="about-link">About AtlasIA</a>
+        </div>
+    </header>
+
+    <div class="container">
+        
+        <div class="controls-section">
+            
+            <div class="controls">
+                <div class="file-selector">
+                    <label for="fileInput">Choose CSV File:</label>
+                    <div class="file-selector-wrapper">
+                        <input type="file" id="fileInput" class="file-input" accept=".csv">
+                        <div class="file-input-display" id="fileDisplay">ongoing/</div>
+                    </div>
+                </div>
+                
+                <div class="navigation">
+                    <button class="nav-button" id="prevBtn" disabled>← Previous</button>
+                    <div class="counter" id="counter">0 / 0</div>
+                    <button class="nav-button" id="nextBtn" disabled>Next →</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="editor-section">
+            
+
+            <div class="editor-container">
+                <div class="text-card active" data-lang="darija">
+                    <div class="card-header">
+                        <h3 class="card-title">Darija (Latin)</h3>
+                        <span class="keyboard-hint">J</span>
+                    </div>
+                    <textarea id="darijaText" class="text-area" placeholder="Enter Darija text in Latin script..."></textarea>
+                </div>
+                
+                <div class="text-card" data-lang="english">
+                    <div class="card-header">
+                        <h3 class="card-title">English</h3>
+                        <span class="keyboard-hint">K</span>
+                    </div>
+                    <textarea id="englishText" class="text-area" placeholder="Enter English translation..."></textarea>
+                </div>
+                
+                <div class="text-card" data-lang="arabic">
+                    <div class="card-header">
+                        <h3 class="card-title">Darija (Arabic)</h3>
+                        <span class="keyboard-hint">L</span>
+                    </div>
+                    <textarea id="arabicText" class="text-area" placeholder="أدخل النص بالعربية..." dir="rtl"></textarea>
+                </div>
+            </div>
+        </div>
+
+        <div class="actions-section">
+            <div class="actions">
+                <button class="action-button primary" id="saveBtn">Download File</button>
+            </div>
+
+            <div class="status" id="status" style="display: none;"></div>
+        </div>
+
+        <div class="help-section">
+            <h3 class="help-title">Keyboard Shortcuts</h3>
+            <p class="help-content">
+                Press ESC first to activate shortcuts, then use these keys to navigate and edit efficiently
+            </p>
+            <div class="help-shortcuts">
+                <span class="shortcut">ESC - Activate shortcuts</span>
+                <span class="shortcut">J - Darija Latin</span>
+                <span class="shortcut">K - English</span>
+                <span class="shortcut">L - Darija Arabic</span>
+                <span class="shortcut">← → Navigate</span>
+                <span class="shortcut">S - Save</span>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        class CSVEditor {
+            constructor() {
+                this.csvData = [];
+                this.currentIndex = 0;
+                this.currentFile = null;
+                this.files = [];
+                this.activeField = 'darija';
+                this.shortcutsEnabled = false;
+                this.initializeElements();
+                this.bindEvents();
+            }
+
+            initializeElements() {
+                this.fileInput = document.getElementById('fileInput');
+                this.fileDisplay = document.getElementById('fileDisplay');
+                this.darijaText = document.getElementById('darijaText');
+                this.englishText = document.getElementById('englishText');
+                this.arabicText = document.getElementById('arabicText');
+                this.prevBtn = document.getElementById('prevBtn');
+                this.nextBtn = document.getElementById('nextBtn');
+                this.saveBtn = document.getElementById('saveBtn');
+                this.counter = document.getElementById('counter');
+                this.status = document.getElementById('status');
+                
+                this.textCards = document.querySelectorAll('.text-card');
+                this.textAreas = [this.darijaText, this.englishText, this.arabicText];
+            }
+
+            bindEvents() {
+                this.fileInput.addEventListener('change', (e) => this.handleFileSelect(e));
+                this.prevBtn.addEventListener('click', () => this.previousEntry());
+                this.nextBtn.addEventListener('click', () => this.nextEntry());
+                this.saveBtn.addEventListener('click', () => this.downloadCSV());
+
+                // Keyboard shortcuts
+                document.addEventListener('keydown', (e) => this.handleKeydown(e));
+
+                // Focus events for text areas
+                this.textAreas.forEach((textarea, index) => {
+                    textarea.addEventListener('focus', () => {
+                        this.setActiveField(index);
+                        this.shortcutsEnabled = false; // Disable shortcuts when in text area
+                    });
+                });
+
+                // Update file display
+                this.fileInput.addEventListener('change', () => {
+                    const files = this.fileInput.files;
+                    if (files.length > 0) {
+                        this.fileDisplay.textContent = `ongoing/${files[0].name} `;
+                    } else {
+                        this.fileDisplay.textContent = 'ongoing/';
+                    }
+                });
+            }
+
+            handleKeydown(e) {
+                // Handle ESC to enable shortcuts
+                if (e.key === 'Escape') {
+                    e.preventDefault();
+                    this.shortcutsEnabled = true;
+                    document.activeElement.blur(); // Remove focus from any input
+                    this.showStatus('Shortcuts activated - use J/K/L to navigate fields', 'success');
+                    return;
+                }
+
+                // Only process shortcuts if they are enabled
+                if (!this.shortcutsEnabled) return;
+
+                switch(e.key.toLowerCase()) {
+                    case 'j':
+                        e.preventDefault();
+                        this.setActiveField(0);
+                        this.darijaText.focus();
+                        this.shortcutsEnabled = false;
+                        break;
+                    case 'k':
+                        e.preventDefault();
+                        this.setActiveField(1);
+                        this.englishText.focus();
+                        this.shortcutsEnabled = false;
+                        break;
+                    case 'l':
+                        e.preventDefault();
+                        this.setActiveField(2);
+                        this.arabicText.focus();
+                        this.shortcutsEnabled = false;
+                        break;
+                    case 'arrowleft':
+                        e.preventDefault();
+                        this.previousEntry();
+                        break;
+                    case 'arrowright':
+                        e.preventDefault();
+                        this.nextEntry();
+                        break;
+                    case 's':
+                        e.preventDefault();
+                        this.downloadCSV();
+                        break;
+                }
+            }
+
+            setActiveField(index) {
+                this.textCards.forEach(card => card.classList.remove('active'));
+                this.textCards[index].classList.add('active');
+                this.activeField = ['darija', 'english', 'arabic'][index];
+            }
+
+            async handleFileSelect(e) {
+                const files = Array.from(e.target.files);
+                if (files.length === 0) return;
+
+                this.files = files;
+                this.currentFile = files[0];
+                
+                // Process first file
+                await this.loadFile(files[0]);
+            }
+
+            async loadFile(file) {
+                try {
+                    this.showStatus('Loading file...', 'loading');
+                    
+                    const text = await this.readFile(file);
+                    this.parseCSV(text);
+                    this.currentFile = file;
+                    this.currentIndex = 0;
+                    
+                    this.updateDisplay();
+                    this.updateNavigation();
+                    
+                    this.showStatus(`Loaded ${this.csvData.length} entries from ${file.name}`, 'success');
+                } catch (error) {
+                    this.showStatus(`Error loading file: ${error.message}`, 'error');
+                }
+            }
+
+            readFile(file) {
+                return new Promise((resolve, reject) => {
+                    const reader = new FileReader();
+                    reader.onload = e => resolve(e.target.result);
+                    reader.onerror = e => reject(new Error('Failed to read file'));
+                    reader.readAsText(file, 'utf-8');
+                });
+            }
+
+            parseCSV(text) {
+                const lines = text.split('\n').filter(line => line.trim());
+                
+                // Skip header if it exists
+                const startIndex = lines[0].includes('darija,eng,darija_ar') ? 1 : 0;
+                
+                this.csvData = lines.slice(startIndex).map(line => {
+                    // Simple CSV parsing - handles basic cases
+                    const parts = line.split(',');
+                    return {
+                        darija: (parts[0] || '').trim(),
+                        english: (parts[1] || '').trim(),
+                        arabic: (parts[2] || '').trim()
+                    };
+                }).filter(entry => entry.darija || entry.english || entry.arabic);
+            }
+
+            updateDisplay() {
+                if (this.csvData.length === 0) return;
+                
+                const entry = this.csvData[this.currentIndex];
+                this.darijaText.value = entry.darija;
+                this.englishText.value = entry.english;
+                this.arabicText.value = entry.arabic;
+
+                // Add fade-in animation
+                this.textCards.forEach(card => {
+                    card.classList.add('fade-in');
+                    setTimeout(() => card.classList.remove('fade-in'), 300);
+                });
+            }
+
+            updateNavigation() {
+                this.counter.textContent = `${this.currentIndex + 1} / ${this.csvData.length}`;
+                this.prevBtn.disabled = this.currentIndex === 0;
+                this.nextBtn.disabled = this.currentIndex === this.csvData.length - 1;
+            }
+
+            previousEntry() {
+                if (this.currentIndex > 0) {
+                    this.saveCurrentEntry();
+                    this.currentIndex--;
+                    this.updateDisplay();
+                    this.updateNavigation();
+                }
+            }
+
+            nextEntry() {
+                if (this.currentIndex < this.csvData.length - 1) {
+                    this.saveCurrentEntry();
+                    this.currentIndex++;
+                    this.updateDisplay();
+                    this.updateNavigation();
+                }
+            }
+
+            saveCurrentEntry() {
+                if (this.csvData.length === 0) return;
+                
+                this.csvData[this.currentIndex] = {
+                    darija: this.darijaText.value.trim(),
+                    english: this.englishText.value.trim(),
+                    arabic: this.arabicText.value.trim()
+                };
+                
+                this.showStatus('Entry saved successfully!', 'success');
+            }
+
+            async downloadCSV() {
+                if (!this.currentFile) {
+                    this.showStatus('No file selected', 'error');
+                    return;
+                }
+
+                try {
+                    // Create CSV content
+                    const header = 'darija,eng,darija_ar\n';
+                    const csvContent = header + this.csvData.map(entry => {
+                        return [
+                            this.escapeCSV(entry.darija),
+                            this.escapeCSV(entry.english),
+                            this.escapeCSV(entry.arabic)
+                        ].join(',');
+                    }).join('\n');
+
+                    // Create a Blob with the CSV content
+                    const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+                    
+                    // Create a download link
+                    const link = document.createElement('a');
+                    const url = URL.createObjectURL(blob);
+                    
+                    link.setAttribute('href', url);
+                    link.setAttribute('download', this.currentFile.name);
+                    link.style.visibility = 'hidden';
+                    
+                    document.body.appendChild(link);
+                    link.click();
+                    document.body.removeChild(link);
+                    URL.revokeObjectURL(url);
+                    
+                    this.showStatus('File saved successfully!', 'success');
+                } catch (error) {
+                    console.error('Error saving file:', error);
+                    this.showStatus('Error saving file: ' + error.message, 'error');
+                }
+            }
+
+            escapeCSV(text) {
+                if (!text) return '';
+                // If the text contains commas, quotes, or newlines, wrap it in quotes
+                if (text.includes(',') || text.includes('"') || text.includes('\n')) {
+                    // Double up any quotes
+                    return '"' + text.replace(/"/g, '""') + '"';
+                }
+                return text;
+            }
+
+            showStatus(message, type) {
+                this.status.textContent = message;
+                this.status.className = `status ${type}`;
+                this.status.style.display = 'block';
+                
+                if (type !== 'loading') {
+                    setTimeout(() => {
+                        this.status.style.display = 'none';
+                    }, 4000);
+                }
+            }
+        }
+
+        // Initialize the editor when the page loads
+        document.addEventListener('DOMContentLoaded', () => {
+            new CSVEditor();
+        });
+    </script>
+</body>
+</html>
