@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "recordings": {
+    "ongoing/04.csv": {
+      "2": {
+        "darija": "bnadam tma zrag",
+        "darijaAr": "",
+        "recordings": [
+          {
+            "id": "rec_1760181869887",
+            "userId": "078e739d",
+            "timestamp": "2025-10-11T11:24:29.887Z",
+            "path": "recordings/ongoing/04/line_0002/user_078e739d_2025-10-11T11-24-29.wav",
+            "duration": 2.502,
+            "annotator": {
+              "gender": "Male",
+              "ageRange": "26-35",
+              "region": "Casablanca-Settat",
+              "nativeRegion": "",
+              "dialect": ""
+            }
+          }
+        ]
+      }
+    }
+  }
+}
