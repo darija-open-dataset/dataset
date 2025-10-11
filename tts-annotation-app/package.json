@@ -1,0 +1,56 @@
+{
+  "name": "tts-annotation-app",
+  "version": "1.0.0",
+  "description": "Desktop app for annotating Darija sentences with audio recordings",
+  "main": "electron/main.cjs",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "electron:dev": "concurrently \"vite\" \"wait-on http://localhost:5173 && electron .\"",
+    "electron:build": "vite build && electron-builder",
+    "build:exe": "vite build && electron-builder --win portable"
+  },
+  "build": {
+    "appId": "com.dooda.tts-annotation",
+    "productName": "TTS Annotation Tool",
+    "directories": {
+      "output": "dist-electron"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "portable",
+          "arch": ["x64"]
+        }
+      ],
+      "icon": "public/icon.png"
+    },
+    "portable": {
+      "artifactName": "TTS-Annotation-Tool-Portable.exe"
+    }
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "uuid": "^10.0.0",
+    "papaparse": "^5.4.1",
+    "lucide-react": "^0.344.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.1.4",
+    "electron": "^29.0.1",
+    "electron-builder": "^24.13.3",
+    "concurrently": "^8.2.2",
+    "wait-on": "^7.2.0",
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.4.35",
+    "autoprefixer": "^10.4.17"
+  }
+}
