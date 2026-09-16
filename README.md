@@ -5,9 +5,9 @@
   <!--- credits to [https://www.freeflagicons.com/country/morocco/sphere_icon/download/] --->
 </p>
 
-Welcome to the Darija Open Dataset (DODa), an ambitious open-source project dedicated to the Moroccan dialect. With about 150,000 entries, DODa is arguably the largest open-source collaborative project for Darija <=> English translation built for Natural Language Processing purposes.
+Welcome to the Darija Open Dataset (DODa), an ambitious open-source project dedicated to the Moroccan dialect. With about 150,000 human entries, DODa is arguably the largest open-source collaborative project for Darija <=> English translation built for Natural Language Processing purposes.
 
-In fact, besides semantic categorization, DODa also adopts a syntactic one, presents words under different spellings, offers verb-to-noun and masculine-to-feminine correspondences, contains the conjugation of hundreds of verbs in different tenses, as well as more that 86,000 translated sentences.
+In fact, besides semantic categorization, DODa also adopts a syntactic one, presents words under different spellings, offers verb-to-noun and masculine-to-feminine correspondences, contains the conjugation of hundreds of verbs in different tenses, as well as about 49,000 reviewed translated sentences in `sentences/sentences.csv`. For machine translation training, we also release **DODa-500K**: a single combined parallel file with 500,350 rows (48,350 human + 452,000 synthetic), labeled so you can tell human and generated data apart.
 
 Additionally, DODa takes into account the diversity of Darija spellings used in various contexts, making it a versatile resource for language enthusiasts and NLP practitioners. The dataset includes entries written in both Latin and Arabic alphabets, reflecting the linguistic variations and preferences found in different sources and applications.
 
@@ -18,6 +18,23 @@ While we have made significant progress in compiling and organizing the dataset,
 ---
 [Check out this introductory video about DODa.](https://www.youtube.com/watch?v=IZWuEy7yLB0)
 ---
+## DODa-500K (combined parallel file)
+
+If you want one file for Darija ↔ English MT, use **DODa-500K**. It merges the reviewed human sentences from `sentences/sentences.csv` with a controlled synthetic expansion into a single downloadable file.
+
+| Portion | Rows | Filter |
+|---|---:|---|
+| Human | 48,350 | `generation_mode == "doda_human"` or `source == "doda"` |
+| Synthetic (DODa-grounded) | 226,000 | `generation_mode == "doda_grounded"` |
+| Synthetic (exploratory) | 226,000 | `generation_mode == "exploratory"` |
+| **Total** | **500,350** | — |
+
+Each row has Arabic-script Darija, Latin/Arabizi Darija, and English, plus provenance fields (`generation_mode`, `source`, and for synthetic rows also `register`, `domain`, `code_switch`).
+
+Synthetic rows are good quality model-generated sentences, they are **not** human-validated. Filter to `doda_human` when you need gold Darija only.
+
+The human lexicon, conjugations, `sentences/sentences.csv`, and `ongoing/` contribution files are unchanged. Do not add synthetic rows to those CSVs.
+
 ## How to contribute
 
 You're free to navigate straight to the [AtlasIA](https://atlasia.ma) interface and start your contributions 🔥🔥.
@@ -30,6 +47,7 @@ TL;DW (Too Long Didn't Watch):
 3. Fork the [Dataset Repository](https://github.com/darija-open-dataset/dataset)
 4. Translate and fix typos in the file corresponding to your assigned issue 
 5. Open a Pull Request 
+6. Do **not** edit DODa-500K / `doda-500k/` for contributions. New human translations go through Issues → `ongoing/` or `sentences/` as above.
 
 Thank you for your contribution!!!
 ---
@@ -93,10 +111,14 @@ because we generally don't use these letters in darija (except in northern Moroc
 
 13. `masculine_feminine_plural.csv`: If it does exist, feminine-plural translation column is for nouns. Regarding adjectives feminine-plural = feminine.
 
+14. Never mix synthetic / DODa-500K rows into `sentences/sentences.csv` or `ongoing/*.csv`. Those files stay human-only. The combined MT file lives separately under `doda-500k/` (and on Hugging Face).
+
 ## PyDODa - Python wrapper for the DODa
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 Pydoda is a comprehensive Python library that simplifies access and analysis of the DODa dataset. It enables effortless exploration of linguistic content for researchers, developers, and language enthusiasts by providing an intuitive interface for accessing various dataset categories, retrieving spellings and translations.
+
+Note: PyDODa wraps the **human** DODa CSVs (semantic, syntactic, sentences, etc.). It does not load DODa-500K. For the combined parallel file, download it from Hugging Face / `doda-500k/` and filter with `generation_mode` / `source`.
 
 Integrating Pydoda into your Python workflow grants access to a wide range of functionalities, facilitating insights extraction from the DODa dataset, including semantic and syntactic analysis, translation retrieval, spelling variations exploration, and more.
 
